@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html><head>
+  <title>Bioss</title> 
+
+  <meta name="description" content="Page du groupe de travail sur la
+				    biologie systémique symbolique">
+				    
+  <meta name="keywords" content="Modélisation symbolique de systèmes
+				 biologiques, Systèmes dynamiques
+				 discrets, Systèmes formels,
+				 Langages de modélisation,
+				 Sémantique, Vérification de
+				 modèles, Réduction, Prédiction
+				 sous incertitude, Inférences
+				 d'interactions et de règles,
+				 Systèmes hybrides">
+
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+  <link rel="stylesheet" type="text/css" href="../../style/style.css">
+</head>
+
+<body>,&nbsp;
+  <div id="main">
+    <div id="header">
+      <div id="logo">
+        <div id="logo_text">
+          <!-- class="logo_colour", allows you to change the colour of
+          the text -->
+          <h1><a href="index.html">
+	      <span class="logo_colour">Bioss</span>
+	  </a></h1>
+          <h2>Groupe de travail sur la biologie systémique symbolique</h2>
+        </div>
+      </div>
+      <div id="menubar">
+        <ul id="menu">
+          <!-- put class="selected" in the li tag for the selected
+          page - to highlight which page you're on -->
+          <li><a href="../../index.html">Accueil</a></li>
+          <li><a href="../../membres.html">Membres</a></li>
+          <li><a href="../../manif.html">Manifestations</a></li>
+          <li><a href="../../projets.html">Projets</a></li>
+          <li><a href="../../contact.html">Contacts</a></li>
+        </ul>
+      </div>
+    </div>
+
+    <div id="content_header"></div>
+
+    <div id="site_content">
+
+      <!-- <div id="banner"></div> -->
+
+      <div id="sidebar_container">
+        <div class="sidebar">
+          <div class="sidebar_top"></div>
+          <div class="sidebar_item"></div>
+          <div class="sidebar_base"></div>
+        </div>
+
+        <div class="sidebar">
+          <div class="sidebar_top"></div>
+          <div class="sidebar_item">
+            <h3>Liens utiles</h3>
+            <ul>
+              <li><a href="http://www.cnrs.fr/">
+		  <img src="../../img/logoCNRS.jpg" alt="CNRS"></a></li>
+              <li><a href="http://www.gdr-bim.cnrs.fr/">
+		  <img src="../../img/logoBIM.jpg" alt="GDR Bioinformatique 
+						  moléculaire"></a></li>
+              <li><a href="https://www.gdr-im.fr/">
+		  <img src="../../img/logoIM.jpg" alt="GDR Informatique 
+						  mathématique"></a></li>
+            </ul>
+          </div>
+          <div class="sidebar_base"></div>
+        </div>
+      </div>
+
+      <div id="content">
+        <!-- insert the page content here -->
+        <h1>Journées Bioss--Médecine-Personalisée</h1>
+	
+	<h3>Informations générales</h3> 
+	<p align="justify">
+	  <b>Date</b> : 1er journée et 2 juillet matin 2019
+	</p>
+	<p align="justify">
+	  <b>Lieu</b> : Salles A-B-C, Bâtiment 34, LS2N - Laboratoire des Sciences du Numérique de Nantes, Université de Nantes Faculté des Sciences et Techniques, 2 Chemin de la Houssinière, 44322 Nantes
+	</p>
+	
+	<p align="justify">
+	  <b>Organisatrice</b> : Carito GUZIOLOWSKI &nbsp;
+	</p>
+
+	<h4>Lundi 13 Mars</h4>
+	<p align="left">
+	  <b>09h00 - 09h25</b>  - <b>Accueil - Café</b><br>
+	  <i>Chairwoman: Anne Siegel</i><br>
+	  <b>09h25 - 09h30</b> -  Ovidiu Radulescu - <i>Introduction</i>.<br>
+	  <b>09h30 - 10h15</b> - <b>Conférencier invité</b> - Jakob Ruess
+	  - <i>Control of bio-digital systems in single cells.</i><br> 
+	  <b>10h20 - 10h35</b> - Ovidiu Radulescu - 
+	  <i>Time dependent multivariate distributions for
+	    piecewise-deterministic models of gene networks.</i> <a href="slides/Radulescu.pdf">slides</a><br>
+	  <b>10h40 - 10h55</b> - Stefano Casagranda - <i>Principal
+	  Process Analysis and reduction of biological models with order of
+	  magnitude.</i><br>  <a href="slides/Casagranda.pdf">slides</a>
+	  
+	  <b>11h00 - 11h30</b> - <b>Pause</b><br>
+	  <i>Chairman: Cédric Lhoussaine</i><br>
+	  <b>11h30 - 11h45</b> - Yves-Stan Le Cornec - <i>Le Projet Kami.</i>
+	  <br>
+	  <b>11h50 - 12h05</b> - Andreea Beica - <i>Synchronous balanced
+	  analysis.</i> <a href="slides/Beica.pdf">slides</a>i<br>
+
+	  <b>12h10 - 12h25</b> - François Fages - <i>Complexité
+	  algorithmique des calculs analogiques et compilation de fonctions
+	  mathématiques en réactions biochimiques élémentaires.</i><br><br>
+	  
+	  <b>12h30- 13h45 - Pause déjeuner</b><br><br>
+	  <i>Chairman: Ovidiu Radulescu</i><br>
+	  <b>13h45 - 14h30</b> - <b>Conférencier invité</b> - Thomas
+	  Sturm - <i>Symbolic Methods in Bifurcation Analysis.</i> <a href="slides/Sturm.pdf">slides</a><br> 
+	  <b>14h35 - 14h50</b> - Matthieu Pichene - <i>Predicting tumor growth
+	  using a statistical layered population abstraction.</i> <a href="slides/Pichene.pdf">slides</a><br>
+	  <b>14h55 - 15h10</b> - François Boulier - <i>Identifiabilité, équations
+	  intégro-différentielles et neurobiologie.</i> <a href="slides/Boulier.pdf">slides</a><br>
+
+	  <b>15h15 - 15h40</b> - <b>Pause</b><br>
+	  <i>Chairman: François Fages</i><br>
+	  <b>15h40 - 15h55</b> - Clémence Frioux - <i>Hybrid gap-filling to
+	  reconcile qualitative and quantitative abstractions of
+	  metabolism.</i><br>
+	  <b>16h00 - 16h15</b> - Emilie Allart - <i>Elementary modes refine abstract
+	  interpretation of reaction networks with partial kinetic
+	  information.</i><br> 
+	  <b>16h20 - 16h35</b>; Marie Beurton-Aimar - <i>How to display
+	  patterns inside elementary flux modes.</i><br>
+	  
+	  <b>16h40 - 17h00</b> - <b>Pause</b><br>
+	  <i>Chairman: Grégory Batt</i><br>
+	  <b>17h00 - 17h15</b> - Florian Bridoux - <i>On The Cost Of Simulating A
+	  Parallel Boolean Automata Networks By A Sequential One.</i><br>
+	  <b>17h20 - 17h35</b> - Aurélien Naldi - <i>Reversed logical models for the study of
+	  basins of attraction.</i><br> 
+	  <b>17h40 - 17h55</b> - Pierre Siegel - <i>Des logiques non-monotones aux
+	  systèmes dynamiques discrets (SDD).</i><br>
+	  <b>18h00 - 18h15</b> - Laurent Trilling - <i>Apport de la non
+	  monotonie pour la modélisation logique de réseuax de régulation
+	    génique.</i><br><br>
+
+	  <b>19h15</b> - Repas au
+	  Restaurant <a href="http://www.trinquefougasse.com/o-nord">Trinque
+	  Fougasse O'Nord</a> 1581 route de Mende (à 350m à pied du lieu de la
+	  conférence), formule 30€, vin et concert jazz compris. Il est encore
+	  possible de s’inscrire au repas!
+	</p>
+
+      </div>
+
+      <!-- <div id="banner"></div> -->
+
+    </div>
+
+    <div id="content_footer"></div>
+
+    <div id="footer">
+      <p><a href="../../index.html">Accueil</a>
+      | <a href="../../membres.html">Membres</a>
+      | <a href="../../manif.html">Manifestations</a>
+      | <a href="../../projets.html">Projets</a>
+      | <a href="../../contact.html">Contact</a></p>
+      <p><a href="http://validator.w3.org/check?uri=referer">HTML5</a>
+      | <a href="http://jigsaw.w3.org/css-validator/check/referer">CSS</a>
+      | <a href="http://www.html5webtemplates.co.uk">HTML5 Web
+      Templates</a></p>
+    </div>
+  </div>
+
+
+</body></html>
