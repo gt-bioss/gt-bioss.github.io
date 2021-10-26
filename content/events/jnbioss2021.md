@@ -9,7 +9,7 @@ categories: "Manifestations"
 
 **Date** : le 23 novembre 2021 de 9h00 à 17h00
 
-**Lieu** : Université Claude Bernard, Campus de la Doua, Lyon.
+**Lieu** : Amphi Deperet, bâtiment Darwin, Campus de la Doua, Lyon - [Accès](https://sciences.univ-lyon1.fr/la-faculte/acces)
 
 **Organisateurs** : Russ Harmer, Laurence Calzone, Cédric Lhoussaine, Loïc Paulevé et Élisabeth Remy
 
@@ -19,7 +19,7 @@ Cette sixième édition des journées annuelles du GT Bioss se déroulera juste 
 
 ## Inscription
 
-L'inscription, gratuite mais obligatoire, se fait via la [page du GDR BiM de l'évènement](https://www.gdr-bim.cnrs.fr/journees-du-gdr-bim-2021).
+L'inscription, gratuite mais obligatoire, se fait via la [page du GDR BiM de l'évènement](https://www.gdr-bim.cnrs.fr/journees-du-gdr-bim-2021/).
 
 ## Programme
 
