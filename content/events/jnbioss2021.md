@@ -25,6 +25,8 @@ L'inscription, gratuite mais obligatoire, se fait via la [page du GDR BiM de l'�
 
 La journée se déroulera entre 9h et 17h30 dans l'amphi Deperet, bâtiment Darwin, Campus de la Doua, Lyon - [Accès](https://sciences.univ-lyon1.fr/la-faculte/acces).
 
+![](/img/jnbioss2021-plan.png)
+
 Orateurs invités:
 * **[Alberto Valdeolivas](https://scholar.google.fr/citations?user=9gqm7GYAAAAJ)** (Roche Pharma Research and Early Development, Pharmaceutical Sciences, Roche Innovation Center Basel, Basel, Switzerland)
 * **[Delphine Ropers](https://team.inria.fr/ibis/delphine-ropers/)** (Inria Grenoble – Rhône-Alpes)
