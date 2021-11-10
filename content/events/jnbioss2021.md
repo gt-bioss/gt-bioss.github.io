@@ -35,11 +35,9 @@ Orateurs invités:
 
 ### Déroulé de la journée
 
-**9h00 - 9h25** Accueil café - ⚠️ **salle VIP du restaurant DOMUS** (bâtiment en face de Darwin)
-
---- 
-
 Amphi Deperet, bâtiment Darwin
+
+**9h00 - 9h25** Accueil café
 
 **9h30 - 9h45** - Présentation du GT Bioss
 
@@ -70,16 +68,7 @@ Amphi Deperet, bâtiment Darwin
 - 14h55 - 15h15 Matthieu Bougueon - A kappa model for hepatic stellate cells activation by TGFB1
 - 15h15 - 15h35 Nicolas Levy - ENSnano: a software for designing DNA 3D nanostructure
 
----
-
-Salle VIP du restaurant DOMUS (bâtiment en face de Darwin)
-
 **15h40 - 16h10** - Pause café
-
----
-
-
-Amphi Deperet, bâtiment Darwin
 
 **16h15 - 17h15** - Exposé + Table ronde PCI - Thomas Guillemaud et Celine Scornavacca
 
