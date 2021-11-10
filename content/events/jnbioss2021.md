@@ -45,7 +45,7 @@ Amphi Deperet, bâtiment Darwin
 
 **10h30 - 11h50** - Exposés courts
 - 10h30 - 10h50: Déborah Boyenval - Logical and incremental formalization of cell cycle checkpoints
-- 10h50 - 11h10: Antony Baptista - Universal Multilayer Network Exploration by Random Walk with Restart
+- 10h50 - 11h10: Anthony Baptista - Universal Multilayer Network Exploration by Random Walk with Restart
 - 11h10 - 11h30: Arnaud Belcour - Estimating the metabolic capacity of a community from taxonomic assignation
 - 11h30 - 11h50: Gautier Stoll - Modeling Immunogenic Cell Death with a stochastic Boolean approach
 
@@ -91,7 +91,7 @@ Checkpoints ensure the integrity of DNA during the cell cycle, which is a succes
 [3] Déborah Boyenval, Gilles Bernot, Hélène Collavizza, and Jean-Paul Comet. What is a cell cycle checkpoint? the totembionet answer. In 18th International Conference on Computational Methods in Systems Biology (CMSB 2020), 2020.\
 [4] J. Behaegel, J.-P. Comet, G. Bernot, E. Cornillon, and F. Delaunay. A hybrid model of cell cycle in mammals. J. Bioinformatics and Comput. Biol., 14(1):1640001 [17 pp.], 2016.
 
-**Antony Baptista** - *Universal Multilayer Network Exploration by Random Walk with Restart*\
+**Anthony Baptista** - *Universal Multilayer Network Exploration by Random Walk with Restart*\
 The amount and variety of data are increasing drastically for several years. These data are often represented as networks, which are then explored with approaches arising from network theory. Recent years have witnessed the extension of network exploration methods to leverage more complex and richer network frameworks. Random walks, for instance, have been extended to explore multilayer networks. However, current random walk approaches are limited in the combination and heterogeneity of network layers they can handle. New analytical and numerical random walk methods are needed to cope with the increasing diversity and complexity of multilayer networks.\
 I present here MultiXrank, a Python package that enables Random Walk with Restart (RWR) on any kind of multilayer network with an optimized implementation. This package is supported by a universal mathematical formulation of the RWR. I evaluated MultiXrank with leave-one-out cross-validation and link prediction, and introduced protocols to measure the impact of the addition or removal of multilayer network data on prediction performances. Furthermore, I measured the sensitivity of MultiXrank to input parameters by in-depth exploration of the parameter space. Finally, I will illustrate the versatility of MultiXrank with different use-cases of unsupervised node prioritization and supervised classification in the context of human genetic diseases.
 
