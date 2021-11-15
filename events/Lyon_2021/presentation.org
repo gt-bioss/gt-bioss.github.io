@@ -1,7 +1,7 @@
 #+TITLE: Journée du GT Bioss
 #+AUTHOR:
 #+EMAIL: cedric.lhoussaine@univ-lille.fr
-#+DATE: 24 novembre 2021
+#+DATE: 23 novembre 2021
 #+LANGUAGE: fr
 #+EXCLUDE_TAGS: noexport
 #+LATEX_CLASS: beamer
@@ -16,13 +16,13 @@
 #+LaTeX_HEADER: \AfterEndEnvironment{minted}{\vskip -5pt}
 #+BEAMER_THEME: metropolis
 #+OPTIONS: title:t author:t creator:nil timestamp:nil num:nil toc:nil H:1
-#+STARTUP: indent hidestars beamer
+#+STARTUP: beamer indent hidestars
 #+COMPANY: GDR BiM / GDR IM
 
 ** Équipe d'animation
 - *Laurence Calzone* (Institut Curie, Paris)
 - Élisabeth Remy (I2M, CNRS, Marseille)
-- *Loïc Paulevé* (Labri, CNRS, Bordeaux)
+- *Loïc Paulevé* (LaBRI, CNRS, Bordeaux)
 - Cédric Lhoussaine (CRIStAL, Université de Lille)
 ** Périmètre du GT Bioss
 *** Thématique
@@ -48,6 +48,7 @@
   #+end_comment
 ** Affiliation
 *** CNRS INS2I
+Institut des sciences de l'information et de leurs interactions
 *** GDR BiM (BioInformatique Moléculaire)
 - ``Approches informatiques et mathématiques pour le traitement de l’information liée aux molécules biologiques''
 - Cinq thèmes: séquences, évolution, structure 3D, *modélisation*, métagénomique
@@ -56,13 +57,17 @@
   1. *Algorithmique et Combinatoire*
   2. Calcul formel, arithmétique, protection de l’information, géométrie
   3. Logique et complexité
-** Affiliation
+** Environnement scientifique
 *** Autres interactions
-- GDR IA (GT Bioss-IA)
-- GDR BioSynSys
+- GDR IA (GT Bioss-IA, INS2I)
+- GDR BioSynSys (Biologie de synthèse et des systèmes, INSB)
+- GDR MAMOVI (MAthématiques de la MOdélisation du VIvant, INSMI)
 ** Objectifs du GT
-- *Diffuser* l’information (manifestations, animations, soutenances, etc.)
+- *Structurer* la communauté scientifique autour de cette thématique
+- *Organisation et animation* d'évènements
 - Créer un *espace d’interactions* doctorants/post-doctorants
+- *Diffuser* l’information (manifestations, soutenances, etc.)
+- Représenter la thématique dans la *politique scientifique* du CNRS (interaction avec les GDR)
 - Nourrir la communauté bio/bioinfo avec des *problématiques issues de la modélisation*
 - Nourrir la communauté informatique/mathématique avec des *problématiques issues de la biologie*
 ** Comment ?
