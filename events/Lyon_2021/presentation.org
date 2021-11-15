@@ -1,0 +1,116 @@
+#+TITLE: Journée du GT Bioss
+#+AUTHOR:
+#+EMAIL: cedric.lhoussaine@univ-lille.fr
+#+DATE: 24 novembre 2021
+#+LANGUAGE: fr
+#+EXCLUDE_TAGS: noexport
+#+LATEX_CLASS: beamer
+#+LATEX_CLASS_OPTIONS: [presentation]
+# +LaTeX_HEADER: \usepackage[outputdir=tmp]{minted}
+#+LaTeX_HEADER: \usepackage[utf8]{inputenc}
+#+LaTeX_HEADER: \usemintedstyle{emacs}
+#+LaTeX_HEADER: \definecolor{grey}{rgb}{0.9,0.9,0.9}
+#+LaTeX_HEADER: \setminted{fontsize=\scriptsize,baselinestretch=1}
+#+LaTeX_HEADER: \setminted{bgcolor=grey}
+#+LaTeX_HEADER: \BeforeBeginEnvironment{minted}{\vskip -1pt}
+#+LaTeX_HEADER: \AfterEndEnvironment{minted}{\vskip -5pt}
+#+BEAMER_THEME: metropolis
+#+OPTIONS: title:t author:t creator:nil timestamp:nil num:nil toc:nil H:1
+#+STARTUP: indent hidestars beamer
+#+COMPANY: GDR BiM / GDR IM
+
+** Équipe d'animation
+- *Laurence Calzone* (Institut Curie, Paris)
+- Élisabeth Remy (I2M, CNRS, Marseille)
+- *Loïc Paulevé* (Labri, CNRS, Bordeaux)
+- Cédric Lhoussaine (CRIStAL, Université de Lille)
+** Périmètre du GT Bioss
+*** Thématique
+*Modélisation des systèmes biologiques*: informatique fondamentale / mathématiques (discrètes) / biologie moléculaire / santé
+*** Questions
+- Modéliser les interactions (*dynamique*) entre les entités biologiques
+  #+begin_comment
+  vs. bioinfo traditionnelle qui décrit les entités
+  #+end_comment
+- Approche *formelle* et *symbolique* de la modélisation
+  #+begin_comment
+  vs. approche quantitatives (ODE, analyse numérique). Démonstrations de propriétés des modèles (plus ou moins indépendantes des aspects quantitatifs)
+  #+end_comment
+- Spécificité des systèmes biologiques ?
+  #+begin_comment
+  aspects temporels et spatiaux (continuité, echelles, etc.), grande combinatoire, validation expérimentale difficile
+  #+end_comment
+- Apports de l'informatique et des mathématiques à la biologie ?
+  #+begin_comment
+  inspiration/extension de méthode d'analyse de systèmes informatiques basées
+  sur les automates, la vérification, la sémantique des langages de
+  programmation, la logique, la programmation par contraintes, etc.
+  #+end_comment
+** Affiliation
+*** CNRS INS2I
+*** GDR BiM (BioInformatique Moléculaire)
+- ``Approches informatiques et mathématiques pour le traitement de l’information liée aux molécules biologiques''
+- Cinq thèmes: séquences, évolution, structure 3D, *modélisation*, métagénomique
+*** GDR IM (Informatique Mathématiques)
+- GT regroupés en 3 catégories:
+  1. *Algorithmique et Combinatoire*
+  2. Calcul formel, arithmétique, protection de l’information, géométrie
+  3. Logique et complexité
+** Affiliation
+*** Autres interactions
+- GDR IA (GT Bioss-IA)
+- GDR BioSynSys
+** Objectifs du GT
+- *Diffuser* l’information (manifestations, animations, soutenances, etc.)
+- Créer un *espace d’interactions* doctorants/post-doctorants
+- Nourrir la communauté bio/bioinfo avec des *problématiques issues de la modélisation*
+- Nourrir la communauté informatique/mathématique avec des *problématiques issues de la biologie*
+** Comment ?
+- Réunions annuelles du GT
+- Séminaire virtuel mensuel
+- Workshops thématiques
+- Financement de déplacement des doctorant.e.s
+** En chiffres...
+- 216 inscrits sur la liste de diffusion =membres@bioss-cnrs.fr=
+- $\sim$ 40 équipes
+  liste [[https://www.bioss-cnrs.fr/membres.html][https://www.bioss-cnrs.fr/membres.html]] mise à jour grace à vous ($\to$ =contact@bioss-cnrs.fr=)!
+- 2 évènements annuels (en temps normal...)
+  + journée du GT
+  + journée thématique
+** Faits marquants 2021
+*** Prix
+- meilleur article étudiant et de la meilleure présentation à la conférence DNA27 pour Nicolas Lévy (doctorant supervisé par Nicolas Schabanel, équipe MC2, LIP, Lyon)
+*** Ouvrages collectifs
+- "Evolutionary Systems Biology", édité par Anton Crombach (équipe INRIA Beagle) chez Springer
+- *"Approches symboliques de la modélisation et de l’analyse des systèmes
+  biologiques", édité par Cédric Lhoussaine et \'Elisabeth Remy, Encylopédie SCIENCE, ISTE*.
+** Faits marquants 2021
+*** Animation du GT en 2021
+- *séminaire virtuel mensuel (7 séminaires virtuels en 2021; 14 exposés)*
+- journée nationale prévue le 23 novembre 2021 à Lyon
+*** Évènements organisés par des membres du GT en 2021
+- Conférence internationale AUTOMATA-WAN 2021 (Marseille)
+- *Conférence internationale CMSB 2021 (Bordeaux)*
+- Conférence internationale 8th Metabolic Pathway Analysis International Conference
+- Workshop "Modelling Heterogeneous Populations with applications in Biology" (Inria Grenoble)
+** Faits marquants 2021
+*** ANR/projets nationaux
+- ANR AAPG2021 Computational Approaches for Multimodal Data Integration in Biomedicine (CAMUDI)
+- ANR AAPG2021 Exploring dynamic regulation by RNAs (KineBioTics)
+- ANR AAPG2021 Modeling Intestinal Glucose Absorption for Diabetes Prediction (MIGAD)
+- Itmo Cancer MIC 2021
+** Faits marquants 2021
+*** HDR 2021
+- Delphine Ropers (Inria Grenoble)
+- Annabelle Ballesta (Institut Curie/INSERM)
+*** Thèses de doctorat 2021
+- Pacôme Perrotin (LIS, Marseille)
+- Martín Ríos Wilson, co-tutelle Universidad de Chile & Université d'Aix-Marseille
+- Léonard Hérault (IML, Marseille)
+- Juraj Kolčák (LSV, Saclay)
+** Faits marquants 2021
+*** Promotions 2021
+- DR CNRS pour Anaïs Baudot
+- DR CNRS pour Élisabeth Rémy
+*** Résultats/publications majeures 2021
+- /Rice-like theorems for automata networks/. Guilhem Gamard, Pierre Guillon, Kévin Perrot, and Guillaume Theyssier. In Proceedings of STACS'21, volume 187 of LIPIcs, pages 32:1--32:17. Schloss Dagstuhl Publishing, March 2021) (LIS, Marseille)
