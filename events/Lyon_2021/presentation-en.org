@@ -6,9 +6,9 @@
 #+EXCLUDE_TAGS: noexport
 #+LATEX_CLASS: beamer
 #+LATEX_CLASS_OPTIONS: [presentation]
-#+LaTeX_HEADER: \usepackage{emoji}
+# +LaTeX_HEADER: \usepackage{emoji}
 #+LaTeX_HEADER: \usepackage[utf8]{inputenc}
-#+BEAMER_THEME: metropolis
+#+BEAMER_THEME: Metropolis
 #+OPTIONS: title:t author:t creator:nil timestamp:nil num:nil toc:nil H:1
 #+STARTUP: beamer indent hidestars
 #+COMPANY: GDR BiM / GDR IM
@@ -68,7 +68,7 @@ Institut des sciences de l'information et de leurs interactions
 - Feeding the biological community with issues arising from formal modeling
 - Feeding the comupter science community with issues arising from biology
 ** How ?
-- Organising events: annual meetings \& thematic workshops
+- Organising events: annual meetings and thematic workshops
 - Monthly virtual seminar
 - Fundings of travels for PhD students
 - Mailing list:  =membres@bioss-cnrs.fr=
@@ -158,3 +158,6 @@ Institut des sciences de l'information et de leurs interactions
 - Thematic workshops (/hybrid modeling/)
 - JOBIM 2022 (28/06 \to 01/07) : call for symposium
 - Improve information dissemination and update Bioss website
+
+** Today
+- [[https://www.bioss-cnrs.fr/events/jnbioss2021/][Programme]]
