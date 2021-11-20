@@ -6,14 +6,8 @@
 #+EXCLUDE_TAGS: noexport
 #+LATEX_CLASS: beamer
 #+LATEX_CLASS_OPTIONS: [presentation]
-# +LaTeX_HEADER: \usepackage[outputdir=tmp]{minted}
+#+LaTeX_HEADER: \usepackage{emoji}
 #+LaTeX_HEADER: \usepackage[utf8]{inputenc}
-#+LaTeX_HEADER: \usemintedstyle{emacs}
-#+LaTeX_HEADER: \definecolor{grey}{rgb}{0.9,0.9,0.9}
-#+LaTeX_HEADER: \setminted{fontsize=\scriptsize,baselinestretch=1}
-#+LaTeX_HEADER: \setminted{bgcolor=grey}
-#+LaTeX_HEADER: \BeforeBeginEnvironment{minted}{\vskip -1pt}
-#+LaTeX_HEADER: \AfterEndEnvironment{minted}{\vskip -5pt}
 #+BEAMER_THEME: metropolis
 #+OPTIONS: title:t author:t creator:nil timestamp:nil num:nil toc:nil H:1
 #+STARTUP: beamer indent hidestars
@@ -58,14 +52,13 @@ Institut des sciences de l'information et de leurs interactions
   2. Calcul formel, arithmétique, protection de l’information, géométrie
   3. Logique et complexité
 ** Environnement scientifique
-*** Autres interactions
 - GDR IA (GT Bioss-IA, INS2I)
 - GDR BioSynSys (Biologie de synthèse et des systèmes, INSB)
 - GDR MAMOVI (MAthématiques de la MOdélisation du VIvant, INSMI)
 ** Objectifs du GT
-- *Structurer* la communauté scientifique autour de cette thématique
+- *Structurer* la communauté scientifique française autour de la "biologie des systèmes symbolique"
 - *Organisation et animation* d'évènements
-- Créer un *espace d’interactions* doctorants/post-doctorants
+- Créer un *espace d’interactions* pour doctorants/post-doctorants
 - *Diffuser* l’information (manifestations, soutenances, etc.)
 - Représenter la thématique dans la *politique scientifique* du CNRS (interaction avec les GDR)
 - Nourrir la communauté bio/bioinfo avec des *problématiques issues de la modélisation*
@@ -75,6 +68,8 @@ Institut des sciences de l'information et de leurs interactions
 - Séminaire virtuel mensuel
 - Workshops thématiques
 - Financement de déplacement des doctorant.e.s
+- Une liste de diffusion =membres@bioss-cnrs.fr=
+- Une page web [[https://www.bioss-cnrs.fr][https://www.bioss-cnrs.fr]]
 ** En chiffres...
 - 216 inscrits sur la liste de diffusion =membres@bioss-cnrs.fr=
 - $\sim$ 40 équipes
@@ -82,40 +77,72 @@ Institut des sciences de l'information et de leurs interactions
 - 2 évènements annuels (en temps normal...)
   + journée du GT
   + journée thématique
-** Faits marquants 2021
+- 7 séminaires (14 intervenants) virtuels
+** (extraits de) Faits marquants 2021
 *** Prix
 - meilleur article étudiant et de la meilleure présentation à la conférence DNA27 pour Nicolas Lévy (doctorant supervisé par Nicolas Schabanel, équipe MC2, LIP, Lyon)
 *** Ouvrages collectifs
 - "Evolutionary Systems Biology", édité par Anton Crombach (équipe INRIA Beagle) chez Springer
 - *"Approches symboliques de la modélisation et de l’analyse des systèmes
-  biologiques", édité par Cédric Lhoussaine et \'Elisabeth Remy, Encylopédie SCIENCE, ISTE*.
-** Faits marquants 2021
+  biologiques", édité par Cédric Lhoussaine et Élisabeth Remy, Encylopédie SCIENCE, ISTE*.
+** Faits marquants 2021 (partiels)
 *** Animation du GT en 2021
-- *séminaire virtuel mensuel (7 séminaires virtuels en 2021; 14 exposés)*
-- journée nationale prévue le 23 novembre 2021 à Lyon
+- *séminaire virtuel mensuel*
+- *journée nationale le 23 novembre 2021 à Lyon*
 *** Évènements organisés par des membres du GT en 2021
-- Conférence internationale AUTOMATA-WAN 2021 (Marseille)
-- *Conférence internationale CMSB 2021 (Bordeaux)*
-- Conférence internationale 8th Metabolic Pathway Analysis International Conference
+- *Conf. internationale CMSB 2021 (Bordeaux)*
+- *Conf. internationale ISMB/ECCB 2021 (Lyon)*
+- Conf. internationale AUTOMATA-WAN 2021 (Marseille)
+- Conf. internationale 8th Metabolic Pathway Analysis (US)
 - Workshop "Modelling Heterogeneous Populations with applications in Biology" (Inria Grenoble)
-** Faits marquants 2021
+** (quelques) Faits marquants 2021
 *** ANR/projets nationaux
+#+begin_export latex
+{\scriptsize
+#+end_export
 - ANR AAPG2021 Computational Approaches for Multimodal Data Integration in Biomedicine (CAMUDI)
 - ANR AAPG2021 Exploring dynamic regulation by RNAs (KineBioTics)
 - ANR AAPG2021 Modeling Intestinal Glucose Absorption for Diabetes Prediction (MIGAD)
 - Itmo Cancer MIC 2021
-** Faits marquants 2021
-*** HDR 2021
+#+begin_export latex
+}
+#+end_export
+*** Résultats/publications majeures
+#+begin_export latex
+{\scriptsize
+#+end_export
+- /Rice-like theorems for automata networks/. Guilhem Gamard, Pierre Guillon, Kévin Perrot, and Guillaume Theyssier. In Proceedings of STACS'21, volume 187 of LIPIcs, pages 32:1--32:17. Schloss Dagstuhl Publishing, March 2021) (LIS, Marseille)
+#+begin_export latex
+}
+#+end_export
+** Faits marquants 2021 (incomplets \emoji{cry})
+*** HDR
+#+begin_export latex
+{\scriptsize
+#+end_export
 - Delphine Ropers (Inria Grenoble)
 - Annabelle Ballesta (Institut Curie/INSERM)
-*** Thèses de doctorat 2021
+#+begin_export latex
+}
+#+end_export
+*** Thèses de doctorat
+#+begin_export latex
+{\scriptsize
+#+end_export
 - Pacôme Perrotin (LIS, Marseille)
 - Martín Ríos Wilson, co-tutelle Universidad de Chile & Université d'Aix-Marseille
 - Léonard Hérault (IML, Marseille)
 - Juraj Kolčák (LSV, Saclay)
-** Faits marquants 2021
-*** Promotions 2021
-- DR CNRS pour Anaïs Baudot
-- DR CNRS pour Élisabeth Rémy
-*** Résultats/publications majeures 2021
-- /Rice-like theorems for automata networks/. Guilhem Gamard, Pierre Guillon, Kévin Perrot, and Guillaume Theyssier. In Proceedings of STACS'21, volume 187 of LIPIcs, pages 32:1--32:17. Schloss Dagstuhl Publishing, March 2021) (LIS, Marseille)
+#+begin_export latex
+}
+#+end_export
+*** Promotions
+#+begin_export latex
+{\scriptsize
+#+end_export
+- Anaïs Baudot (DR CNRS)
+- Élisabeth Rémy (DR CNRS)
+#+begin_export latex
+}
+#+end_export
+** Perspectives (2022)
