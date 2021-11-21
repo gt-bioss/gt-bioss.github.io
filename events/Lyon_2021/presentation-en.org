@@ -30,16 +30,16 @@ interdisciplinarité
   #+begin_comment
   vs. bioinfo traditionnelle qui décrit les entités
   #+end_comment
-- *Formal* and *symbolic* approach to modeling
+- *Formal* and *symbolic* approaches to modeling
   #+begin_comment
   vs. approche quantitatives (ODE, analyse numérique). Démonstrations de propriétés  des modèles (plus ou moins indépendantes des aspects quantitatifs)
   #+end_comment
-- Specific features of biological systems ?
+- Specific features of biological systems
   #+begin_comment
   - comment modéliser de façon formelle des aspects propres et spécifiques aux systèmes biologiques
   - expl: aspects quantitatifs temporels et spatiaux (continuité, echelles, etc.), grande combinatoire, validation expérimentale difficile
   #+end_comment
-- Contributions of computer science and maths to biology ?
+- Contributions of computer science and maths to biology
   #+begin_comment
   inspiration/extension de méthode d'analyse de systèmes informatiques basées
   sur les automates, la vérification, la sémantique des langages de
@@ -47,12 +47,12 @@ interdisciplinarité
   #+end_comment
 ** Affiliation
 *** CNRS INS2I
-Institut des sciences de l'information et de leurs interactions
-*** GDR BiM (Molecular BioInformatique)
+Institut National des sciences de l'information et de leurs interactions
+*** GDR BiM (Molecular BioInformatics)
 - ``Computational and mathematical approaches for the processing of information related to biological molecules''
 - 5 topics: sequences, evolution, 3D structures, *modeling*, metagenomics.
 *** GDR IM (Informatique Mathématiques)
-- GT groupes in 3 categories:
+- GT grouped in 3 categories:
   1. *Algorithms and combinatorics*
   2. Computer algebra, arithmetic, information safety, geometry
   3. Logic and complexity
@@ -62,11 +62,11 @@ Institut des sciences de l'information et de leurs interactions
 - GDR MAMOVI (MAthématiques de la MOdélisation du VIvant, INSMI)
 ** Objectives of Bioss
 - *Structuring* the french scientific community interested in symbolic systems biology
-- Creating a *interaction environment* for PhD students and postdocs
+- Creating an *interacting environment* for PhD students and postdocs
 - *Disseminating information* (events, PhD defense, etc.)
 - Acting on and influencing the *scientific policy* of the CNRS (through GDRs)
 - Feeding the biological community with issues arising from formal modeling
-- Feeding the comupter science community with issues arising from biology
+- Feeding the computer science community with issues arising from biology
 ** How ?
 - Organising events: annual meetings and thematic workshops
 - Monthly virtual seminar
@@ -83,11 +83,11 @@ Institut des sciences de l'information et de leurs interactions
 - in 2021: 7 virtual seminars (14 speakers)
 ** (some) 2021 highlights
 *** Prices
-- best student paper and best talk at DNA27 conference for Nicolas Lévy (supervised by Nicolas Schabanel, MC2 team, LIP, Lyon)
+- Best student paper and best talk at DNA27 conference for Nicolas Lévy (supervised by Nicolas Schabanel, MC2 team, LIP, Lyon)
 *** Books
 - "Evolutionary Systems Biology", published by Anton Crombach (INRIA Beagle team), Springer
 - *"Approches symboliques de la modélisation et de l’analyse des systèmes
-  biologiques", published by Cédric Lhoussaine et Élisabeth Remy, Encylopédie SCIENCE, ISTE*.
+  biologiques", published by Cédric Lhoussaine and Élisabeth Remy, Encylopédie SCIENCE, ISTE*.
 ** 2021 (partial) highlights
 *** Bioss' events
 - *Monthly virtual seminars*
@@ -134,29 +134,20 @@ Institut des sciences de l'information et de leurs interactions
 #+end_export
 - Pacôme Perrotin (LIS, Marseille)
 - Martín Ríos Wilson, co-tutelle Universidad de Chile & Université d'Aix-Marseille
-- Léonard Hérault (IML, Marseille)
+- Léonard Hérault (I2M, Marseille)
 - Juraj Kolčák (LSV, Saclay)
-#+begin_export latex
-}
-#+end_export
-*** Promotions
-#+begin_export latex
-{\scriptsize
-#+end_export
-- Anaïs Baudot (DR CNRS)
-- Élisabeth Rémy (DR CNRS)
 #+begin_export latex
 }
 #+end_export
 
 ** What next ?
 - Next monthly virtual seminars the 3/12:
-  + Manish Kushwaha (Team Bio-RetroSynth, INRAE)
-  + Athénaïs Vaginay (capsid team CRAN/LORIA)
-- GDR IM days in Lille (29/03 \to 01/04): call for poster!
+  + Manish Kushwaha (Bio-RetroSynth team, INRAE)
+  + Athénaïs Vaginay (Capsid team CRAN/LORIA)
+- GDR IM days in Lille (29/03 \to 01/04): \alert{call for posters}!
 - GDR IM renewal \to scientific perspectives
 - Thematic workshops (/hybrid modeling/)
-- JOBIM 2022 (28/06 \to 01/07) : call for symposium
+- JOBIM 2022 (28/06 \to 01/07) : \alert{call for symposium}
 - Improve information dissemination and update Bioss website
 
 ** Today
