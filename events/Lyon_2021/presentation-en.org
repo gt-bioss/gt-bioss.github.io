@@ -74,7 +74,7 @@ Institut National des sciences de l'information et de leurs interactions
 - Mailing list:  =membres@bioss-cnrs.fr=
 - Web page: [[https://www.bioss-cnrs.fr][https://www.bioss-cnrs.fr]]
 ** Some figures...
-- 216 subscriber to the mailing list =membres@bioss-cnrs.fr=
+- 216 subscribers to the mailing list =membres@bioss-cnrs.fr=
 - $\sim$ 40 research groups
   (list available here: [[https://www.bioss-cnrs.fr/membres.html][https://www.bioss-cnrs.fr/membres.html]] maintained thanks to you ($\to$ =contact@bioss-cnrs.fr=)!
 - 2 annual events (in normal conditions...)
@@ -147,8 +147,7 @@ Institut National des sciences de l'information et de leurs interactions
 - GDR IM days in Lille (29/03 \to 01/04): \alert{call for posters}!
 - GDR IM renewal \to scientific perspectives
 - Thematic workshops (/hybrid modeling/)
-- JOBIM 2022 (28/06 \to 01/07) : \alert{call for symposium}
+- JOBIM 2022 in Rennes (28/06 \to 01/07) : \alert{call for symposium}
 - Improve information dissemination and update Bioss website
-
 ** Today
 - [[https://www.bioss-cnrs.fr/events/jnbioss2021/][Programme]]
