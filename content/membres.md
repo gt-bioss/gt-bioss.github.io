@@ -87,16 +87,21 @@ Nous présentons ici les différents laboratoires et équipes de recherche affil
     Domaine : Intégration de données, réseaux métaboliques\
     url : <https://team.inria.fr/erable/en/team-members>\
     Tutelles: Inria, CNRS, INSA Lyon
--   LIRIS, Équipe BEAGLE\
-    Contact : Guillaume Beslon\
-    Domaine : Évolution artificielle, dynamique inter-cellulaire\
-    url : <https://team.inria.fr/beagle/>\
-    Tutelles: Inria, INSA Lyon, Université Lyon 1
+- LIP, Équipe MC2\
+  Contact : Nicolas Schabanel\
+  Domaine : Nanostructures ADN et Calcul moléculaire\
+  url : <http://www.ens-lyon.fr/LIP/MC2>\
+  Tutelles: ENS Lyon, CNRS, Université Lyon 1
 -   LIP, Équipe PLUME\
     Contact : Russ Harmer\
     Domaine : Modélisation à base de règles\
     url : <http://www.ens-lyon.fr/LIP/PLUME>\
     Tutelles: ENS Lyon, CNRS, Université Lyon 1
+-   LIRIS, Équipe BEAGLE\
+    Contact : Guillaume Beslon\
+    Domaine : Évolution artificielle, dynamique inter-cellulaire\
+    url : <https://team.inria.fr/beagle/>\
+    Tutelles: Inria, INSA Lyon, Université Lyon 1
 
 #### Marseille
 
