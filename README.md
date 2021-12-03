@@ -13,6 +13,12 @@ summary: "[Name](Site) (affiliation) et [Name](Site) (affiliation)"
 categories: "Séminaires"
 ---
 
+
+[Lien Zoom](https://u-bordeaux-fr.zoom.us/j/86764096440?pwd=b01qOG04RTMvRWNOVHBYR1ZIbkVaUT09)
+* Meeting ID: 867 6409 6440
+* passcode: 149120 
+
+
 ### 13h00 - 13h30 -- Name (affiliation)
 
 **TITLE**
