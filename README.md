@@ -8,6 +8,7 @@
 ```md
 ---
 date: 2022-XX-XX 13:00:00
+draft: true
 title: "Séminaire virtuel: vendredi XX XX 2022"
 summary: "[Name](Site) (affiliation) et [Name](Site) (affiliation)"
 categories: "Séminaires"
