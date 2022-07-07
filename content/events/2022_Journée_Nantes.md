@@ -1,7 +1,7 @@
 ---
-date: 2022-06-05
+date: 2022-11-17
 title: "Journée annuelle thématique"
-summary: "Le **19 novembre 2022** à **Nantes**"
+summary: "Le **17 novembre 2022** à **Nantes**"
 categories: "Manifestations"
 ---
 
