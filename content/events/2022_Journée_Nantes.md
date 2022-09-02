@@ -5,4 +5,60 @@ summary: "Le **17 novembre 2022** à **Nantes**"
 categories: "Manifestations"
 ---
 
-More info to come...
+
+## Informations générales
+
+**Date** : le 17 novembre 2022 de 10h à 17h
+
+**Lieu** : Amphi 
+
+**Organisateurs** : Morgan Magnin, Laurence Calzone, Cédric Lhoussaine, Loïc Paulevé et Élisabeth Remy
+
+
+## Inscription
+
+L'inscription, gratuite mais obligatoire, se fait via le lien suivant: ...
+
+## Programme
+
+La journée se déroulera entre 10h et 17h dans l'amphi [Accès]
+
+
+
+Orateurs invités:
+* **[Anna Niarakis]([https://scholar.google.ch/citations?user=bpOOfdMAAAAJ&hl=en])**
+* **[Sylvain Soliman]([https://scholar.google.ch/citations?hl=en&user=8WmCFEkAAAAJ])** 
+
+
+### Déroulé de la journée
+
+Amphi 
+
+**10h00 - 12** 
+Accueil café; Exposé invité ; Exposés contribuetrus
+
+--- 
+
+Lieu
+
+**12h00 - 13h25** Repas
+
+---
+
+Amphi
+
+**13h30 - 17h ** 
+Exposé invité ; Exposés contributeurs
+
+---
+
+### Résumés
+
+**Anna Niarakis** - *From mechanisms to systems to digital twins. Αddressing critical barriers in systems modelling.*.\
+Computational models have long been used to describe complex systems in biology. Their abstract nature and their ability to reproduce dynamic behaviours make them powerful tools for hypothesis testing and in silico predictions. Recently, computational modelling has been gaining ground in personalized medicine, drug development and treatment optimization. Digital twins, customized simulation models pioneered in the industry, are beginning to be deployed with some major successes in cardiovascular diagnostics and insulin-dependent diabetes monitoring and treatment. The development of advanced medical twins requires a collaborative effort between immunologists, modellers, clinicians, computational scientists, and software engineers. Therefore, a step towards lowering barriers to collaboration would be the development of a) infrastructures to encourage and support model construction, integration, and simulation and b) best practices to ensure the accuracy and credibility of these models. While modelling approaches may differ, when discussing best practices several critical points are shared related to model accessibility, reusability, interoperability, and reproducibility.  In my talk, I will discuss the importance of model annotations, the use and implementation of community standards, the transparency in model building and data sharing and the need for infrastructure that could accommodate models of higher complexity. I will present community-driven collaborative efforts to address these challenges and present high-level roadmaps that could facilitate the passage from mechanisms to systems to digital twins. 
+
+**Sylvain Soliman** - *Inferring Boolean models with CaSQ or why a problem "solved" almost 15 years ago, actually was not…*\
+In 2008, François Fages and I co-authored a paper showing that, under very general hypotheses, it is easy to obtain from a chemical reaction network, without any detail about the kinetics (hence a "map" as more and more are made available, e.g., www.diseasemaps.org) its symbolic Jacobian matrix, and hence a corresponding "influence model". However, in practice, going from these influences to a proper Logical model, i.e., obtaining logical formulae composing those influences, is not trivial. Moreover, even if that were possible, the obtained result would still be very different from what a modeller would have done. In this talk we will thus show why and how CaSQ not only uses the input map's topology, but also relies strongly on its nodes' annotations and on graph-rewriting rules in order to infer a Boolean model closer to what is wished for. We will use toy examples, classical models (MAPK cascade) and more recent maps (from the Covid-19 DiseaseMaps project) for illustration.
+
+
+
