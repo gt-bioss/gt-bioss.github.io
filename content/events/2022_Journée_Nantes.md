@@ -1,7 +1,7 @@
 ---
 date: 2022-11-17
-title: "Journée annuelle thématique"
-summary: "Le **17 novembre 2022** à **Nantes**"
+title: "Journée annuelle du GT Bioss (2022, 7e édition)"
+summary: "Le **jeudi 17 novembre 2022** à **Nantes**" sur le campus de l'école centrale de Nantes
 categories: "Manifestations"
 ---
 
@@ -10,7 +10,7 @@ categories: "Manifestations"
 
 **Date** : le 17 novembre 2022 de 10h à 17h
 
-**Lieu** : Amphi 
+**Lieu** : Amphi du batîment S (LS2N) de l'école centrale de Nantes - [Accès](https://www.ec-nantes.fr/version-francaise/plans-dacces)
 
 **Organisateurs** : Morgan Magnin, Laurence Calzone, Cédric Lhoussaine, Loïc Paulevé et Élisabeth Remy
 
@@ -21,7 +21,7 @@ L'inscription, gratuite mais obligatoire, se fait via le lien suivant: ...
 
 ## Programme
 
-La journée se déroulera entre 10h et 17h dans l'amphi [Accès]
+La journée se déroulera entre 10h et 17h dans l'amphi du batîment S (LS2N)  de l'école centrale de Nantes - [Accès](https://www.ec-nantes.fr/version-francaise/plans-dacces)
 
 
 
@@ -47,7 +47,7 @@ Lieu
 
 Amphi
 
-**13h30 - 17h ** 
+**13h30 - 17h** 
 Exposé invité ; Exposés contributeurs
 
 ---
