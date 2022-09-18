@@ -11,11 +11,3 @@ Il suffit d'envoyer un mail aux adresses suivantes en indiquant "[bioss]" au dé
 * Élisabeth Remy : elisabeth.remy_$à$_univ-amu.fr 
 
 ou plus simplement en utilisant l'adresse générique : contact_$à$_bioss-cnrs.fr
-
-## S'inscrire à la liste de diffusion du groupe
-
-Si vous désirez recevoir les informations relatives au groupe, vous pouvez vous inscrire à notre liste de diffusion depuis l'adresse :
-
-https://listes.mathrice.fr/math.cnrs.fr/subscribe/gt-bioss
-
-Si vous rencontrez des problèmes, n'hésitez pas nous contacter.
