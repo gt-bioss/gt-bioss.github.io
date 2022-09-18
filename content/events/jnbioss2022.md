@@ -4,7 +4,7 @@ title: "Journée annuelle du GT Bioss (2022, 7e édition)"
 summary: "Le **jeudi 17 novembre 2022** à **Nantes** sur le campus de l'école centrale de Nantes"
 categories: "Manifestations"
 aliases:
-   - /events/2022_journ%C3%A9e_nantes
+   - /events/2022_journée_nantes
 ---
 
 
