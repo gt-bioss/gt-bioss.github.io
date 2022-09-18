@@ -63,7 +63,11 @@ name = "Membres"
 weight = 9
 
 [[menu.main]]
-url = "/contact.html"
-name = "Contact"
+url = "/inscription/"
+name = "Inscription"
 weight = 10
 
+[[menu.main]]
+url = "/contact.html"
+name = "Contact"
+weight = 20
