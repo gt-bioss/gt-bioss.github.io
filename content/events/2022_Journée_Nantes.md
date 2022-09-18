@@ -17,7 +17,9 @@ categories: "Manifestations"
 
 ## Inscription
 
-L'inscription, gratuite mais obligatoire, se fait via le lien suivant: ...
+L'inscription est gratuite mais obligatoire:
+
+https://framaforms.org/journee-nationale-bioss-2022-a-nantes-1662456643
 
 ## Programme
 
