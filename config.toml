@@ -58,7 +58,7 @@ name = "Projets"
 weight = 6
 
 [[menu.main]]
-url = "/membres.html"
+url = "https://mygdr.hosted.lip6.fr/GTView/11/"
 name = "Membres"
 weight = 9
 
