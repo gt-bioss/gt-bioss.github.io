@@ -62,13 +62,6 @@ url = "https://mygdr.hosted.lip6.fr/GTView/11/"
 name = "Membres"
 weight = 9
 
-[[redirects]]
-  from = "/membres.html"
-  to = "https://mygdr.hosted.lip6.fr/GTView/11/"
-  status = 301
-  force = true
-
-
 [[menu.main]]
 url = "/inscription/"
 name = "Inscription"
