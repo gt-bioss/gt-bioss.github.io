@@ -34,26 +34,23 @@ Orateurs invités:
 * **[Sylvain Soliman]([https://scholar.google.ch/citations?hl=en&user=8WmCFEkAAAAJ])** 
 
 
-### Déroulé de la journée
+### Déroulé provisoire de la journée
 
-Amphi 
-
-**10h00 - 12** 
-Accueil café; Exposé invité ; Exposés contribuetrus
-
---- 
-
-Lieu
-
-**12h00 - 13h25** Repas
-
----
-
-Amphi
-
-**13h30 - 17h** 
-Exposé invité ; Exposés contributeurs
-
+* Accueil café à 9h30
+* 9h50: Introduction
+* 10h00 - 11h00: Séminaire invité - Anna Niarakis
+* 11h00 - 11h20: Maxime Lecomte
+* 11h20 - 11h40: Chabname Ghassemi
+* 11h40 - 12h00: Kerian Thuillier 
+* 12h00 - 13h30: buffet / café
+* 13h30 - 14h30: Séminaire invité - Sylvain
+* 14h30 - 15h00: Discussion Bioss
+* 15h00 - 15h20: Café
+* 15h20 - 15h40: Gautier Stoll
+* 15h40 - 16h00: Gustavo Magaña López
+* 16h00 - 16h20: Sophie Le Bars
+* 16h20 - 16h40: Honglu Sun
+* 16h40: Concluding remarks
 ---
 
 ### Résumés
