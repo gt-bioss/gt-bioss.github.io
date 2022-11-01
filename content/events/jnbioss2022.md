@@ -46,7 +46,7 @@ Orateurs invités:
 * 13h30 - 14h30: Séminaire invité - Sylvain Soliman - "Inferring Boolean models with CaSQ or why a problem "solved" almost 15 years ago, actually was not…"
 * 14h30 - 15h00: Discussion Bioss
 * 15h00 - 15h20: Café
-* 15h20 - 15h40: Gautier Stoll - TBA
+* 15h20 - 15h40: Gautier Stoll - PopMaBoSS: a Boolean-based modeling tool suited for single-cell biological data
 * 15h40 - 16h00: Gustavo Magaña López - "scBoolSeq: scRNA-Seq data binarization and synthetic generation from Boolean dynamics"
 * 16h00 - 16h20: Sophie Le Bars - "Predicting weighted unobserved nodes in a regulatory network using Answer Set Programming"
 * 16h20 - 16h40: Honglu Sun - "Limit cycle analysis of a hybrid modeling of dynamical biological systems"
@@ -74,7 +74,9 @@ Our study succeeded at suggesting explainable models of previous combinatorial o
 Many techniques have been developed to infer Boolean regulations from a prior knowledge network and experimental data. Existing methods are able to reverse-engineer Boolean regulations for transcriptional and signaling networks, but they fail to infer regulations that control metabolic networks. We present a novel approach to infer Boolean rules for metabolic regulation from  time series data and a prior knowledge network.
 Our method is based on a combination of answer set programming and linear programming. By solving both combinatorial and linear arithmetic constraints, we generate candidate Boolean regulations that can reproduce the given data when coupled to the metabolic network. We evaluate our approach on a core regulated metabolic network and show how the quality of the predictions depends on the available kinetic, fluxomics or transcriptomics time series data.
 
-**Gautier Stoll** TBA
+**Gautier Stoll** - *PopMaBoSS: a Boolean-based modeling tool suited for single-cell biological data*\
+PopMaBoSS aims at confronting theoretical results with a large class of biological data, including single-cell data. PopMaBoSS model language is an extension of MaBoSS language, with completely new mathematical framework and algorithm. Because PopMaBoSS describes time dependent behavior of cell populations, its results can be confronted to single cell data (cytometry, single-cell RNA sequencing, etc.). In addition, PopMaBoSS is probabilistic upon cell populations, and therefore suited for modeling biological data variability (replicates for in vitro/ in vivo data, large cohort human samples, etc.).\
+The first part of the presentation will be based on model examples, with confrontation to biological data. We will then present PopMaBoSS mathematical framework. 
 
 **Gustavo Magaña López** - *scBoolSeq: scRNA-Seq data binarization and synthetic generation from Boolean dynamics*\
 scBoolSeq is a Python package for linking scRNA-Seq data and Boolean gene activation states.
