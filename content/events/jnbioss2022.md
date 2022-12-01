@@ -33,6 +33,8 @@ Orateurs invités:
 * **[Anna Niarakis]([https://scholar.google.ch/citations?user=bpOOfdMAAAAJ&hl=en])**
 * **[Sylvain Soliman]([https://scholar.google.ch/citations?hl=en&user=8WmCFEkAAAAJ])** 
 
+️️🖥️ **SLIDES** are available at https://box.ec-nantes.fr/index.php/s/nNYBnpQogCtk4aq
+
 
 ### Déroulé provisoire de la journée
 
