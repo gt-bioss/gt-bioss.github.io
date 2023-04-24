@@ -1,4 +1,4 @@
-![GDR IM](/img/GDR-BIM.png) ![GDR IM](/img/GDR-IM.png) ![GDR RADIA](/IMG/GDR-RADIA.png)
+![GDR IM](/img/GDR-BIM.png) ![GDR IM](/img/GDR-IM.png) ![GDR RADIA](/img/GDR-RADIA.png)
 
 > Le groupe Bioss est un groupe de travail scientifique, soutenu par le [CNRS](https://www.cnrs.fr) au travers des Groupes de recherche Informatique Mathématique ([GDR IM](https://www.gdr-im.fr/)), Bio-informatique moléculaire ([GDR BiM](https://www.gdr-bim.cnrs.fr/)) et Raisonnement, Apprentissage et Raisonnement en Inteillence Artificielle ([GDR RADIA](https://t.co/mrHRmDnRpu)), rassemblant la communauté des chercheurs et enseignants-chercheurs français autour de la modélisation des systèmes biologiques, thématique centrale de la biologie des systèmes à la frontière de l'informatique fondamentale, des mathématiques discrètes (et plus généralement des mathématiques), avec la biologie moléculaire et la médecine.
 
