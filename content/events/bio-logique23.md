@@ -7,6 +7,10 @@ categories: "Manifestations"
 
 Lieu : [Campus Pierre-et-Marie-Curie (Jussieu)](https://sciences.sorbonne-universite.fr/sorbonne-universite-campus-pierre-et-marie-curie), Paris 5e
 
+## Inscription
+
+Inscription gratuite mais obligratoire : https://framaforms.org/journees-biologique-biosscaviar-2023-1682367027
+
 ## Programme préliminaire
 
 ### Jeudi 25 mai 9h30-12h30 (CAVIAR)
