@@ -20,7 +20,7 @@ Inscription gratuite mais obligratoire : https://framaforms.org/journees-biolog
 - 10h10 - 10h50: Denis Pallez, "Evolutionary Computation for hybrid Gene Regulatory Networks parametrization"
 <br>pause
 - 11h10 - 11h50: Said Jabbour, "A declarative framework for maximal k-plex enumeration problems"
-- 11h50 - 12h30: Ramiz Gundullin, "Acquisition de cartes de bornes et de modèles discrets d’ordonnancements dans un contexte d’optimisation combinatoire"
+- 11h50 - 12h30: Ramiz Gindullin, "Acquisition de cartes de bornes et de modèles discrets d’ordonnancements dans un contexte d’optimisation combinatoire"
 
 *Déjeuner* (lieu à confirmer)
 
