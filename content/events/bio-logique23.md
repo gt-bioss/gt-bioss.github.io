@@ -22,7 +22,7 @@ Inscription gratuite mais obligratoire : https://framaforms.org/journees-biolog
 - 11h10 - 11h50: Said Jabbour, "A declarative framework for maximal k-plex enumeration problems"
 - 11h50 - 12h30: Ramiz Gindullin, "Acquisition de cartes de bornes et de modèles discrets d’ordonnancements dans un contexte d’optimisation combinatoire"
 
-*Déjeuner* (lieu à confirmer)
+*Déjeuner* (buffet)
 
 ### Jeudi 25 mai 14h-17h45 (BIOSS)
 *Salle 24-25/405, LIP6*
@@ -34,7 +34,7 @@ Inscription gratuite mais obligratoire : https://framaforms.org/journees-biolog
 - 16h20 - 17h00: Pierre Siegel, "Représentation de dynamiques booléennes en logique modale non-monotone"
 - 17h00 - 17h40: Sergiu Ivanov, "Sequential Reprogramming of Biological Network Fate"
 
-*19h30 Dîner* (lieu à confirmer)
+*19h30 Dîner* au [Perraudin](https://leperraudin.fr/), 157 rue Saint Jacques, 75005 Paris
 
 ### Vendredi 26 mai 9h30-11h30
 *Salle de séminaire SCAI, bâtiment Esclangon, 1er étage*
