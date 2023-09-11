@@ -10,20 +10,22 @@ aliases:
 
 ## Informations générales
 
+Cette journée est organisée dans le cadre des [journées du GDR BIM 2023](https://www.gdr-bim.cnrs.fr/journees-du-gdr-bim-2023/
+) du 20 au 23 novembre 2023.
+
 **Date** : le 21 novembre 2023
 
 **Lieu** : Amphi Atrium du Bâtiment ESPRIT, Université de Lille - Campus scientifique, Avenue Henri Poincaré 59655 Villeneuve d'Ascq <https://goo.gl/maps/vchftCLQDfj7MeUA6>
 
 **Organisateurs** : Laurence Calzone, Cédric Lhoussaine, Loïc Paulevé et Élisabeth Remy
 
-Organisée dans le cadre des [journées du GDR BIM 2023](https://www.gdr-bim.cnrs.fr/journees-du-gdr-bim-2023/
-) du 20 au 23 novembre 2023.
+
 
 ## Inscription
 
-L'inscription est gratuite mais obligatoire, avant le **8 novembre**
+L'inscription est gratuite mais obligatoire, avant le **8 novembre** :
 
-https://forms.cristal.fr/view.php?id=24710
+https://www.gdr-bim.cnrs.fr/journees-du-gdr-bim-2023/
 
 ## Appel à contribution
 
