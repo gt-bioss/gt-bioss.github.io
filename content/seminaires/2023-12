@@ -1,0 +1,24 @@
+---
+date: 2023-12-15 13:00:00
+title: "Séminaire virtuel: vendredi 15 décembre 2023"
+draft: false
+summary: "Déborah Boyenval (I3S)"
+categories: "Séminaires"
+---
+
+
+[Lien Zoom](https://u-bordeaux-fr.zoom.us/j/86764096440?pwd=b01qOG04RTMvRWNOVHBYR1ZIbkVaUT09)
+* Meeting ID: 867 6409 6440
+* passcode: 149120 
+
+
+### 13h00 - 13h50 -- Déborah Boyenval (I3S)
+
+**Formal modeling of the discrete dynamics of intrinsic cell cycle checkpoints: a proof of concept**
+
+The cell cycle is a sequence of events by which a cell reproduces itself while preserving the integrity of its genome. This preservation property is ensured by a set of biological regulatory mechanisms called checkpoints, mainly described as arrest phenomenon observed in the context of DNA damage. This phenomenon is the consequence of the /temporal separation of the phases/ of the cell cycle that, to the best of our knowledge, has never been formalized.
+
+To address this emerging issue, we propose an updated discrete model of the mammalian cell cycle progression including G1, S, G2, M and G0 quiescence phases, as well as a methodology for formalizing a phase in order to verify their temporal separation. Opting for René Thomas' modeling framework leads the way to /an enriched Hoare/ logic to compute /an biologically admissible/ part of each phase within an asynchronous state transition graph.
+
+Two phases are temporally isolated if and only if i) there is a René Thomas' model (i.e. a parametrization of an influence graph) such that any event that can end a phase is required before any event that can initiate the next phase and ii) there is no path from an incomplete phase to the next phase. This satisfiability problem has been resolved using Prolog and TotemBioNet, a software platform to support the design of René Thomas' models with CTL model-checking and Hoare logic.
+
