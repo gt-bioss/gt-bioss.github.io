@@ -27,6 +27,31 @@ L'inscription est gratuite mais obligatoire, avant le **8 novembre** :
 
 https://www.gdr-bim.cnrs.fr/journees-du-gdr-bim-2023/
 
-## Appel à contribution
 
-Merci de nous envoyer vos propositions de communication pour cette journée (titre et résumé) à [contact@bioss-cnrs.fr](mailto:contact@bioss-cnrs.fr) d'ici le 20 octobre.
+## Programme
+
+   9h30-10h: Welcome café 
+
+   10h-11h: séminaire invité, Didier Gonze
+   
+   11h-11h30: Joachim Niehren
+   
+   11h30-12h: Johann Dreo
+   
+   12h-12h30: Théo Roncalli 
+	
+   12h30-14h: déjeuner
+	
+   14h-15h: séminaire invité, Anne Siegel
+
+   15h-15h30: Louis Roussel
+   
+   15h30-16h : pause café
+   
+   16h-16h30: Franck Delaplace
+   
+   16h30-17h: table ronde: réalisation benchmarks pour méthodes d’inférence 
+   (Animation: Gustavo, Didier, Laurence)
+	
+   19h: Restaurant GT-Bioss
+
