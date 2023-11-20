@@ -34,15 +34,15 @@ https://www.gdr-bim.cnrs.fr/journees-du-gdr-bim-2023/
 
    10h-11h: séminaire invité, Didier Gonze (Unit of Theoretical Chronobiology - ULB), "Modeling cell fate specification during early embryonic development in mouse".
    
-   11h-11h30: Danilo Dursoniah (CRIStAL, Université de Lille)
+   11h-11h30: Danilo Dursoniah (CRIStAL, Université de Lille), "Modeling Intestinal Glucose Absorption from D-Xylose Data"
    
    11h30-12h: Johann Dreo (Pasteur), "Intégration cohérente de données symboliques avec OntoWeaver"
    
-   12h-12h30: Théo Roncalli 
+   12h-12h30: Théo Roncalli, TBA
 	
    12h30-14h: déjeuner
 	
-   14h-15h: séminaire invité, Anne Siegel
+   14h-15h: séminaire invité, Anne Siegel, TBA
 
    15h-15h30: Louis Roussel (CRIStAL, Université de Lille), "Estimation de paramètres et équations intégrales"
    
