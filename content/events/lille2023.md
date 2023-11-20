@@ -38,7 +38,7 @@ https://www.gdr-bim.cnrs.fr/journees-du-gdr-bim-2023/
    
    11h30-12h: Johann Dreo (Pasteur), "Intégration cohérente de données symboliques avec OntoWeaver"
    
-   12h-12h30: Théo Roncalli, TBA
+   12h-12h30: Théo Roncalli (LaBRI, Université de Bordeaux), "Variable-Depth Simulation of Most Permissive Boolean Networks"
 	
    12h30-14h: déjeuner
 	
