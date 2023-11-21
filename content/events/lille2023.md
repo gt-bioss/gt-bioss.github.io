@@ -42,7 +42,7 @@ https://www.gdr-bim.cnrs.fr/journees-du-gdr-bim-2023/
 	
    12h30-14h: déjeuner
 	
-   14h-15h: séminaire invité, Anne Siegel, TBA
+   14h-15h: séminaire invité, Anne Siegel, "Étude Et Comparaison De Cartes Métaboliques : s’adapter au triptyque connaissances – données – passage à l’échelle"
 
    15h-15h30: Louis Roussel (CRIStAL, Université de Lille), "Estimation de paramètres et équations intégrales"
    
