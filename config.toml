@@ -1,4 +1,4 @@
-baseURL = "https://www.bioss-cnrs.fr/"
+baseURL = "https://gt-bioss.cnrs.fr/"
 DefaultContentLanguage = "fr" # Theme's display language, supports: en, fr, zh, zh-hant
 languageCode = "fr-FR"
 title = "GT Bioss"
