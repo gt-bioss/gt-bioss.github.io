@@ -99,14 +99,14 @@ Germany.\
 bio-digital systems in single cells.*\
 **10h20 - 10h35** - Ovidiu Radulescu - *Time dependent multivariate
 distributions for piecewise-deterministic models of gene networks.*
-[slides](slides/Radulescu.pdf)\
+[slides](https://github.com/gt-bioss/events-slides/raw/main/manif/jnbioss_201703/slides/Radulescu.pdf)\
 **10h40 - 10h55** - Stefano Casagranda - *Principal Process Analysis and
 reduction of biological models with order of magnitude.*\
-[slides](slides/Casagranda.pdf) **11h00 - 11h30** - **Pause**\
+[slides](https://github.com/gt-bioss/events-slides/raw/main/manif/jnbioss_201703/slides/Casagranda.pdf) **11h00 - 11h30** - **Pause**\
 *Chairman: Cédric Lhoussaine*\
 **11h30 - 11h45** - Yves-Stan Le Cornec - *Le Projet Kami.*\
 **11h50 - 12h05** - Andreea Beica - *Synchronous balanced analysis.*
-[slides](slides/Beica.pdf)i\
+[slides](https://github.com/gt-bioss/events-slides/raw/main/manif/jnbioss_201703/slides/Beica.pdf)i\
 **12h10 - 12h25** - François Fages - *Complexité algorithmique des
 calculs analogiques et compilation de fonctions mathématiques en
 réactions biochimiques élémentaires.*\
@@ -115,12 +115,12 @@ réactions biochimiques élémentaires.*\
 \
 *Chairman: Ovidiu Radulescu*\
 **13h45 - 14h30** - **Conférencier invité** - Thomas Sturm - *Symbolic
-Methods in Bifurcation Analysis.* [slides](slides/Sturm.pdf)\
+Methods in Bifurcation Analysis.* [slides](https://github.com/gt-bioss/events-slides/raw/main/manif/jnbioss_201703/slides/Sturm.pdf)\
 **14h35 - 14h50** - Matthieu Pichene - *Predicting tumor growth using a
 statistical layered population abstraction.*
-[slides](slides/Pichene.pdf)\
+[slides](https://github.com/gt-bioss/events-slides/raw/main/manif/jnbioss_201703/slides/Pichene.pdf)\
 **14h55 - 15h10** - François Boulier - *Identifiabilité, équations
-intégro-différentielles et neurobiologie.* [slides](slides/Boulier.pdf)\
+intégro-différentielles et neurobiologie.* [slides](https://github.com/gt-bioss/events-slides/raw/main/manif/jnbioss_201703/slides/Boulier.pdf)\
 **15h15 - 15h40** - **Pause**\
 *Chairman: François Fages*\
 **15h40 - 15h55** - Clémence Frioux - *Hybrid gap-filling to reconcile
