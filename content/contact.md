@@ -9,5 +9,3 @@ Il suffit d'envoyer un mail aux adresses suivantes en indiquant "[bioss]" au dé
 * Cédric Lhoussaine : cedric.lhoussaine_$à$_univ-lille1.fr
 * Loïc Paulevé: loic.pauleve_$à$_labri.fr
 * Élisabeth Remy : elisabeth.remy_$à$_univ-amu.fr 
-
-ou plus simplement en utilisant l'adresse générique : contact_$à$_bioss-cnrs.fr

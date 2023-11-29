@@ -52,10 +52,10 @@ url = "/categories/manifestations/"
 name = "Manifestations"
 weight = 3
 
-[[menu.main]]
-url = "/projets.html"
-name = "Projets"
-weight = 6
+# [[menu.main]]
+# url = "/projets.html"
+# name = "Projets"
+# weight = 6
 
 [[menu.main]]
 url = "https://mygdr.hosted.lip6.fr/GTView/11/"
