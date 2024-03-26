@@ -1,6 +1,6 @@
 ---
 date: 2024-05-27
-title: "Journées annuelles du GT Bioss"
+title: "Journées annuelles 2024 du GT Bioss"
 summary: "Du **27 au 29 mai 2024** à **Paris**"
 categories: "Manifestations"
 ---
