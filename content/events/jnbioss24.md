@@ -7,6 +7,11 @@ categories: "Manifestations"
 
 Lieu : [Campus Pierre-et-Marie-Curie (Jussieu)](https://sciences.sorbonne-universite.fr/sorbonne-universite-campus-pierre-et-marie-curie), Paris 5e
 
+## Objectif
+
+Les journées annuelles sont un point de rassemblement important pour notre GT. Elles permettent un moment d'échange entre les chercheuses et chercheurs, débutant(e)s et confirmé(e)s  pour discuter sur nos avancées scientifiques récentes et les défis à aborder, à la frontière en informatique, mathématique, et biologie.
+Cette année, nous avons décidé de regrouper les évènements du GT Bioss (typiquement une journée annuelle + 1 ou 2 journée thématique) en un seule période. Ainsi, les journées annuelles seront suivis par deux ateliers thématiques, sur l'évaluation de méthodes d'inférence de modèles, et sur les outils développés autour des modèles logiques.
+
 ## Inscription
 
 Inscription gratuite mais obligratoire : https://framaforms.org/journees-du-gt-bioss-2024-ateliers-1710882707 avant le **30 avril**.
@@ -15,6 +20,11 @@ Inscription gratuite mais obligratoire : https://framaforms.org/journees-du-gt-
 
 Le programme général se déroulera entre le lundi 27 mai à 10h30 jusqu'au mardi 28 mai à 12h et constitera d'exposés invités et contribués.
 Deux ateliers d'une demi-journée suivront le mardi 28 après-midi et mercredi 29 mai matin.
+
+Exposés invités confirmés
+- [Jakob Ruess](https://www.inria.fr/fr/jakob-ruess) (Inria Saclay)
+- [Wolfram Liebermeister](http://genome.jouy.inra.fr/~wliebermeis/index_en.html) (Inrae Jouy-en-Josas)
+- TBA
 
 ### Lundi 27 mai 10h30 - 17h
 *Salle de séminaire du LIP6 (salle 25-26/105), Campus UMPC Jussieu*
@@ -26,7 +36,7 @@ Deux ateliers d'une demi-journée suivront le mardi 28 après-midi et mercredi 2
 
 À venir
 
-### Atelier "Benchmark d'inférence de modèle" - mardi 28 mai 14h-17h
+### Atelier "Évaluation de méthodes d'inférence de modèles" - mardi 28 mai 14h-17h
 *Salle 306, IBENS, ENS Paris (46 rue d’Ulm, 75005 Paris)*
 
 Objectifs:
@@ -38,7 +48,7 @@ Objectifs:
     - vis-à-vis de la structure: équivalence/proximité avec le ground truth
     - vis-à-vis des prédictions (p. ex sur les mutants): permet de comparer des modèles de nature différente
 
-### Atelier "CoLoMoTo" - mercredi 29 9h30-12h30
+### Atelier "CoLoMoTo - Outils pour la modélisation logique" - mercredi 29 9h30-12h30
 *Salle 306, IBENS, ENS Paris (46 rue d’Ulm, 75005 Paris)*
 
 Objectifs:
