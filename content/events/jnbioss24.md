@@ -25,12 +25,12 @@ Exposés invités confirmés
 - TBA
 
 ### Lundi 27 mai 10h30 - 17h
-*Salle de séminaire du LIP6 (salle 25-26/105), Campus UMPC Jussieu*
+*Salle de séminaire du LIP6 (salle 25-26/105), Campus UPMC Jussieu*
 
 À venir
 
 ### Mardi 28 mai 9h30 - 12h
-*Salle de séminaire du LIP6 (salle 25-26/105), Campus UMPC Jussieu*
+*Salle de séminaire du LIP6 (salle 25-26/105), Campus UPMC Jussieu*
 
 À venir
 
