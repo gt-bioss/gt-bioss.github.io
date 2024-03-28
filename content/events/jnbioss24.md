@@ -22,7 +22,6 @@ Deux ateliers d'une demi-journée suivront le mardi 28 après-midi et mercredi 2
 Exposés invités confirmés
 - [Jakob Ruess](https://www.inria.fr/fr/jakob-ruess) (Inria Saclay)
 - [Wolfram Liebermeister](http://genome.jouy.inra.fr/~wliebermeis/index_en.html) (Inrae Jouy-en-Josas)
-- TBA
 
 ### Lundi 27 mai 10h30 - 17h
 *Salle de séminaire du LIP6 (salle 25-26/105), Campus UPMC Jussieu*
