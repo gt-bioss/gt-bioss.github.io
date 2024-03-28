@@ -7,7 +7,7 @@ categories: "Manifestations"
 
 Lieu : [Campus Pierre-et-Marie-Curie (Jussieu)](https://sciences.sorbonne-universite.fr/sorbonne-universite-campus-pierre-et-marie-curie), Paris 5e
 
-Les journées annuelles sont un point de rassemblement important pour notre GT. Elles permettent un moment d'échange entre les chercheuses et chercheurs, débutant(e)s et confirmé(e)s pour discuter sur nos avancées scientifiques récentes et les défis à aborder, à la frontière en informatique, mathématique, et biologie.
+Les journées annuelles sont un point de rassemblement important pour notre GT. Elles permettent un moment d'échange entre les chercheuses et chercheurs, débutant(e)s et confirmé(e)s, pour discuter sur nos avancées scientifiques récentes et les défis à aborder, à la frontière en informatique, mathématique, et biologie.
 Cette année, nous avons décidé de regrouper les évènements du GT Bioss (typiquement une journée annuelle et 1 ou 2 journées thématiques) en une seule période. Ainsi, les journées annuelles seront suivies par deux ateliers thématiques, sur l'évaluation de méthodes d'inférence de modèles, et sur les outils développés autour des modèles logiques.
 
 ## Inscription
