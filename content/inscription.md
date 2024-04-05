@@ -19,4 +19,4 @@ L'inscription au GT Bioss se fait en deux temps :
 
 Attention, cette liste de diffusion disparaîtra le 01/01/2024. Les annonces se feront sur la liste de diffusion myGDR.
 
-En cas de problème, vous pouvez nous contacter par e-mail à contact_$à$_bioss-cnrs.fr
+En cas de problème, merci de contacter les animateurs du GT.
