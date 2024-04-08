@@ -23,15 +23,28 @@ Exposés invités confirmés
 - [Jakob Ruess](https://www.inria.fr/fr/jakob-ruess) (Inria Saclay)
 - [Wolfram Liebermeister](http://genome.jouy.inra.fr/~wliebermeis/index_en.html) (Inrae Jouy-en-Josas)
 
-### Lundi 27 mai 10h30 - 17h
+### Lundi 27 mai
 *Salle de séminaire du LIP6 (salle 25-26/105), Campus UPMC Jussieu*
 
-À venir
+- 10h - 10h30 *Welcome coffee*
+- 10h30 - 11h: [Sabine Péres](https://lbbe.univ-lyon1.fr/fr/annuaires-des-membres/peres-sabine) (LBBE, Univ Lyon)
+- 11h - 11h30: [Maxime Folschette](http://maxime.folschette.name/) (CRIStAL, IUT Lille)
+- 11h30 - 12h30: *contributed talks* (TBA)
+
+Buffet 12h30 - 14h
+
+- 14h - 15h: *Invited speaker* (TBA)
+- 15h - 15h30: *contributed talks* (TBA)
+- 15h30 - 16h00: *Break*
+- 16h - 17: *contributed talks* (TBA)
 
 ### Mardi 28 mai 9h30 - 12h
 *Salle de séminaire du LIP6 (salle 25-26/105), Campus UPMC Jussieu*
 
-À venir
+- 9h30 - 10h30: *Invited speaker* (TBA)
+- 10h30 - 11h: *Break*
+- 11h - 11h30: *contributed talk* (TBA)
+- 11h30 - 12h Discussion
 
 ### Atelier "Évaluation de méthodes d'inférence de modèles" - mardi 28 mai 14h-17h
 *Salle 306, IBENS, ENS Paris (46 rue d’Ulm, 75005 Paris)*
