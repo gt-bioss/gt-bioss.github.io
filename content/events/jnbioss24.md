@@ -65,3 +65,5 @@ Objectifs:
 - Faire le point sur les outils développés dans le GT et leur mise à disposition
 - Défis méthodologiques pour la modélisation logique (combinaison de modèles, reproducibilité des simulations, ...)
 - Faire le point sur l'état et le devenir de la distribution Docker CoLoMoTo
+
+Programme préliminaire : https://codimd.math.cnrs.fr/s/EVOoKlvx4
