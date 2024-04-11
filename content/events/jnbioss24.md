@@ -33,7 +33,7 @@ Exposés invités confirmés
 
 Buffet 12h30 - 14h
 
-- 14h - 15h: *Invited speaker* (TBA)
+- 14h - 15h: [Jakob Ruess](https://www.inria.fr/fr/jakob-ruess) (Inria Saclay), *"From single cells to microbial consortia and back: stochastic chemical kinetics coupled to population dynamics"*
 - 15h - 15h30: *contributed talks* (TBA)
 - 15h30 - 16h00: *Break*
 - 16h - 17: *contributed talks* (TBA)
@@ -41,7 +41,7 @@ Buffet 12h30 - 14h
 ### Mardi 28 mai 9h30 - 12h
 *Salle de séminaire du LIP6 (salle 25-26/105), Campus UPMC Jussieu*
 
-- 9h30 - 10h30: *Invited speaker* (TBA)
+- 9h30 - 10h30: [Wolfram Liebermeister](http://genome.jouy.inra.fr/~wliebermeis/index_en.html) (Inrae Jouy-en-Josas)
 - 10h30 - 11h: *Break*
 - 11h - 11h30: *contributed talk* (TBA)
 - 11h30 - 12h Discussion
@@ -67,3 +67,11 @@ Objectifs:
 - Faire le point sur l'état et le devenir de la distribution Docker CoLoMoTo
 
 Programme préliminaire : https://codimd.math.cnrs.fr/s/EVOoKlvx4
+
+## Résumés / Abstracts
+
+### Jakob Ruess
+*From single cells to microbial consortia and back: stochastic chemical kinetics coupled to population dynamics*
+
+At the single-cell level, biochemical processes are inherently stochastic. Such processes are typically studied using models based on stochastic chemical kinetics, governed by a chemical master equation (CME). The CME describes the time evolution of the probability distribution over system states and has been a tremendously helpful tool in shedding light on the functioning of cellular processes. However, single cells are not living in isolation but are part of a growing population or community. In such contexts, stochasticity at the single-cell scale leads to population heterogeneity and cells may be subject to population processes, such as selection, that drive the population distribution away from the probability distribution of the single-cell process.
+Here, I will introduce a multi-scale modeling framework that allows one to capture coupled stochastic single-cell and population processes. I will show that the expected population distribution of such multi-scale models can be calculated by solving a modified version of the CME that is of the same dimensionality as the standard CME. I will then show how such models can be used to explain experimental data on plasmid copy number fluctuations and population growth in media that selects against cells that have lost the plasmid. Finally, I will present an optogenetic recombination system that allows one to partition yeast populations into different cell types via external application of blue light to cells and show how our modeling framework can be used to predict and control emerging dynamics of the population composition in response to time-varying light stimuli.
