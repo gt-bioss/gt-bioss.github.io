@@ -28,7 +28,7 @@ Exposés invités confirmés
 
 - 10h - 10h30 *Welcome coffee*
 - 10h30 - 11h: [Sabine Péres](https://lbbe.univ-lyon1.fr/fr/annuaires-des-membres/peres-sabine) (LBBE, Univ Lyon)
-- 11h - 11h30: [Maxime Folschette](http://maxime.folschette.name/) (CRIStAL, IUT Lille)
+- 11h - 11h30: [Maxime Folschette](http://maxime.folschette.name/) (CRIStAL, Centrale Lille), *"Modeling, Analysis and Parameter Inference of a Class of Hybrid Regulatory Networks"*
 - 11h30 - 12h30: *contributed talks* (TBA)
 
 Buffet 12h30 - 14h
