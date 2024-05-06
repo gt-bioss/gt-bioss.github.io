@@ -12,7 +12,7 @@ Cette année, nous avons décidé de regrouper les évènements du GT Bioss (typ
 
 ## Inscription
 
-Inscription gratuite mais obligatoire : https://framaforms.org/journees-du-gt-bioss-2024-ateliers-1710882707 avant le **30 avril**.
+Les inscriptions sont closes.
 
 ## Programme préliminaire
 
