@@ -46,7 +46,7 @@ Buffet 12h30 - 14h
 - 11h - 11h30: *contributed talk* (TBA)
 - 11h30 - 12h Discussion
 
-### Atelier "Évaluation de méthodes d'inférence de modèles" - mardi 28 mai 14h-17h
+### 🎯 Atelier "Évaluation de méthodes d'inférence de modèles" - mardi 28 mai 14h-17h
 *Salle 306, IBENS, ENS Paris (46 rue d’Ulm, 75005 Paris)*
 
 Objectifs:
@@ -58,7 +58,9 @@ Objectifs:
     - vis-à-vis de la structure: équivalence/proximité avec le ground truth
     - vis-à-vis des prédictions (p. ex sur les mutants): permet de comparer des modèles de nature différente
 
-### Atelier "CoLoMoTo - Outils pour la modélisation logique" - mercredi 29 9h30-12h30
+[Programme dédié](https://codimd.math.cnrs.fr/s/pR4cVqX7d)
+
+### 🛠️ Atelier "CoLoMoTo - Outils pour la modélisation logique" - mercredi 29 9h30-12h30
 *Salle 306, IBENS, ENS Paris (46 rue d’Ulm, 75005 Paris)*
 
 Objectifs:
@@ -66,7 +68,7 @@ Objectifs:
 - Défis méthodologiques pour la modélisation logique (combinaison de modèles, reproducibilité des simulations, ...)
 - Faire le point sur l'état et le devenir de la distribution Docker CoLoMoTo
 
-Programme préliminaire : https://codimd.math.cnrs.fr/s/EVOoKlvx4
+[Programme dédié](https://codimd.math.cnrs.fr/s/EVOoKlvx4)
 
 ## Résumés / Abstracts
 
