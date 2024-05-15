@@ -98,6 +98,13 @@ In parallel, we have developed a method to identify relevant mutlivalued refinem
 
 A Boolean function is unate if it is monotone increasing or monotone decreasing, in each of its entries. The aim of this paper is to investigate the existence and construction of a unate function compatible with some imposed observations. The existence problem is found to be NP Complete.  A practical algorithm of inference is exposed and tested in terms of accuracy and computational complexity.
 
+### Van-Giang Trinh
+*Trap spaces of multi-valued networks: definition, computation, and applications*
+
+Boolean Networks (BNs) are simple but efficient mathematical formalism for modelling complex biological systems. However, having only two levels of activation is sometimes not enough to fully capture the dynamics of real-world biological systems. Hence, the need for Multi-Valued Networks (MVNs), a generalization of BNs. Despite the importance of MVNs for modelling biological systems, only limited progress has been made on developing theories, analysis methods, and tools that can support them. In particular, the recent use of trap spaces in BNs made a great impact on the field of systems biology, but there has been no similar concept defined and studied for MVNs to date. In this work, we generalize the concept of trap spaces in BNs to that in MVNs. We then develop the theory and the analysis methods for trap spaces in MVNs. In particular, we implement all proposed methods in a Python package called trapmvn. Not only showing the applicability of our approach via a realistic case study, we also evaluate the time efficiency of the method on a large collection of real-world models. The experimental results confirm the time efficiency, which we believe enables more accurate analysis on larger and more complex multi-valued models.
+
+Reference: Trinh, Van-Giang, Belaid Benhamou, Thomas Henzinger, and Samuel Pastva. "Trap spaces of multi-valued networks: definition, computation, and applications." Bioinformatics 39, no. Supplement_1 (2023): i513-i522. 
+
 ### François Fages
 *Local vs global approaches to model learning: algorithms, failures and theorem*
 
