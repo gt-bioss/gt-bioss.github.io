@@ -32,7 +32,7 @@ Exposés invités confirmés
 - 11h30 - 12h30: *contributed talks*:
     - 11h30: Frida Sophia Orozco Ruiz (Institut Curie), *"Boolean model of epithelial mesenchymal plasticity"*
     - 11h50: Gautier Stoll (Centre de Recherche des Cordeliers), *"Logical modeling of CART-cells treatment in multiple myeloma"*
-    - 12h10: Nadine Ben Boina (I2M), *"Logical modeling, Dysferlinopathies, most permissive scheme, asynchonous scheme"*
+    - 12h10: Nadine Ben Boina (I2M), *"Logical Modeling of Dysferlinopathies"*
 
 Buffet 12h30 - 14h
 
@@ -85,6 +85,13 @@ Objectifs:
 
 At the single-cell level, biochemical processes are inherently stochastic. Such processes are typically studied using models based on stochastic chemical kinetics, governed by a chemical master equation (CME). The CME describes the time evolution of the probability distribution over system states and has been a tremendously helpful tool in shedding light on the functioning of cellular processes. However, single cells are not living in isolation but are part of a growing population or community. In such contexts, stochasticity at the single-cell scale leads to population heterogeneity and cells may be subject to population processes, such as selection, that drive the population distribution away from the probability distribution of the single-cell process.
 Here, I will introduce a multi-scale modeling framework that allows one to capture coupled stochastic single-cell and population processes. I will show that the expected population distribution of such multi-scale models can be calculated by solving a modified version of the CME that is of the same dimensionality as the standard CME. I will then show how such models can be used to explain experimental data on plasmid copy number fluctuations and population growth in media that selects against cells that have lost the plasmid. Finally, I will present an optogenetic recombination system that allows one to partition yeast populations into different cell types via external application of blue light to cells and show how our modeling framework can be used to predict and control emerging dynamics of the population composition in response to time-varying light stimuli.
+
+### Nadine Ben Boina
+*Logical Modeling of Dysferlinopathies*
+
+Dysferlinopathies are a group of rare muscle diseases caused by mutations in the dysferlin gene (DYSF). Patients suffer from severe weakness and skeletal muscle atrophy, resulting from impairments in muscle cell membrane repair, regeneration of muscle fibers and inflammatory response. We are currently building a logical model that encapsulates dysferlin-associated cellular processes, in order to get a better understanding of the genotype-phenotype relationship in dysferlinopathies. Ultimately, we aim to use this model to identify optimal therapeutic targets to help manage the symptoms of the diseases. 
+
+In parallel, we have developed a method to identify relevant mutlivalued refinements of Boolean models. Boolean models offer a simplified approach to studying regulatory networks, but their high level of abstraction can miss specific cellular behaviors. Multivalued refinements address this limitation by allowing for more than just two states for some components. We introduce MRBM, a method that helps identify which components in a Boolean model should be represented with multiple states in oder to capture a specific cellular behavior (dynamical property). 
 
 ### Alexis Poindron
 *The unate compatibility problem in regulatory Boolean networks*
