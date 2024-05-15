@@ -30,7 +30,7 @@ Exposés invités confirmés
 - 10h30 - 11h: [Sabine Péres](https://lbbe.univ-lyon1.fr/fr/annuaires-des-membres/peres-sabine) (LBBE, Univ Lyon)
 - 11h - 11h30: [Maxime Folschette](http://maxime.folschette.name/) (CRIStAL, Centrale Lille), *"Modeling, Analysis and Parameter Inference of a Class of Hybrid Regulatory Networks"*
 - 11h30 - 12h30: *contributed talks*:
-    - 11h30: Frida Sophia Orozco Ruiz (Institut Curie), *"Boolean model of epithelial mesenchymal plasticity"*
+    - 11h30: Sophia Orozco Ruiz (Institut Curie), *"Logical modeling of Mesenchymal to Epithelial Transition in Cancer Progression"*
     - 11h50: Gautier Stoll (Centre de Recherche des Cordeliers), *"Logical modeling of CART-cells treatment in multiple myeloma"*
     - 12h10: Nadine Ben Boina (I2M), *"Logical Modeling of Dysferlinopathies"*
 
@@ -85,6 +85,11 @@ Objectifs:
 
 At the single-cell level, biochemical processes are inherently stochastic. Such processes are typically studied using models based on stochastic chemical kinetics, governed by a chemical master equation (CME). The CME describes the time evolution of the probability distribution over system states and has been a tremendously helpful tool in shedding light on the functioning of cellular processes. However, single cells are not living in isolation but are part of a growing population or community. In such contexts, stochasticity at the single-cell scale leads to population heterogeneity and cells may be subject to population processes, such as selection, that drive the population distribution away from the probability distribution of the single-cell process.
 Here, I will introduce a multi-scale modeling framework that allows one to capture coupled stochastic single-cell and population processes. I will show that the expected population distribution of such multi-scale models can be calculated by solving a modified version of the CME that is of the same dimensionality as the standard CME. I will then show how such models can be used to explain experimental data on plasmid copy number fluctuations and population growth in media that selects against cells that have lost the plasmid. Finally, I will present an optogenetic recombination system that allows one to partition yeast populations into different cell types via external application of blue light to cells and show how our modeling framework can be used to predict and control emerging dynamics of the population composition in response to time-varying light stimuli.
+
+### Orozco Ruiz Sophia
+*Logical modeling of Mesenchymal to Epithelial Transition in Cancer Progression*
+
+The ability of carcinoma cells to move along the epithelial mesenchymal spectrum is crucial for metastasis. Even so, the reverse process of Epithelial to Mesenchymal Transition (EMT), Mesenchymal to Epithelial Transition (MET), has not been extensively explored, as the mechanisms capable of triggering it are not clearly defined. Here, we built a literature-based regulatory network that is translated into a logical model as a tool to reproduce and test aspects of EMT and MET. Through stochastic simulations, we provide insight into how external as well as autocrine signals can be interfered with to induce MET. Our model shows that the MET inducers capable of triggering the program are mostly dependent on the mesenchymal cellular context, as they do not act universally.
 
 ### Nadine Ben Boina
 *Logical Modeling of Dysferlinopathies*
