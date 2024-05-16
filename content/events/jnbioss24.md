@@ -110,6 +110,18 @@ In parallel, we have developed a method to identify relevant mutlivalued refinem
 
 A Boolean function is unate if it is monotone increasing or monotone decreasing, in each of its entries. The aim of this paper is to investigate the existence and construction of a unate function compatible with some imposed observations. The existence problem is found to be NP Complete.  A practical algorithm of inference is exposed and tested in terms of accuracy and computational complexity.
 
+### Stefan Haar
+Bridging the discrete-continuous gap: Continuous Petri nets
+
+Discrete models for biological networks have produced a rich theory and efficient analysis algorithms this is true for  
+Petri nets (PNs)  and Boolean Networks (BNs), which also allow mutual representations by equivalent translations. 
+However, their semantics have been shown to miss state changes that are possible in a continuous representation of the same system;
+ this has led to the introduction of  Most Permissive semantics for BNs. In this talk, I will advocate the use of a different  model
+ from older literature, Continuous Petri nets (CPNs), that combines the modeling advantages of discrete PNs with a continuous relaxation
+ of state evolution, for which reachability and other key properties can be efficiently decided. A survey of some recent results 
+(ICATPN 2024) including attractor search with CPNs will be given, along with some first examples where the attractor landscape changes 
+drastically under the passage to CPNs.
+
 ### Van-Giang Trinh
 *Trap spaces of multi-valued networks: definition, computation, and applications*
 
