@@ -110,6 +110,25 @@ Boolean Networks (BNs) are simple but efficient mathematical formalism for model
 
 Reference: Trinh, Van-Giang, Belaid Benhamou, Thomas Henzinger, and Samuel Pastva. "Trap spaces of multi-valued networks: definition, computation, and applications." Bioinformatics 39, no. Supplement_1 (2023): i513-i522. 
 
+### Mathieu Hemery
+*Stabilizing CRN and Algebraic function - a surprising connexion*
+
+The Turing completeness of continuous Chemical Reaction Networks (CRNs) states
+that any computable real function can be computed by a continuous CRN on a
+finite set of molecular species, possibly restricted to elementary reactions,
+i.e.~with at most two reactants and mass action law kinetics.  To investigate
+pathways like MAPK, we have introduced a more stringent notion of robust online
+analog computation called Absolute Functional Robustness (AFR), to refer to
+CRNs that stabilize the concentration values of some output species to the
+result of one function of the input species concentrations, while allowing
+arbitrary perturbations for intermediate and output species throughout the
+attraction basin. We prove that the set of real functions stabilized by a CRN
+with mass action law kinetics is precisely the set of real algebraic functions.
+Based on this result, we develop a compiler which takes as input any algebraic
+function (defined by one polynomial and one point for selecting one branch of
+the algebraic curve defined by the polynomial) and generates an abstract CRN to
+stabilize it.
+
 ### François Fages
 *Local vs global approaches to model learning: algorithms, failures and theorem*
 
