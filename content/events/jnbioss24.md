@@ -91,6 +91,13 @@ Here, I will introduce a multi-scale modeling framework that allows one to captu
 
 The ability of carcinoma cells to move along the epithelial mesenchymal spectrum is crucial for metastasis. Even so, the reverse process of Epithelial to Mesenchymal Transition (EMT), Mesenchymal to Epithelial Transition (MET), has not been extensively explored, as the mechanisms capable of triggering it are not clearly defined. Here, we built a literature-based regulatory network that is translated into a logical model as a tool to reproduce and test aspects of EMT and MET. Through stochastic simulations, we provide insight into how external as well as autocrine signals can be interfered with to induce MET. Our model shows that the MET inducers capable of triggering the program are mostly dependent on the mesenchymal cellular context, as they do not act universally.
 
+### Gautier Stoll
+*Logical modeling of CART-cells treatment in multiple myeloma*
+
+CAR T cells are T lymphocytes that have been engineered with a “Chimeric Antigen Receptor” for targeting specifically cancer cells. They are constructed from individual patient T lymphocytes and are re-injected as treatment. In multiple myeloma, they represent a new and promising therapy. An important clinical challenge is the understanding and the optimization of such a treatment. For that, a EU project have been created, CERTAINTY - “A cellular immunotherapy virtual twin for personalized cancer treatment”.
+For that, we created a mathematical model of CAR T cell action on tumor cell. The model is based on signaling pathways inside T cell and tumor cells, with their interactions. The mathematical approach is logical. We use UPMaBoSS tool, which is suited for time-dependent interactions between heterogeneous cell types, including their respective signaling pathways.
+In the context of this EU project, there is a need for integrating data from experiments, but above all from human cohort, which could be limited in size. We will show the different possible strategies. As preliminary results, we will show how we can integrate clinical data of clinical progression.
+
 ### Nadine Ben Boina
 *Logical Modeling of Dysferlinopathies*
 
