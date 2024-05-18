@@ -47,7 +47,7 @@ Buffet 12h30 - 14h
 ### Mardi 28 mai 9h30 - 12h
 *Salle de séminaire du LIP6 (salle 25-26/105), Campus UPMC Jussieu*
 
-- 9h30 - 10h30: [Wolfram Liebermeister](http://genome.jouy.inra.fr/~wliebermeis/index_en.html) (Inrae Jouy-en-Josas)
+- 9h30 - 10h30: [Wolfram Liebermeister](http://genome.jouy.inra.fr/~wliebermeis/index_en.html) (Inrae Jouy-en-Josas), "Resource allocation in kinetic models of cell metabolism"
 - 10h30 - 11h: *Break*
 - 11h - 11h30: *contributed talks*:
     - 11h00: François FAGES (Inria Saclay), *"Local vs global approaches to model learning: algorithms, failures and theorem"*
