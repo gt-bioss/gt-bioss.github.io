@@ -27,7 +27,7 @@ Exposés invités confirmés
 *Salle de séminaire du LIP6 (salle 25-26/105), Campus UPMC Jussieu*
 
 - 10h - 10h30 *Welcome coffee*
-- 10h30 - 11h: [Sabine Péres](https://lbbe.univ-lyon1.fr/fr/annuaires-des-membres/peres-sabine) (LBBE, Univ Lyon)
+- 10h30 - 11h: [Sabine Péres](https://lbbe.univ-lyon1.fr/fr/annuaires-des-membres/peres-sabine) (LBBE, Univ Claude Bernard Lyon 1), *"Constraint-based modeling of metabolic pathways using logic programming"*
 - 11h - 11h30: [Maxime Folschette](http://maxime.folschette.name/) (CRIStAL, Centrale Lille), *"Modeling, Analysis and Parameter Inference of a Class of Hybrid Regulatory Networks"*
 - 11h30 - 12h30: *contributed talks*:
     - 11h30: Sophia Orozco Ruiz (Institut Curie), *"Logical modeling of Mesenchymal to Epithelial Transition in Cancer Progression"*
@@ -47,7 +47,7 @@ Buffet 12h30 - 14h
 ### Mardi 28 mai 9h30 - 12h
 *Salle de séminaire du LIP6 (salle 25-26/105), Campus UPMC Jussieu*
 
-- 9h30 - 10h30: [Wolfram Liebermeister](http://genome.jouy.inra.fr/~wliebermeis/index_en.html) (Inrae Jouy-en-Josas), "Resource allocation in kinetic models of cell metabolism"
+- 9h30 - 10h30: [Wolfram Liebermeister](http://genome.jouy.inra.fr/~wliebermeis/index_en.html) (Inrae Jouy-en-Josas), *"Resource allocation in kinetic models of cell metabolism"*
 - 10h30 - 11h: *Break*
 - 11h - 11h30: *contributed talks*:
     - 11h00: François FAGES (Inria Saclay), *"Local vs global approaches to model learning: algorithms, failures and theorem"*
