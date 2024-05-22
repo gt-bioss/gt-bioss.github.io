@@ -24,7 +24,7 @@ Exposés invités confirmés
 - [Wolfram Liebermeister](http://genome.jouy.inra.fr/~wliebermeis/index_en.html) (Inrae Jouy-en-Josas)
 
 ### Lundi 27 mai
-*Salle de séminaire du LIP6 (salle 25-26/105), Campus UPMC Jussieu*
+*Salle de séminaire du LIP6 (salle 105, tour 25-26), Campus UPMC Jussieu* ­— [MAP](https://www.lip6.fr/informations/comment.php)
 
 - 10h20 - 10h30 *Welcome*
 - 10h30 - 11h: [Sabine Peres](https://lbbe.univ-lyon1.fr/fr/annuaires-des-membres/peres-sabine) (LBBE, Univ Claude Bernard Lyon 1), *"Constraint-based modeling of metabolic pathways using logic programming"*
@@ -45,7 +45,7 @@ Buffet 12h30 - 14h
     - 16h30: Mathieu Hemery (Inria Saclay), *"Stabilizing CRN and Algebraic function - a surprising connexion"*
 
 ### Mardi 28 mai 9h30 - 12h
-*Salle de séminaire du LIP6 (salle 25-26/105), Campus UPMC Jussieu*
+*Salle de séminaire du LIP6 (salle 105, tour 25-26), Campus UPMC Jussieu* [plan](https://www.lip6.fr/informations/comment.php)
 
 - 9h30 - 10h30: [Wolfram Liebermeister](http://genome.jouy.inra.fr/~wliebermeis/index_en.html) (Inrae Jouy-en-Josas), *"Resource allocation in kinetic models of cell metabolism"*
 - 10h30 - 11h: *Break*
@@ -55,7 +55,7 @@ Buffet 12h30 - 14h
 - 11h40 - 12h Discussion
 
 ### 🎯 Atelier "Évaluation de méthodes d'inférence de modèles" - mardi 28 mai 14h-17h
-*Salle 306, IBENS, ENS Paris (46 rue d’Ulm, 75005 Paris)*
+*Salle Favard (ground floor), IBENS, ENS Paris (46 rue d’Ulm, 75005 Paris)*
 
 Objectifs:
 - constituter un/des jeux de benchmarks pour évaluer les méthodes d'inférence de modèles (graphes causaux, modèles dynamiques) développées par des membres du GT
@@ -69,7 +69,7 @@ Objectifs:
 [Programme dédié](https://codimd.math.cnrs.fr/s/pR4cVqX7d)
 
 ### 🛠️ Atelier "CoLoMoTo - Outils pour la modélisation logique" - mercredi 29 9h30-12h30
-*Salle 306, IBENS, ENS Paris (46 rue d’Ulm, 75005 Paris)*
+*Salle 306 (3rd floor), IBENS, ENS Paris (46 rue d’Ulm, 75005 Paris)*
 
 Objectifs:
 - Faire le point sur les outils développés dans le GT et leur mise à disposition
