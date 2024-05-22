@@ -49,10 +49,10 @@ Buffet 12h30 - 14h
 
 - 9h30 - 10h30: [Wolfram Liebermeister](http://genome.jouy.inra.fr/~wliebermeis/index_en.html) (Inrae Jouy-en-Josas), *"Resource allocation in kinetic models of cell metabolism"*
 - 10h30 - 11h: *Break*
-- 11h - 11h30: *contributed talks*:
+- 11h - 11h40: *contributed talks*:
     - 11h00: François FAGES (Inria Saclay), *"Local vs global approaches to model learning: algorithms, failures and theorem"*
     - 11h20: Tony Ribeiro (LS2N), *"Learning Dynamics from Partial Observations - Symbolic Modeling of the Unknown"*
-- 11h30 - 12h Discussion
+- 11h40 - 12h Discussion
 
 ### 🎯 Atelier "Évaluation de méthodes d'inférence de modèles" - mardi 28 mai 14h-17h
 *Salle 306, IBENS, ENS Paris (46 rue d’Ulm, 75005 Paris)*
