@@ -26,7 +26,7 @@ Exposés invités confirmés
 ### Lundi 27 mai
 *Salle de séminaire du LIP6 (salle 25-26/105), Campus UPMC Jussieu*
 
-- 10h - 10h30 *Welcome*
+- 10h20 - 10h30 *Welcome*
 - 10h30 - 11h: [Sabine Peres](https://lbbe.univ-lyon1.fr/fr/annuaires-des-membres/peres-sabine) (LBBE, Univ Claude Bernard Lyon 1), *"Constraint-based modeling of metabolic pathways using logic programming"*
 - 11h - 11h30: [Maxime Folschette](http://maxime.folschette.name/) (CRIStAL, Centrale Lille), *"Modeling, Analysis and Parameter Inference of a Class of Hybrid Regulatory Networks"*
 - 11h30 - 12h30: *contributed talks*:
