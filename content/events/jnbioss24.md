@@ -32,7 +32,7 @@ Exposés invités confirmés
 - 11h30 - 12h30: *contributed talks*:
     - 11h30: Sophia Orozco Ruiz (Institut Curie), *"Logical modeling of Mesenchymal to Epithelial Transition in Cancer Progression"*
     - 11h50: Gautier Stoll (Centre de Recherche des Cordeliers), *"Logical modeling of CART-cells treatment in multiple myeloma"*
-    - 12h10: Nadine Ben Boina (I2M), *"Logical Modeling of Dysferlinopathies"*
+    - 12h10: Nadine Ben Boina (I2M), *"Identification of Multivalued Refinements of Boolean Models"*
 
 Buffet 12h30 - 14h
 
@@ -105,11 +105,9 @@ For that, we created a mathematical model of CAR T cell action on tumor cell. Th
 In the context of this EU project, there is a need for integrating data from experiments, but above all from human cohort, which could be limited in size. We will show the different possible strategies. As preliminary results, we will show how we can integrate clinical data of clinical progression.
 
 ### Nadine Ben Boina
-*Logical Modeling of Dysferlinopathies*
+*Identification of Multivalued Refinements of Boolean Models*
 
-Dysferlinopathies are a group of rare muscle diseases caused by mutations in the dysferlin gene (DYSF). Patients suffer from severe weakness and skeletal muscle atrophy, resulting from impairments in muscle cell membrane repair, regeneration of muscle fibers and inflammatory response. We are currently building a logical model that encapsulates dysferlin-associated cellular processes, in order to get a better understanding of the genotype-phenotype relationship in dysferlinopathies. Ultimately, we aim to use this model to identify optimal therapeutic targets to help manage the symptoms of the diseases. 
-
-In parallel, we have developed a method to identify relevant mutlivalued refinements of Boolean models. Boolean models offer a simplified approach to studying regulatory networks, but their high level of abstraction can miss specific cellular behaviors. Multivalued refinements address this limitation by allowing for more than just two states for some components. We introduce MRBM, a method that helps identify which components in a Boolean model should be represented with multiple states in oder to capture a specific cellular behavior (dynamical property). 
+I will present a method for identifying relevant multivalued refinements of Boolean models. Boolean models provide a simplified approach to the study of biological systems, but their high level of abstraction can miss behaviours observable in the system under study. The construction of multivalued refinements can overcome this limitation. In a multivalued model, components can have more than two activity states, providing a more nuanced representation. We introduce MRBM (Multivalued Refinement of Boolean Models), a method that helps identify which components in a Boolean model should be represented with additional states to accurately capture specific dynamical properties. 
 
 ### Alexis Poindron
 *The unate compatibility problem in regulatory Boolean networks*
