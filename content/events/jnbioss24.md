@@ -68,8 +68,8 @@ Objectifs:
 
 [Programme dédié](https://codimd.math.cnrs.fr/s/pR4cVqX7d)
 
-### 🛠️ Atelier "CoLoMoTo - Outils pour la modélisation logique" - mercredi 29 9h30-12h30
-*Salle 306 (3rd floor), IBENS, ENS Paris (46 rue d’Ulm, 75005 Paris)*
+### 🛠️ Atelier "CoLoMoTo - Outils pour la modélisation logique" - mercredi 29 9h20-12h30
+*Salle Favard (ground floor), IBENS, ENS Paris (46 rue d’Ulm, 75005 Paris)*
 
 Objectifs:
 - Faire le point sur les outils développés dans le GT et leur mise à disposition
