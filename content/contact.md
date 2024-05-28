@@ -9,7 +9,7 @@ Les membres du GT Bioss peuvent écrire à gt-bioss_$à$_gdr-ifm.fr.
 
 ### Organisation
 
-Organisation générale du GT :
+Animation générale du GT :
 * [Laurence Calzone](https://curie.fr/personne/laurence-calzone) : laurence.calzone_$à$_curie.fr
 * [Maxime Folschette](http://maxime.folschette.name/) : maxime.folschette_$à$_centralelille.fr
 * [Loïc Paulevé](https://loicpauleve.name) : loic.pauleve_$à$_labri.fr
