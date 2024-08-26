@@ -26,11 +26,7 @@
 {{end}}
 
 <!-- metadata -->
-
-{{ if .Site.GoogleAnalytics }}
-{{ template "_internal/google_analytics.html" . }}
-{{ end }}
-
+  
 <link type="text/css" rel="stylesheet" href="{{"/vendor/css/bootstrap.min.css" | relURL}}">
 
 {{if .Site.Params.manifest}}
