@@ -25,13 +25,14 @@ Exposés invités confirmés
 - [Cédric Lhoussaine](https://www.cristal.univ-lille.fr/en/profil/lhoussai/) (Université de Lille)
 
 ### Lundi 26 mai
-[*Amphithéâtre Hélène Martel-Massignac (anciennement amphi BDD), Pavillon Curie, 11 rue Pierre et Marie Curie, Paris*](https://www.openstreetmap.org/way/56066140)
+*Amphithéâtre Hélène Martel-Massignac (anciennement amphi BDD), Pavillon Curie, 11 rue Pierre et Marie Curie, Paris* - [Carte](https://www.openstreetmap.org/way/56066140)
 
 Programme à venir
 
 ### Mardi 27 mai
-[*Amphithéâtre Curie, Pavillon Curie, 11 rue Pierre et Marie Curie, Paris*](https://www.openstreetmap.org/way/56066140)
+*Amphithéâtre Curie, Pavillon Curie, 11 rue Pierre et Marie Curie, Paris* - [Carte](https://www.openstreetmap.org/way/56066140)
 
 Programme à venir
 
 ## Résumés / Abstracts
+À venir
