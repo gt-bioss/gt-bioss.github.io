@@ -6,7 +6,10 @@ copyright = "GT Bioss."
 theme = "diary"
 # googleAnalytics = "UA-123-45"
 buildFuture = true
-paginate = 25
+
+# Define the number of posts per page
+[pagination]
+    pagerSize = 25
 
 [markup]
   [markup.highlight]
