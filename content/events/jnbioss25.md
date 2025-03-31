@@ -17,7 +17,7 @@ Lien à venir.
 
 ## Programme préliminaire
 
-Le programme général se déroulera entre le lundi 26 mai à 10h30 jusqu'au mardi 28 mai à 17h.
+Le programme général se déroulera entre le lundi 26 mai à 10h30 et le mardi 27 mai à 17h.
 Il offrira des exposés invités et contribués, ainsi que deux ateliers d'une demi-journée.
 
 Exposés invités confirmés
