@@ -29,11 +29,12 @@ Exposés invités confirmés
 
   - 10h20 - 10h30 *Welcome*
   - 10h30 - 11h15: **[Élisabeth Remy](https://mabios.math.cnrs.fr/perso/remy.html)** (CNRS, Aix-Marseille Université)
-  - 11h15 - 12h: *Contributed talks*:
+  - 11h15 - 12h15: *Contributed talks*:
     - 11h15: **Saran Pankaew** (Institut Curie), *Ensemble de modèles, clustering de simulations (théorie)*
     - 11h30: **Gustavo Magaña López** (Université de Bordeaux), *Statistical Refinement of Boolean Models using Perturbation Data*
-    - 11h45: **Patrícia Roxo** (ENS Paris), *On Model Reduction of Boolean Networks*
-  - 12h00 - 13h45: *Buffet*
+    - 11h45: **Patrícia Roxo** (CNRS/ENS/Inria), *On Model Reduction of Boolean Networks*
+    - 12h00: **Rebecca Ghidini** (CNRS/ENS/Inria), *Reachability Analysis for Parametric Rule-Based Models*
+  - 12h15 - 13h45: *Buffet*
   - 13h45 - 14h30: **[Cédric Lhoussaine](https://www.cristal.univ-lille.fr/en/profil/lhoussai/)** (Université de Lille)
   - 14h30 - 15h15: *Contributed talks*:
     - 14h30: **Bastien Chassagnol** (Centre de recherche du CHU de Québec, Université Laval), *Towards More Realistic and Biologically Faithful Models of Cell–Cell Communication Mechanisms*
@@ -61,6 +62,10 @@ The continuous advancement of sequencing technologies continues to push forward 
 
 ### Patrícia Roxo (ENS Paris), *On Model Reduction of Boolean Networks*
 This work emphasizes the role of abstract interpretation in formalizing model reduction techniques, offering a broader framework and clearer insights into the information lost or preserved during these processes. We review existing Boolean model reduction techniques and introduce a new method that ensures reachability properties in the original model are accurately reflected in the reduced model, complementing the standard existing approach of Naldi et al.'s reduction, which does not guarantee this property.
+
+### Rebecca Ghidini (CNRS/ENS/Inria), *Reachability Analysis for Parametric Rule-Based Models*
+Biological system modeling is an iterative process where uncertainties may arise, especially in the early stages of the modeling. Static analysis tools are needed during each stage of the modeling to help modelers detect unexpected behaviors early by automatically inferring properties about the model. However, the rule-based modeling language Kappa and its static analysis tool KaSa currently lack support for incomplete models.
+In this work, we extend Kappa to support incomplete models, where some rules are considered or not considered depending on the value of some boolean parameters. We also generalize the current reachability analysis of the static analyzer KaSa to these parametric models, establishing relationships between properties and parameter values. Finally, we implement and evaluate our approach on example models.
 
 ### Malvina Marku (CRCT), *Time-series RNA-Seq and data-driven network inference unveil dynamic cell phenotypes in Chronic Lymphocytic Leukaemia*
 Gene regulatory networks (GRNs) and mathematical modelling are critical for understanding the complex mechanisms that underlie cellular phenotypic changes, including the identification of key driver genes/pathways, and novel therapeutic targets. In the context of the tumour microenvironment (TME), the complex interactions between immune and cancer cells give rise to a cascade of regulatory processes at different levels, defining the cellular behaviour and response to external stimuli. In the presence of cancer cells, several immune cell populations undergo cell-state transitions toward pro-tumoral phenotypes or functional exhaustion. While the cell reprogramming and state transition of immune cells are well studied, the detailed molecular description of cancer cell behaviour in response to the interactions with immune cells remains incomplete. 
