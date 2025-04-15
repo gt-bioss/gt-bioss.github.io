@@ -50,10 +50,18 @@ Exposés invités confirmés
     - 17h00: **Denis Thieffry** (Institut Curie), *CoLoMoTo tutorial*
   - 17h15 - 17h30: *Wrap-up & discussion*
 
-### Mardi 27 mai
+### Mardi 27 mai : ateliers thématiques
 *Amphithéâtre Curie, Pavillon Curie, 11 rue Pierre et Marie Curie, Paris* - [Carte](https://www.openstreetmap.org/way/56066140)
 
-Programme à venir
+#### Matin : Sources de données pour la modélisation en écologie marine
+
+Organisation : Maxime Folschette, Clémence Frioux, Éric Pelletier
+
+De 9h30 à 12h00, programme à venir
+
+#### Après-midi : Modèles métaboliques pour l'industrie et les applications médicales
+
+TBA
 
 ## Résumés (exposés du lundi) / Abstracts (Monday talks)
 
