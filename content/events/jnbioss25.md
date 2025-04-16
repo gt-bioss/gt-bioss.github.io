@@ -66,9 +66,9 @@ De 9h30 à 12h00, programme à venir
 Cet atelier réunira des chercheur·es académiques et industriels autour des applications médicales et biotechnologiques des modèles métaboliques. Les participant·es discuteront des approches de modélisation en recherche industrielle ainsi que les passerelles entre les carrières académiques et industrielles.
 
 - **Intervenant.es**:
-    - Almut Heinken (Inserm UMRS 1256 NGERE, University of Lorraine, Nancy)
-    - Jeremy Grignard (Servier Research & Development Institut Paris-Saclay - Data Sciences & Data Management Unit)
-    - Margit Heiske (iMEAN)
+    - **Almut Heinken** (Inserm UMRS 1256 NGERE, University of Lorraine, Nancy)
+    - **Jeremy Grignard** (Servier Research & Development Institut Paris-Saclay - Data Sciences & Data Management Unit)
+    - **Margit Heiske** (iMEAN)
 
 - **Programme** :
     - 14h : Exposés des intervenant.es et discussions libres 
