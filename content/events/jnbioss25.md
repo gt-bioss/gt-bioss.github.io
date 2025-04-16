@@ -89,11 +89,14 @@ This work emphasizes the role of abstract interpretation in formalizing model re
 
 ### Rebecca Ghidini (CNRS/ENS/Inria), *Reachability Analysis for Parametric Rule-Based Models*
 Biological system modeling is an iterative process where uncertainties may arise, especially in the early stages of the modeling. Static analysis tools are needed during each stage of the modeling to help modelers detect unexpected behaviors early by automatically inferring properties about the model. However, the rule-based modeling language Kappa and its static analysis tool KaSa currently lack support for incomplete models.
+
 In this work, we extend Kappa to support incomplete models, where some rules are considered or not considered depending on the value of some boolean parameters. We also generalize the current reachability analysis of the static analyzer KaSa to these parametric models, establishing relationships between properties and parameter values. Finally, we implement and evaluate our approach on example models.
 
 ### Malvina Marku (CRCT), *Time-series RNA-Seq and data-driven network inference unveil dynamic cell phenotypes in Chronic Lymphocytic Leukaemia*
 Gene regulatory networks (GRNs) and mathematical modelling are critical for understanding the complex mechanisms that underlie cellular phenotypic changes, including the identification of key driver genes/pathways, and novel therapeutic targets. In the context of the tumour microenvironment (TME), the complex interactions between immune and cancer cells give rise to a cascade of regulatory processes at different levels, defining the cellular behaviour and response to external stimuli. In the presence of cancer cells, several immune cell populations undergo cell-state transitions toward pro-tumoral phenotypes or functional exhaustion. While the cell reprogramming and state transition of immune cells are well studied, the detailed molecular description of cancer cell behaviour in response to the interactions with immune cells remains incomplete. 
+
 In this study, we investigate the regulatory interactions underlying Chronic Lymphocytic Leukaemia (CLL) by integrating time-series RNA sequencing with data-driven GRN inference. Using an in vitro model of the TME composed of patient-derived CLL cells and immune cells, we compared monoculture and autologous culture conditions over 5 time points. Our analysis revealed that the presence of immune cells significantly alters CLL gene expression profiles, with autologous cultures showing upregulation of immune response, cytokine signalling, and metabolic pathways. We employed data-driven inference algorithms to infer GRNs based on transcription factor (TF) activity, thus capturing temporal regulatory interactions and highlighting patient-specific regulatory mechanisms. Performing network analysis we identified distinct gene modules, revealing critical pathways influenced by immune interactions, such as cytokine signaling and metabolic reprogramming. 
+
 Our findings emphasise the role of patient heterogeneity in shaping regulatory networks, underscoring the importance of personalised approaches in CLL research. In addition, the methodological framework applied in this study offers a workflow of integrating time-series transcriptomics with GRN inference to uncover context-specific regulatory mechanisms. Lastly, the results offer valuable insights into CLL cell behaviour and provide a foundation for developing targeted therapeutic strategies aimed at disrupting key regulatory nodes within patient-specific GRNs.
 
 ### Carine Legrand (Hôpital Saint-Louis), *Infer mutation coevolution in longitudinal pre-leukemic samples from somatic variant data*
@@ -101,7 +104,9 @@ Clonal heterogeneity plays a major role in tumor and in normal tissues, during p
 
 ### Nathalie Verdière (Université du Havre), *Identifiability in networks of nonlinear dynamical systems with linear and/or nonlinear couplings*
 The identifiability study of dynamical systems is a property that ensures the uniqueness of parameters with respect to the model's measurement(s). Several methods exist, but for nonlinear differential equations, these methods are often limited by the size of the systems.
+
 Some recent work on network identifiability has been published, but strong constraints on the system's linearities and coupling functions are still imposed. Unfortunately, in fields like neuroscience, such restrictions are no longer applicable due to the complex dynamics of the neurons and their interactions.
+
 This presentation aims to present a method for studying identifiability in networks composed of linear and/or nonlinear systems with linear and/or nonlinear coupling functions. Based on the observation of certain variables of interest of some nodes, it determines which subsystems are identifiable. Additionally, the method outlines the paths and steps required to identify these subsystems. It has been automated by an algorithm, implemented in Maple and applied to an example in neuroscience, a neural network of the C. elegans worm.
 
 ### Madeleine Eyraud (CNRS, Université de Lille)
@@ -118,6 +123,9 @@ This presentation discusses an approach that leverage formal methods and machine
 
 ### Denis Thieffry (Institut Curie), *Reproducible Boolean model analyses and simulations with the CoLoMoTo software suite: a tutorial*
 This tutorial provides stepwise instructions to install the 20 tools integrated in the CoLoMoTo software suite, in order to develop reproducible dynamical analyses of logical models of complex biological molecular networks.
+
 The tutorial specifically focuses on the analysis of a previously published model of the regulatory network controlling mammalian cell proliferation. It includes chunks of python code to reproduce several of the results and figures published in the original article and further extend these results with the help of a selection of tools included in the CoLoMoTo suite. 
+
 The notebook covers the visualisation of the network with the tool GINsim, an attractor analysis with bioLQM, the computation of synchronous attractors with BNS, the extraction of modules from the full model, MaBoSS simulations of the wild-type model, as well as of selected mutants, and finally the delineation of compressed probabilistic state transition graphs.
+
 The integration of all these analyses in an executable Jupyter notebook greatly eases their reproducibility, as well as the inclusion of further extensions. This notebook can further be used as a template and enriched with other ColoMoTo tools to enable comprehensive dynamical analyses of biological network models.
