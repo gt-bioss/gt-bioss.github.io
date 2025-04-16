@@ -47,7 +47,7 @@ Exposés invités confirmés
     - 16h15: **Marie-Eva Fabri** (Inria Lille, Université de Lille), *Abstract Simulation of Partial Reaction Networks*
     - 16h30: **Karim Raqbi** (Université de Lille)
     - 16h45: **Thao Dang** (Verimag Grenoble), *Temporal Data Mining for Medical Anomaly Detection*
-    - 17h00: **Denis Thieffry** (Institut Curie), *CoLoMoTo tutorial*
+    - 17h00: **Denis Thieffry** (Institut Curie), *Reproducible Boolean model analyses and simulations with the CoLoMoTo software suite: a tutorial*
   - 17h15 - 17h30: *Wrap-up & discussion*
 
 ### Mardi 27 mai : ateliers thématiques
@@ -115,3 +115,9 @@ The enterocyte is the main cell type of the intestinal wall. As the proximal sec
 
 ### Thao Dang (Verimag Grenoble), *Temporal Data Mining for Medical Anomaly Detection*
 This presentation discusses an approach that leverage formal methods and machine learning to detect and predict anomalies from medical time series. We use Parametric Signal Temporal Logic (PSTL) formula to express features of vital signals and rely on a real dataset to learn parameters that correspond to critical events. The PSTL framework enables a characterisation of waveform features, aiming to enhance the prediction accuracy and can be combined with traditional feature extraction in machine learning. We illustrate the approach with examples in ECG monitoring and hypotension prediction.
+
+### Denis Thieffry (Institut Curie), *Reproducible Boolean model analyses and simulations with the CoLoMoTo software suite: a tutorial*
+This tutorial provides stepwise instructions to install the 20 tools integrated in the CoLoMoTo software suite, in order to develop reproducible dynamical analyses of logical models of complex biological molecular networks.
+The tutorial specifically focuses on the analysis of a previously published model of the regulatory network controlling mammalian cell proliferation. It includes chunks of python code to reproduce several of the results and figures published in the original article and further extend these results with the help of a selection of tools included in the CoLoMoTo suite. 
+The notebook covers the visualisation of the network with the tool GINsim, an attractor analysis with bioLQM, the computation of synchronous attractors with BNS, the extraction of modules from the full model, MaBoSS simulations of the wild-type model, as well as of selected mutants, and finally the delineation of compressed probabilistic state transition graphs.
+The integration of all these analyses in an executable Jupyter notebook greatly eases their reproducibility, as well as the inclusion of further extensions. This notebook can further be used as a template and enriched with other ColoMoTo tools to enable comprehensive dynamical analyses of biological network models.
