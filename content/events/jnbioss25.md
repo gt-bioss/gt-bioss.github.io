@@ -61,7 +61,7 @@ De 9h30 à 12h00, programme à venir
 
 - ####  14h à 16h30 : Modèles métaboliques pour l'industrie et les applications médicales
   
-**Organisation : Almut Heinken, Wolfram Liebermeister, Sabine Peres**
+**Organisation :** Almut Heinken, Wolfram Liebermeister, Sabine Peres
 
 Cet atelier réunira des chercheur·es académiques et industriels autour des applications médicales et biotechnologiques des modèles métaboliques. Les participant·es discuteront des approches de modélisation en recherche industrielle ainsi que les passerelles entre les carrières académiques et industrielles.
 
