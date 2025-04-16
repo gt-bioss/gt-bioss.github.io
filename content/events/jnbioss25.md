@@ -53,30 +53,30 @@ Exposés invités confirmés
 ### Mardi 27 mai : ateliers thématiques
 *Amphithéâtre Curie, Pavillon Curie, 11 rue Pierre et Marie Curie, Paris* - [Carte](https://www.openstreetmap.org/way/56066140)
 
-#### Matin : Sources de données pour la modélisation en écologie marine
+- ####  9h30 à 12h00 : Sources de données pour la modélisation en écologie marine
 
 Organisation : Maxime Folschette, Clémence Frioux, Éric Pelletier
 
 De 9h30 à 12h00, programme à venir
 
-#### Après-midi : Modèles métaboliques pour l'industrie et les applications médicales
-
-Organisation : Almut Heinken, Wolfram Liebermeister, Sabine Peres
+- ####  14h à 16h30 : Modèles métaboliques pour l'industrie et les applications médicales
+  
+**Organisation : Almut Heinken, Wolfram Liebermeister, Sabine Peres**
 
 Cet atelier réunira des chercheur·es académiques et industriels autour des applications médicales et biotechnologiques des modèles métaboliques. Les participant·es discuteront des approches de modélisation en recherche industrielle ainsi que les passerelles entre les carrières académiques et industrielles.
 
-- Intervenant.es :
+- **Intervenant.es**:
     - Almut Heinken (Inserm UMRS 1256 NGERE, University of Lorraine, Nancy)
     - Jeremy Grignard (Servier Research & Development Institut Paris-Saclay - Data Sciences & Data Management Unit)
     - Margit Heiske (iMEAN)
 
-- Programme :
-    - 14h Exposés des intervenant.es et Discussions libres 
-    - 15h30 Table ronde et conclusions sur 
+- **Programme** :
+    - 14h : Exposés des intervenant.es et discussions libres 
+    - 15h30 : Table ronde et conclusions sur 
         - Les applications médicales des modèles métaboliques
         - Quels types de modèles / modélisation sont utilisés dans la recherche industrielle ? 
         - La transition du milieu académique (thèse, postdoc) vers le monde industriel
-        …
+        - …
 
 
 ## Résumés (exposés du lundi) / Abstracts (Monday talks)
