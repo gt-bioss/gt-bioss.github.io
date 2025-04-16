@@ -53,13 +53,13 @@ Exposés invités confirmés
 ### Mardi 27 mai : ateliers thématiques
 *Amphithéâtre Curie, Pavillon Curie, 11 rue Pierre et Marie Curie, Paris* - [Carte](https://www.openstreetmap.org/way/56066140)
 
-- ####  9h30 à 12h00 : Sources de données pour la modélisation en écologie marine
+#### 🌊 9h30 à 12h00 : Sources de données pour la modélisation en écologie marine
 
 Organisation : Maxime Folschette, Clémence Frioux, Éric Pelletier
 
 De 9h30 à 12h00, programme à venir
 
-- ####  14h à 16h30 : Modèles métaboliques pour l'industrie et les applications médicales
+#### 🩺 14h à 16h30 : Modèles métaboliques pour l'industrie et les applications médicales
   
 **Organisation :** Almut Heinken, Wolfram Liebermeister, Sabine Peres
 
