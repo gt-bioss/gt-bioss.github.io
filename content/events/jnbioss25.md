@@ -61,7 +61,7 @@ Cet atelier proposera deux exposés invités sur la modélisation en écologie m
 
 - **Intervenant⋅es** :
     - **Samuel Chafforn** (CNRS, LS2N, Université de Nantes)
-    - **Sylvie Gaudron** (LOG, Wimereux & Sorbonne Université)
+    - **Sylvie Gaudron** (Sorbonne Université & LOG, Wimereux)
 
 De 9h30 à 12h00, programme à venir
 
