@@ -55,7 +55,13 @@ Exposés invités confirmés
 
 #### 🌊 9h30 à 12h00 : Sources de données pour la modélisation en écologie marine
 
-Organisation : Maxime Folschette, Clémence Frioux, Éric Pelletier
+**Organisation :** Maxime Folschette, Clémence Frioux, Éric Pelletier
+
+Cet atelier proposera deux exposés invités sur la modélisation en écologie marine, avec un focus sur les sources de données ayant permis de construire ces modèles.
+
+- **Intervenant⋅es** :
+    - **Samuel Chafforn** (CNRS, LS2N, Université de Nantes)
+    - **Sylvie Gaudron** (LOG, Wimereux & Sorbonne Université)
 
 De 9h30 à 12h00, programme à venir
 
@@ -65,7 +71,7 @@ De 9h30 à 12h00, programme à venir
 
 Cet atelier réunira des chercheur·es académiques et industriels autour des applications médicales et biotechnologiques des modèles métaboliques. Les participant·es discuteront des approches de modélisation en recherche industrielle ainsi que les passerelles entre les carrières académiques et industrielles.
 
-- **Intervenant.es**:
+- **Intervenant⋅es** :
     - **Almut Heinken** (Inserm UMRS 1256 NGERE, University of Lorraine, Nancy)
     - **Jeremy Grignard** (Servier Research & Development Institut Paris-Saclay - Data Sciences & Data Management Unit)
     - **Margit Heiske** (iMEAN)
