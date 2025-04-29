@@ -1,7 +1,7 @@
 ---
 date: 2025-05-26
 title: "Journées annuelles 2025 du GT Bioss"
-summary: "Les **26 et 27 mai 2024** à **Paris**"
+summary: "Les **26 et 27 mai 2025** à **Paris**"
 categories: "Manifestations"
 ---
 
