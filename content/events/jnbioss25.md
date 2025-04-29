@@ -37,17 +37,17 @@ Exposés invités confirmés
   - 12h15 - 13h45: *Buffet*
   - 13h45 - 14h30: **[Cédric Lhoussaine](https://www.cristal.univ-lille.fr/en/profil/lhoussai/)** (Université de Lille)
   - 14h30 - 15h15: *Contributed talks*:
-    - 14h30: **Bastien Chassagnol** (Centre de recherche du CHU de Québec, Université Laval), *Digital Twins and Reproducibility: Bridging Point-and-Click Software with Open-Source Integration*
-    - 14h45: **Malvina Marku** (CRCT), *Time-series RNA-Seq and data-driven network inference unveil dynamic cell phenotypes in Chronic Lymphocytic Leukaemia*
-    - 15h00: **Carine Legrand** (Hôpital Saint-Louis), *Infer mutation coevolution in longitudinal pre-leukemic samples from somatic variant data*
+    - 14h30: **Malvina Marku** (CRCT), *Time-series RNA-Seq and data-driven network inference unveil dynamic cell phenotypes in Chronic Lymphocytic Leukaemia*
+    - 14h45: **Carine Legrand** (Hôpital Saint-Louis), *Infer mutation coevolution in longitudinal pre-leukemic samples from somatic variant data*
+    - 15h00: **Bastien Chassagnol** (Centre de recherche du CHU de Québec, Université Laval), *Digital Twins and Reproducibility: Bridging Point-and-Click Software with Open-Source Integration*
   - 15h15 - 15h45: *Break*
   - 15h45 - 17h15: *Contributed talks*:
-    - 15h45: **Nathalie Verdière** (Université du Havre), *Identifiability in networks of nonlinear dynamical systems with linear and/or nonlinear couplings*
-    - 16h00: **Madeleine Eyraud** (CNRS, Université de Lille), *Extraction of Interspecies Influence Graphs from Logical Learning*
-    - 16h15: **Marie-Eva Fabri** (Inria Lille, Université de Lille), *Abstract Simulation of Partial Reaction Networks*
-    - 16h30: **Karim Raqbi** (Université de Lille), *Modeling Glucose Absorption in Enterocytes: Reproduction and Validation of a State-of-the-Art ODE Model*
-    - 16h45: **Thao Dang** (Verimag Grenoble), *Temporal Data Mining for Medical Anomaly Detection*
-    - 17h00: **Denis Thieffry** (Institut Curie), *Reproducible Boolean model analyses and simulations with the CoLoMoTo software suite: a tutorial*
+    - 15h45: **Denis Thieffry** (Institut Curie), *Reproducible Boolean model analyses and simulations with the CoLoMoTo software suite: a tutorial*
+    - 16h00: **Nathalie Verdière** (Université du Havre), *Identifiability in networks of nonlinear dynamical systems with linear and/or nonlinear couplings*
+    - 16h15: **Karim Raqbi** (Université de Lille), *Modeling Glucose Absorption in Enterocytes: Reproduction and Validation of a State-of-the-Art ODE Model*
+    - 16h30: **Madeleine Eyraud** (CNRS, Université de Lille), *Extraction of Interspecies Influence Graphs from Logical Learning*
+    - 16h45: **Marie-Eva Fabri** (Inria Lille, Université de Lille), *Abstract Simulation of Partial Reaction Networks*
+    - 17h00: **Thao Dang** (Verimag Grenoble), *Temporal Data Mining for Medical Anomaly Detection*
   - 17h15 - 17h30: *Wrap-up & discussion*
 
 ### Mardi 27 mai : ateliers thématiques
