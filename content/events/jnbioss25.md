@@ -32,7 +32,7 @@ Exposés invités confirmés
   - 11h15 - 12h15: *Contributed talks*:
     - 11h15: **Saran Pankaew** (Institut Curie), *AstroLogics : A Comprehensive Analysis Framework of Boolean Network in model ensemble*
     - 11h30: **Gustavo Magaña López** (Université de Bordeaux), *Statistical Refinement of Boolean Models using Perturbation Data*
-    - 11h45: **Patrícia Roxo** (CNRS/ENS/Inria), *On Model Reduction of Boolean Networks*
+    - 11h45: **Patrícia Roxo** (ENS & Aix-Marseille Université), *On Model Reduction of Boolean Networks*
     - 12h00: **Rebecca Ghidini** (CNRS/ENS/Inria), *Reachability Analysis for Parametric Rule-Based Models*
   - 12h15 - 13h45: *Buffet*
   - 13h45 - 14h30: **[Cédric Lhoussaine](https://www.cristal.univ-lille.fr/en/profil/lhoussai/)** (Université de Lille), *Modeling Intestinal Glucose Absorption*
@@ -163,7 +163,7 @@ AstroLogics offers a new approach to Boolean model analysis, providing researche
 ### Karim Raqbi (Université de Lille), *Modeling Glucose Absorption in Enterocytes: Reproduction and Validation of a State-of-the-Art ODE Model*
 The enterocyte is the main cell type of the intestinal wall. As the proximal section of the intestine was found to be involved in diabetes remission through bariatric surgery, the study of glucose absorption by these cells may be critical. Although the process of glucose absorption during fasting (low glucose in the intestine) is well-known, a different mechanism occurs during the digestion but is still poorly understood. A robust in silico model backed by experimental data could discriminate the different hypothesis. We report the reproduction, replication and reuse of a state-of-the-art model from CellML to Julia. The ODE model involving 8 species, 4 non-species variables and more than 300 parameters and 200 equations was cleaned to the necessary 119 parameters and 126 equations. We reused the algebraic equations to establish a reaction-network model and managed to reproduce the figures from the paper. With our collaboration with biologists, we project to challenge the model with in vitro data.
 
-### Patrícia Roxo (ENS Paris), *On Model Reduction of Boolean Networks*
+### Patrícia Roxo (ENS & Aix-Marseille Université), *On Model Reduction of Boolean Networks*
 This work emphasizes the role of abstract interpretation in formalizing model reduction techniques, offering a broader framework and clearer insights into the information lost or preserved during these processes. We review existing Boolean model reduction techniques and introduce a new method that ensures reachability properties in the original model are accurately reflected in the reduced model, complementing the standard existing approach of Naldi et al.'s reduction, which does not guarantee this property.
 
 ### Denis Thieffry (Institut Curie), *Reproducible Boolean model analyses and simulations with the CoLoMoTo software suite: a tutorial*
