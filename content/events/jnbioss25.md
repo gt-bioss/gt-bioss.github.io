@@ -25,7 +25,7 @@ Exposés invités confirmés
 - [Cédric Lhoussaine](https://www.cristal.univ-lille.fr/en/profil/lhoussai/) (Université de Lille)
 
 ### Lundi 26 mai
-*Amphithéâtre Hélène Martel-Massignac (anciennement amphi BDD), Pavillon Curie, 11 rue Pierre et Marie Curie, Paris* - [Carte](https://www.openstreetmap.org/way/56066140)
+*Amphithéâtre Hélène Martel-Massignac (anciennement amphi BDD), 11 rue Pierre et Marie Curie, Paris* - [Carte](https://www.openstreetmap.org/way/98644347#map=19/48.844200/2.343875)
 
   - 10h20 - 10h30 *Welcome*
   - 10h30 - 11h15: **[Élisabeth Remy](https://mabios.math.cnrs.fr/perso/remy.html)** (CNRS, Aix-Marseille Université)
