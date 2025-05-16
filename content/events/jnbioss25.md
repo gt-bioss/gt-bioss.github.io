@@ -59,11 +59,10 @@ Exposés invités confirmés
 
 Cet atelier proposera deux exposés invités sur la modélisation en écologie marine, avec un focus sur les sources de données ayant permis de construire ces modèles.
 
-- **Intervenant⋅es** :
-    - **Samuel Chafforn** (CNRS, LS2N, Université de Nantes)
-    - **Sylvie Gaudron** (Sorbonne Université & LOG, Wimereux)
-
-De 9h30 à 12h00, programme à venir
+- **Programme** :
+    - 9h30 - 10h30 : **Samuel Chafforn** (CNRS, LS2N, Université de Nantes)
+    - 10h30 : pause
+    - 11h00 - 12h00 : **Sylvie Gaudron** (Sorbonne Université & LOG, Wimereux)
 
 #### 🩺 14h à 16h30 : Modèles métaboliques pour l'industrie et les applications médicales
   
