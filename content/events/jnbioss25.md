@@ -5,7 +5,7 @@ summary: "Les **26 et 27 mai 2025** à **Paris**"
 categories: "Manifestations"
 ---
 
-Lieu : Pavillon Curie, 11 rue Pierre &amp; Marie Curie, Paris
+Lieu : Institut Curie, 11 rue Pierre &amp; Marie Curie, Paris
 (Amphi BDD le 26 mai et amphi Curie le 27 mai)
 
 Les journées annuelles sont un point de rassemblement important pour notre GT. Elles permettent un moment d'échange entre les chercheuses et chercheurs, débutant(e)s et confirmé(e)s, pour discuter sur nos avancées scientifiques récentes et les défis à aborder, à la frontière en informatique, mathématique, et biologie.
