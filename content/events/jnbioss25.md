@@ -51,7 +51,14 @@ Exposés invités confirmés
   - 17h15 - 17h30: *Wrap-up & discussion*
 
 ### Mardi 27 mai : ateliers thématiques
-*Amphithéâtre Curie, Pavillon Curie, 11 rue Pierre et Marie Curie, Paris* - [Carte](https://www.openstreetmap.org/way/56066140)
+*Amphithéâtre Curie, Pavillon Curie (dans le bâtiment du Musée), 11 rue Pierre et Marie Curie, Paris* - [Carte](https://www.openstreetmap.org/way/56066140)
+
+**POUR CAUSE DE TRAVAUX** : l'accès se fait selon l'itinéraire suivant :
+- Entrer par l'entrée principale (11/13 rue Pierre et Marie Curie)
+- Tourner à gauche pour contourner l'Institut Poincaré
+- Tourner encore à gauche avant le Pavillon Pasteur
+- Passer par les jardins Marie Curie
+- Prendre le passage au bout du jardin pour faire le tour du Pavillon Curie
 
 #### 🌊 9h30 à 12h00 : Sources de données pour la modélisation en écologie marine
 
