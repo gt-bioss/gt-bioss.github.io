@@ -51,7 +51,7 @@ Exposés invités confirmés
   - 17h15 - 17h30: *Wrap-up & discussion*
 
 ### Mardi 27 mai : ateliers thématiques
-*Amphithéâtre Curie, Pavillon Curie (dans le bâtiment du Musée), 11 rue Pierre et Marie Curie, Paris* - [Carte](https://www.openstreetmap.org/way/56066140)
+*Amphithéâtre Curie, Pavillon Curie (dans le bâtiment du Musée), 11 rue Pierre et Marie Curie, Paris* - [Carte]([https://www.openstreetmap.org/way/56066140](https://www.openstreetmap.org/node/10881766852#map=19/48.844320/2.344798&layers=N))
 
 **POUR CAUSE DE TRAVAUX** : l'accès se fait selon l'itinéraire suivant :
 - Entrer par l'entrée principale (11/13 rue Pierre et Marie Curie)
