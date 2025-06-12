@@ -1,0 +1,20 @@
+---
+date: 2024-06-20 13:00:00
+draft: true
+title: "Séminaire virtuel: vendredi 20 juin 2024"
+summary: "Emma Crisci (LBBE)"
+categories: "Séminaires"
+---
+
+
+[Lien Zoom](https://u-bordeaux-fr.zoom.us/j/86764096440?pwd=b01qOG04RTMvRWNOVHBYR1ZIbkVaUT09)
+* Meeting ID: 867 6409 6440
+* passcode: 149120 
+
+
+### 13h00 - 13h50 -- Emma Crisci (LBBE - INRIA Lyon - UMR 5558 CNRS - Université Claude Bernard Lyon 1)
+
+**Constraint-Driven Enumeration of Biologically relevant Elementary Flux Modes in Metabolic Networks Using Hybrid Logic-Linear Programming**
+
+ABSTRACT
+Metabolism represents the entirety of biochemical reactions occurring within an organism to sustain life, including both the degradation processes — catabolism — and the synthesis processes — anabolism — of molecules. Metabolic networks can be represented as oriented hypergraphs, where each reaction connects multiple substrates to products. These networks are encoded by a stoichiometric matrix, quantifying metabolite consumption and production. Under steady-state conditions, the net production of internal metabolites is zero, ensuring balanced consumption and production across the network.  Elementary Flux Modes (EFMs) are the fundamental building blocks of metabolic stoichiometric models. EFMs allow the description of the minimal sets of reactions in a metabolic network under steady-state conditions, representing unique and feasible pathways. While EFMs fully characterize the space of all possible steady-state flux distributions, their number can grow combinatorially with network size, rendering exhaustive enumeration computationally infeasible. Furthermore, it is not necessary to calculate all EFMs, as many of them are not biologically relevant. To address this, we propose an original method to enumerate only biologically meaningful EFMs by integrating explicit biological constraints during the enumeration process. Our approach is a combination of logic programming and a linear solver through ClingoLPx, a hybrid solver. Logic programming manages the qualitative structure of EFMs, while linear programming handles the quantitative side by incorporating biological constraints. To encode the targeted search for EFMs and enforce constraint satisfaction, we use Answer Set Programming (ASP), a declarative paradigm well-suited for modeling and solving complex logical problems. This integration enables the cut-off of search paths leading to non-relevant EFMs, drastically reducing computation time and memory usage, while also allowing the simultaneous application of multiple biological constraints. We present a new version of our software, EFM-aspLPx, which allows seamless integration of various biological constraints during EFM enumeration. This redesigned tool achieves a 10-fold speed-up over our previous implementation by optimizing the interaction between the logical and linear components of the solver provided by ClingoLPx. In particular, we incorporate thermodynamic constraints based on reaction Gibbs free energies, which restrict metabolite concentrations to biologically plausible intervals. These constraints are implemented as theory propagators and further reduce the number of EFMs during enumeration.  We applied our method to the central carbon metabolism of E. coli, showing that incorporating Gibbs energy constraints effectively filters out non-relevant EFMs and significantly improves computational performance. We are currently finalizing an extension of the framework to support additional biological constraints, particularly recent developments in enzyme cost modeling, which limit total enzyme usage within a defined budget.
