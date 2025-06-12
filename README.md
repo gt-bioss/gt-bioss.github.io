@@ -7,9 +7,9 @@
 
 ```md
 ---
-date: 2024-XX-XX 13:00:00
+date: 2025-XX-XX 13:00:00
 draft: false
-title: "Séminaire virtuel: vendredi XX XXXX 2024"
+title: "Séminaire virtuel: vendredi XX XXXX 2025"
 summary: "Name (affiliation)"
 categories: "Séminaires"
 ---
