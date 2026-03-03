@@ -16,5 +16,5 @@ Animation générale du GT :
 * [Misbah RAZZAQ](https://sites.google.com/site/misbahrazzaq6/home) : misbah.razzaq_$à$_inrae.fr
 
 Thèmes :
-- "BioLogique" (lien avec [GDR RADIA](https://gdr-radia.cnrs.fr/)) : [Philippe Dague](mailto:philippe.dague_$à$_universite-paris-saclay.fr) et Misbah RAZZAQ
+- "BioLogique" (lien avec [GDR RADIA](https://gdr-radia.cnrs.fr/)) : [Philippe DAGUE](mailto:philippe.dague_$à$_universite-paris-saclay.fr) et Misbah RAZZAQ
 
