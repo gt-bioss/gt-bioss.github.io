@@ -24,14 +24,20 @@ Exposés invités confirmés
 - [Sylvain Soliman](https://lifeware.inria.fr/~soliman/) (INRIA, Paris-Saclay) 
 - à confirmer 
 
-### Lundi 1 juin 
+### Journées annuelles 
+
+#### Lundi 1 juin 
 *Amphithéâtre Jacques-Louis Lions, Centre Inria de Paris, 48 rue Barrault, Paris* - [Carte](https://www.openstreetmap.org/node/12127574547)
 
 - à définir 
 
-### Mardi 2 juin matin : journées annuelles 
+#### Mardi 2 juin matin : journées annuelles 
+*Amphithéâtre Jacques-Louis Lions, Centre Inria de Paris, 48 rue Barrault, Paris* - [Carte](https://www.openstreetmap.org/node/12127574547)
 
-### Mardi 2 juin après-midi : atelier thématique (Modélisation multi-échelle) 
+### atelier thématique (Modélisation multi-échelle) 
+
+### Mardi 2 juin après-midi 
+*Amphithéâtre Jacques-Louis Lions, Centre Inria de Paris, 48 rue Barrault, Paris* - [Carte](https://www.openstreetmap.org/node/12127574547)
 
 
 ## Résumés (journées annuelles) / Abstracts (annual days)
