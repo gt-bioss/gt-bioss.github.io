@@ -1,10 +1,13 @@
 ---
-date: "`r format(Sys.time(), '%d %B, %Y')`"
+date: 2026-05-17
 title: "Journées annuelles 2026 du GT Bioss"
 summary: "Les **1 et 2 juin 2025** à **Paris**"
 categories: "Manifestations"
 ---
 
+"`r format(Sys.time(), '%d %B, %Y')`"
+
+"`r format(Sys.time(),%Y-%M-%D')`"
 Lieu : Centre Inria de Paris 
 (Amphi Jacques-Louis Lions les 1 et 2 juin)
 
