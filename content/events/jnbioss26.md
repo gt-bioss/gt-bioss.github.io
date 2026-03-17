@@ -8,12 +8,12 @@ categories: "Manifestations"
 Lieu : Centre Inria de Paris 
 (Amphi Jacques-Louis Lions les 1 et 2 juin)
 
-Les journées annuelles sont un point de rassemblement important pour notre GT. Elles permettent un moment d'échange entre les chercheuses et chercheurs, débutant(e)s et confirmé(e)s, pour discuter sur nos avancées scientifiques récentes et les défis à aborder, à la frontière en informatique, mathématique, et biologie.
-Cette année encore, nous avons décidé de regrouper les évènements du GT Bioss (une journée et demi annuelle et une demi-journées thématiques) en une seule période. Ainsi, les journées annuelles seront suivies par un atelier thématique, sur la modélisation multi-échelle. 
+Les journées annuelles sont un point de rassemblement important pour notre GT. Elles permettent un moment d'échange entre les chercheuses et chercheurs, débutant(e)s et confirmé(e)s, pour discuter sur nos avancées scientifiques récentes et les défis à aborder, à la frontière en informatique, mathématique et biologie.
+Cette année encore, nous avons décidé de regrouper les évènements du GT Bioss (une journée et demi annuelle et une demi-journée thématique) en une seule période. Ainsi, les journées annuelles seront suivies par un atelier thématique, sur la modélisation multiéchelle. 
 
 ## Inscription
 
-Merci d'utiliser ce [formulaire d'inscription](https://framaforms.org/journees-du-gt-bioss-2025-ateliers-1744015134). L&rsquo;inscription est gratuite mais obligatoire. Le repas du lundi midi est pris en charge, sous réserve d&rsquo;inscription. Les autres repas (lundi soir et mardi) sont à votre charge.</p>
+Merci d'utiliser ce [formulaire d'inscription](https://framaforms.org/journees-du-gt-bioss-2026-atelier-1771594486). L'inscription est gratuite, mais obligatoire. Le repas du lundi midi est pris en charge, sous réserve d'inscription. Les autres repas (lundi soir et mardi) sont à votre charge.</p>
 Les inscriptions sont closes. Pour rappel, le repas du lundi midi est pris en charge, sous réserve d'inscription. Les autres repas (lundi soir et mardi) sont à la charge des participants.
 
 ## Programme préliminaire
@@ -27,17 +27,20 @@ Exposés invités confirmés
 ### Journées annuelles 
 
 - Lundi 1 juin 
-*Amphithéâtre Jacques-Louis Lions, Centre Inria de Paris, 48 rue Barrault, Paris* - [Carte](https://www.openstreetmap.org/node/12127574547)
+  
+  *Amphithéâtre Jacques-Louis Lions, Centre Inria de Paris, 48 rue Barrault, Paris* - [Carte](https://www.openstreetmap.org/node/12127574547)
 
   - à définir 
 
 - Mardi 2 juin matin : journées annuelles 
-*Amphithéâtre Jacques-Louis Lions, Centre Inria de Paris, 48 rue Barrault, Paris* - [Carte](https://www.openstreetmap.org/node/12127574547)
+
+  *Amphithéâtre Jacques-Louis Lions, Centre Inria de Paris, 48 rue Barrault, Paris* - [Carte](https://www.openstreetmap.org/node/12127574547)
 
 ### atelier thématique (Modélisation multi-échelle) 
 
 - Mardi 2 juin après-midi 
-*Amphithéâtre Jacques-Louis Lions, Centre Inria de Paris, 48 rue Barrault, Paris* - [Carte](https://www.openstreetmap.org/node/12127574547)
+
+  *Amphithéâtre Jacques-Louis Lions, Centre Inria de Paris, 48 rue Barrault, Paris* - [Carte](https://www.openstreetmap.org/node/12127574547)
 
    - Exposé invité confirmé 
      **Matthieu Bouguéon** (UCL Cancer Institute)
