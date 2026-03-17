@@ -31,12 +31,13 @@ Exposés invités confirmés
   *Amphithéâtre Jacques-Louis Lions, Centre Inria de Paris, 48 rue Barrault, Paris* - [Carte](https://www.openstreetmap.org/node/12127574547)
 
   - à définir 
+  
 
 - Mardi 2 juin matin : journées annuelles 
 
   *Amphithéâtre Jacques-Louis Lions, Centre Inria de Paris, 48 rue Barrault, Paris* - [Carte](https://www.openstreetmap.org/node/12127574547)
 
-### atelier thématique (Modélisation multi-échelle) 
+### Atelier thématique (Modélisation multi-échelle) 
 
 - Mardi 2 juin après-midi 
 
