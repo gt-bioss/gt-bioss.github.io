@@ -1,3 +1,6 @@
+# Journées annuelles 2026 du GT Bioss
+Les **1 et 2 juin 2025** à **Paris**
+
 Lieu : Centre Inria de Paris 
 (Amphi Jacques-Louis Lions les 1 et 2 juin)
 
