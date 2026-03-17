@@ -5,9 +5,6 @@ summary: "Les **1 et 2 juin 2025** à **Paris**"
 categories: "Manifestations"
 ---
 
-"`r format(Sys.time(), '%d %B, %Y')`"
-
-"`r format(Sys.time(),%Y-%M-%D')`"
 Lieu : Centre Inria de Paris 
 (Amphi Jacques-Louis Lions les 1 et 2 juin)
 
