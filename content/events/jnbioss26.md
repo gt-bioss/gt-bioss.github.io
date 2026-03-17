@@ -43,6 +43,7 @@ Exposés invités confirmés
   *Amphithéâtre Jacques-Louis Lions, Centre Inria de Paris, 48 rue Barrault, Paris* - [Carte](https://www.openstreetmap.org/node/12127574547)
 
    - Exposé invité confirmé 
+  
      **Matthieu Bouguéon** (UCL Cancer Institute)
   
    - Table ronde 
