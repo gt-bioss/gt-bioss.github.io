@@ -1,5 +1,5 @@
 ---
-date: 2026-06-01 
+date: "`r format(Sys.time(), '%d %B, %Y')`"
 title: "Journées annuelles 2026 du GT Bioss"
 summary: "Les **1 et 2 juin 2025** à **Paris**"
 categories: "Manifestations"
@@ -14,6 +14,7 @@ Cette année encore, nous avons décidé de regrouper les évènements du GT Bio
 ## Inscription
 
 Merci d'utiliser ce [formulaire d'inscription](https://framaforms.org/journees-du-gt-bioss-2026-atelier-1771594486). L'inscription est gratuite, mais obligatoire. Le repas du lundi midi est pris en charge, sous réserve d'inscription. Les autres repas (lundi soir et mardi) sont à votre charge.
+
 
 ## Programme préliminaire
 
