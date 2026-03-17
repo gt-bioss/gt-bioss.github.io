@@ -13,8 +13,7 @@ Cette année encore, nous avons décidé de regrouper les évènements du GT Bio
 
 ## Inscription
 
-Merci d'utiliser ce [formulaire d'inscription](https://framaforms.org/journees-du-gt-bioss-2026-atelier-1771594486). L'inscription est gratuite, mais obligatoire. Le repas du lundi midi est pris en charge, sous réserve d'inscription. Les autres repas (lundi soir et mardi) sont à votre charge.</p>
-Les inscriptions sont closes. Pour rappel, le repas du lundi midi est pris en charge, sous réserve d'inscription. Les autres repas (lundi soir et mardi) sont à la charge des participants.
+Merci d'utiliser ce [formulaire d'inscription](https://framaforms.org/journees-du-gt-bioss-2026-atelier-1771594486). L'inscription est gratuite, mais obligatoire. Le repas du lundi midi est pris en charge, sous réserve d'inscription. Les autres repas (lundi soir et mardi) sont à votre charge.
 
 ## Programme préliminaire
 
