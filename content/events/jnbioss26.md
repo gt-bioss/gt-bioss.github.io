@@ -26,19 +26,20 @@ Exposés invités confirmés
 
 ### Journées annuelles 
 
-#### Lundi 1 juin 
+- Lundi 1 juin 
 *Amphithéâtre Jacques-Louis Lions, Centre Inria de Paris, 48 rue Barrault, Paris* - [Carte](https://www.openstreetmap.org/node/12127574547)
 
-- à définir 
+  - à définir 
 
-#### Mardi 2 juin matin : journées annuelles 
+- Mardi 2 juin matin : journées annuelles 
 *Amphithéâtre Jacques-Louis Lions, Centre Inria de Paris, 48 rue Barrault, Paris* - [Carte](https://www.openstreetmap.org/node/12127574547)
 
 ### atelier thématique (Modélisation multi-échelle) 
 
-### Mardi 2 juin après-midi 
+- Mardi 2 juin après-midi 
 *Amphithéâtre Jacques-Louis Lions, Centre Inria de Paris, 48 rue Barrault, Paris* - [Carte](https://www.openstreetmap.org/node/12127574547)
 
+  - à définir 
 
 ## Résumés (journées annuelles) / Abstracts (annual days)
 
