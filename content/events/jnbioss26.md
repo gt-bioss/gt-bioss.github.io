@@ -21,7 +21,7 @@ Les inscriptions sont closes. Pour rappel, le repas du lundi midi est pris en ch
 Le programme général se déroulera entre le lundi 1 juin et le mardi 2 juin (horaires à définir). Il offrira des exposés invités et contribués, ainsi qu'une demi-journée ateliers d'une demi-journée.
 
 Exposés invités confirmés
-- [Sylvain Soliman](https://lifeware.inria.fr/~soliman/) (INRIA, Paris-Saclay) 
+- **[Sylvain Soliman](https://lifeware.inria.fr/~soliman/)** (INRIA, Paris-Saclay) 
 - à confirmer 
 
 ### Journées annuelles 
@@ -39,7 +39,10 @@ Exposés invités confirmés
 - Mardi 2 juin après-midi 
 *Amphithéâtre Jacques-Louis Lions, Centre Inria de Paris, 48 rue Barrault, Paris* - [Carte](https://www.openstreetmap.org/node/12127574547)
 
-  - à définir 
+   - Exposé invité confirmé 
+     **Matthieu Bouguéon** (UCL Cancer Institute)
+  
+   - Table ronde 
 
 ## Résumés (journées annuelles) / Abstracts (annual days)
 
