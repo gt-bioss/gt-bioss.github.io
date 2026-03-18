@@ -19,7 +19,7 @@ Le programme général se déroulera entre le lundi 1 juin et le mardi 2 juin (h
 
 Exposés invités confirmés
 - **[Sylvain Soliman](https://lifeware.inria.fr/~soliman/)** (INRIA, Paris-Saclay) 
-- à confirmer 
+- **[Laurence Calzone](https://curie.fr/personne/laurence-calzone)** (Institut Curie)
 
 ### Journées annuelles 
 
@@ -47,6 +47,10 @@ Exposés invités confirmés
    - Table ronde 
 
 ## Résumés (journées annuelles) / Abstracts (annual days)
+
+### [Laurence Calzone](https://curie.fr/personne/laurence-calzone) (Institut Curie), *à définir* 
+
+à définir 
 
 ### [Sylvain Soliman](hhttps://lifeware.inria.fr/~soliman/) (INRIA, Paris Saclay), *Sensitivity analysis for Boolean networks* 
 common work with Ángela Garcinuño Feliciano
