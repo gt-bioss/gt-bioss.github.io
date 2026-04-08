@@ -27,26 +27,26 @@ Exposés invités confirmés
 
 ### Journées annuelles 
 
-- Lundi 1 juin 
+- Lundi 1 juin : de 10:00 à 17:30
   
   *Amphithéâtre Jacques-Louis Lions, Centre Inria de Paris, 48 rue Barrault, Paris* - [Carte](https://www.openstreetmap.org/node/12127574547)
 
-  - à définir 
+  - Programme à venir
   
 
-- Mardi 2 juin matin : journées annuelles 
+- Mardi 2 juin matin : de 9:30 à 12:30
 
   *Amphithéâtre Jacques-Louis Lions, Centre Inria de Paris, 48 rue Barrault, Paris* - [Carte](https://www.openstreetmap.org/node/12127574547)
+
+  - Programme à venir
 
 ### Atelier thématique (Modélisation multi-échelle) 
 
-- Mardi 2 juin après-midi 
+- Mardi 2 juin après-midi : de 14:00 à 17:00
 
   *Amphithéâtre Jacques-Louis Lions, Centre Inria de Paris, 48 rue Barrault, Paris* - [Carte](https://www.openstreetmap.org/node/12127574547)
 
-   - Exposé invité confirmé 
-  
-     **Matthieu Bouguéon** (UCL Cancer Institute)
+   - Exposé invité : **Matthieu Bouguéon** (UCL Cancer Institute)
   
    - Table ronde 
 
