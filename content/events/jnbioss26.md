@@ -95,9 +95,9 @@ This incremental analysis is available both in command line or in an electron ap
 
 ### Patricia Roxo (ENS Paris)
 
-*On the properties of 2-distance immediate neighbors of Boolean functions*   
+*On the properties of 2-distance immediate neighbors of monotonic non-degenerate Boolean functions*   
 
-### Leopold CARRON, Romain GRALL, Rayane Ayoub AIT ALLAOUA (L'Oréal)
+### Leopold Carron, Romain Grall, Rayane Ayoub Ait Allaoua (L'Oréal)
     
 *A computational knowledge graph pipeline for NAM-based risk assessment*
 
