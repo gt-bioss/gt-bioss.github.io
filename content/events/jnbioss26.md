@@ -85,11 +85,17 @@ Graph neural networks (GNNs) have emerged as a powerful framework for learning o
 
 ### Rebecca Ghidini (ENS Paris)
 
-TBA
+*Static analysis of Kappa models at edit time*
+
+Kappa offers a modeling environment to describe, simulate, and reason about rule-based models. It has been used to model protein-protein interaction networks, especially models of signaling pathways.
+To assist the modelers, it provides a static analyzer, KaSa, to assess the consistency of the models. While efficient, KaSa is sometimes too slow to reason while modifying large models, or when editing models within the user interface. Here we propose an incremental version that update the result of the current analysis at each model modifications.
+
+Our approach relies on the use of a relational analysis which approximate relationships between the rules of the model and the properties that they induce. Partial evaluation is used when some rules are removed from a model (since the corresponding rule is no longer present). Adding rules is done is classically by resuming the iterations of the analysis algorithm.
+This incremental analysis is available both in command line or in an electron app, and it evaluated on examples of the literature.
 
 ### Patricia Roxo (ENS Paris)
 
-TBA
+*On the properties of 2-distance immediate neighbors of Boolean functions*   
 
 ### Leopold CARRON, Romain GRALL, Rayane Ayoub AIT ALLAOUA (L'Oréal)
     
@@ -266,3 +272,23 @@ Evaluation on the repository of models BioModels shows that our conditions are s
 but are satisfied for a non§trivial subset of variables in presence of polymolecular reactions.
 Interestingly, we also show, using different methods, that the equality with the ODE solution also holds for a stochastic oscillator CRN implementing the sine and cosine functions of time,
 in presence of an absorbing state and of diverging trajectories which somehow compensate at all time points.
+
+### Mathieu Hemery (INRIA Saclay)
+
+*Reading a real number with Chemical Reaction Network (CRN)*
+
+
+The computation framework proposed by Fages et al. encodes the mathematical
+variables of a program in the concentration of chemical species. This allows for
+an elegant implementation of analog computing which have been proven by Bournez
+et al. to be Turing complete. It also means that if we want to "read" the result
+of our program, we have to measure accurately the concentration of a species,
+the value of which can be any real number.
+
+We propose here a CRN that takes a real number and a precision and produces a
+behavior allowing an observer to build a rational number approaching the input
+with the desired precision.
+
+In particular, we investigate how the precision depends on the different rates
+of the model and provide theoretical arguments to explain the fractal behavior
+of the measured error revealed by the numerical integration of the model.
