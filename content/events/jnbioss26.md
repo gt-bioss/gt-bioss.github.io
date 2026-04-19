@@ -95,7 +95,19 @@ This incremental analysis is available both in command line or in an electron ap
 
 ### Patricia Roxo (ENS Paris)
 
-*On the properties of 2-distance immediate neighbors of monotonic non-degenerate Boolean functions*   
+*On the properties of distance-2 immediate neighbors of monotone non-degenerate Boolean functions*
+
+The purpose of this talk is to showcase new results on the immediate vicinity of monotone non-degenerate Boolean functions.
+
+These functions are widely used in biological modeling, as they often suffice to recover the long-term behaviors of a system of interacting components by encoding only the nature of their interactions (e.g. positive/negative).
+
+When modeling, given the sheer number of Boolean functions available that capture the same interaction scheme, it can be of interest to consider the functions most closely related to a given candidate.
+
+Unfortunately, these nearest neighbors do not always properly live in the given dimensional space. To address this, we determine under what circumstances a function admits a distance-1 degenerate neighbor. These undesirable neighbors are often stepping stones to valid (and thus distance-2) neighbors, but not always. We will present a way to distinguish helpful distance-1 degenerate neighbors from unhelpful ones, as well as how to anticipate them when navigating through related monotone Boolean functions.
+
+By allowing degeneracy into our class of functions, we gain the advantage of working within a lattice structure. If these degenerate functions can be detected beforehand and excluded when necessary, then working over this larger class offers a simpler and more general framework for investigating how monotone Boolean functions are organized among themselves.
+
+In this talk, we examine how prevalent these “added” degenerate functions are, how they may be recognized and avoided when selecting a function to model a desired component of the system from among its closest related functions, and where this degeneracy comes from.
 
 ### Leopold Carron, Romain Grall, Rayane Ayoub Ait Allaoua (L'Oréal)
     
