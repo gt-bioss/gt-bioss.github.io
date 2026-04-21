@@ -34,7 +34,7 @@ Exposés invités confirmés
   - Programme à venir
   
 
-- Mardi 2 juin matin : de 9:30 à 12:30
+- Mardi 2 juin matin : de 9:00 à 12:30
 
   *Amphithéâtre Jacques-Louis Lions, Centre Inria de Paris, 48 rue Barrault, Paris* - [Carte](https://www.openstreetmap.org/node/12127574547)
 
