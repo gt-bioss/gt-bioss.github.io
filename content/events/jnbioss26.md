@@ -289,7 +289,6 @@ in presence of an absorbing state and of diverging trajectories which somehow co
 
 *Reading a real number with Chemical Reaction Network (CRN)*
 
-
 The computation framework proposed by Fages et al. encodes the mathematical
 variables of a program in the concentration of chemical species. This allows for
 an elegant implementation of analog computing which have been proven by Bournez
@@ -304,3 +303,14 @@ with the desired precision.
 In particular, we investigate how the precision depends on the different rates
 of the model and provide theoretical arguments to explain the fractal behavior
 of the measured error revealed by the numerical integration of the model.
+
+### Vincent Risch, Pierre Siegel (LIS, Aix Marseille Université)
+
+*On the formal representation of the robustness and resilience of a biological system*
+
+Systems biology studies the dynamic interactions among the components of a living system, and among living systems themselves. In particular, systems and their components are constituted in such a way as to live and survive with minimal effort (see Darwin). Here, we are specifically concerned with their robustness (resistance to a destructive attack) and their resilience (capacity for regeneration after a destructive attack). We explore these two properties based on the representation of a Biological System as an Abstract Argumentative Framework, and through the formal equivalence link that connects such a framework to Boolean Dynamic Networks. In particular, and in the context of a study of the two concerned properties, we attempt to associate both a measure of Inconsistency and a measure of Consistency with them. Daring to go further, can we say that the Biological System “argues” with its environment?
+
+Bibliography  
+P. Besnard, V. Risch. Consistency Measures, Inconsistency Measures, and Mix Measures (Preliminary Report). JIAF 2019.  
+Pierre Siegel, Andrei Doncescu, Vincent Risch, Sylvain Sené. Representation of gene regulation networks by hypothesis logic-based Boolean systems. J. Supercomput. 79(4). 2023.  
+Van-Giang Trinh, Belaid Benhamou, Vincent Risch. Graphical Analysis of Abstract Argumentation Frameworks via Boolean Networks
