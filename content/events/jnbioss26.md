@@ -13,13 +13,16 @@ Cette année encore, nous avons décidé de regrouper les évènements du GT Bio
 
 ## Inscription
 
-Merci d'utiliser ce [formulaire d'inscription](https://framaforms.org/journees-du-gt-bioss-2026-atelier-1771594486). L'inscription est gratuite, mais obligatoire. Le repas du lundi midi est pris en charge, sous réserve d'inscription. Les autres repas (lundi soir et mardi) sont à votre charge. <p>
+Les infscriptions sont closes.
 
-La date limite pour les inscriptions est le 3 avril. <p>
+Le repas du lundi midi est pris en charge, sous réserve d'inscription. Les autres repas (lundi soir et mardi) sont à votre charge.
 
-## Programme préliminaire
+## Programme
 
 Le programme général se déroulera entre le lundi 1 juin et le mardi 2 juin (horaires à définir). Il offrira des exposés invités et contribués, ainsi qu'une demi-journée ateliers d'une demi-journée.
+
+L'intégralité des Journées ainsi que l'atelier auront lieu :
+**Amphithéâtre Jacques-Louis Lions, Centre Inria de Paris, 48 rue Barrault, Paris** - [Carte](https://www.openstreetmap.org/node/12127574547)
 
 Exposés invités confirmés
 - **[Sylvain Soliman](https://lifeware.inria.fr/~soliman/)** (INRIA, Paris-Saclay) 
@@ -27,28 +30,40 @@ Exposés invités confirmés
 
 ### Journées annuelles 
 
-- Lundi 1 juin : de 10:00 à 17:30
-  
-  *Amphithéâtre Jacques-Louis Lions, Centre Inria de Paris, 48 rue Barrault, Paris* - [Carte](https://www.openstreetmap.org/node/12127574547)
-
-  - Programme à venir
-  
-
-- Mardi 2 juin matin : de 9:00 à 12:30
-
-  *Amphithéâtre Jacques-Louis Lions, Centre Inria de Paris, 48 rue Barrault, Paris* - [Carte](https://www.openstreetmap.org/node/12127574547)
-
-  - Programme à venir
-
-### Atelier thématique (Modélisation multi-échelle) 
-
-- Mardi 2 juin après-midi : de 14:00 à 17:00
-
-  *Amphithéâtre Jacques-Louis Lions, Centre Inria de Paris, 48 rue Barrault, Paris* - [Carte](https://www.openstreetmap.org/node/12127574547)
-
-   - Exposé invité : **Matthieu Bouguéon** (UCL Cancer Institute)
-  
-   - Table ronde 
+- Lundi 1er juin :
+    - Matin : 10:15 -- 12:30
+        - 10:00 -- 10:15 : (Accueil)
+        - 10:15 -- 11:15 : Exposé invité : **Sylvain Soliman** (INRIA, Paris Saclay), *Sensitivity analysis for Boolean networks*
+        - 11:15 -- 11:45 : (Pause)
+        - 11:30 -- 12:30 : Présentations
+            - **Rebecca Ghidini** (ENS Paris), *Static analysis of Kappa models at edit time*
+            - **Louison Crepin** (IBISC/Université Évry Paris Saclay), *Qualification Games: A Game-Theoretic Framework for Overcoming Drug Resistance*
+            - **Patricia Roxo** (ENS Paris), *On the properties of distance-2 immediate neighbors of monotone non-degenerate Boolean functions*
+    - Après-midi : 14:00 -- 17:00
+        - 14:00 -- 14:10 : Informations GT Bioss
+        - 14:10 -- 15:30 : Présentations
+            - **Salvish Goomanee** (Université Côte d’Azur), *Topology guided geometric diffusion from cellular graph sequences: Enhancing energy constrained models*
+            - **Juliette Audemard** (Université de Nantes, École Centrale Nantes), *Exploring strategies for prior knowledge integration into an inductive logic program framework*
+            - **Tony Ribeiro** (École Centrale de Nantes), *Static and Dynamic Counterfactual Explanations for Learning From Interpretation Transition*
+            - **Vincent Risch**, **Pierre Siegel** (LIS, Aix Marseille Université), *On the formal representation of the robustness and resilience of a biological system*
+        - 15:30 -- 16:00 : (Pause)
+        - 16:00 -- 17:00 : Présentations
+            - **Victoria Bruning** (Institut Curie), *Inference of cell-cell communication Boolean networks*
+            - **Charles Cazenave** (LaBRI), joint work with Xichen Zhang, Loïc Paulevé and Tristan Cazenave, *Efficient Search for Combinations of Mutations on Boolean Network Ensembles*
+            - **Theo Roncalli** (LaBRI), *scBridge: pipeline for Boolean network Reconstruction and Inference from multiple experimental Data in Gene Expression*
+- Mardi :
+    - Matin : 9:00 -- 12:15
+        - 9:00 -- 9:15 : (Accueil)
+        - 9:15 -- 10:15 : Invitée : **Laurence Calzone** (Institut Curie), *TBA*
+        - 10:15 -- 10:45 : (Pause)
+        - 10:45 -- 12:15 : Présentations
+            - **Leopold Carron, Romain Grall, Rayane Ayoub Ait Allaoua** (L’Oréal), *A computational knowledge graph pipeline for NAM-based risk assessment*
+            - **José-Américo NLF de Freitas** (Institut Mondor), *Dynamic modeling of the transcriptional regulatory network controlling cellular senescence*
+            - **Hélène Siboulet** (INRIA Saclay), *On the equality between differential and mean stochastic dynamics of chemical reaction networks with low numbers of molecules*,
+            - **Mathieu Hemery** (INRIA Saclay), *Reading a real number with Chemical Reaction Network (CRN)*
+    - Après-midi : 14:00 -- 17:00
+        - 14:00 -- 15:00 : **Matthieu Bouguéon** (UCL Cancer Institute)
+        - 15:00 -- 17:00 : Table ronde
 
 ## Résumés des exposés invités (journées annuelles) / Invited talk abstracts (annual days)
 
