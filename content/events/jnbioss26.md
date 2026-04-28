@@ -54,7 +54,7 @@ Exposés invités confirmés
 - Mardi :
     - Matin : 9:00 -- 12:15
         - 9:00 -- 9:15 : (Accueil)
-        - 9:15 -- 10:15 : Invitée : **Laurence Calzone** (Institut Curie), *TBA*
+        - 9:15 -- 10:15 : Invitée : **Laurence Calzone** (Institut Curie), *A Multiscale Agent-Based Model of the Tumor Microenvironment with Intracellular Boolean Dynamics*
         - 10:15 -- 10:45 : (Pause)
         - 10:45 -- 12:15 : Présentations
             - **Leopold Carron, Romain Grall, Rayane Ayoub Ait Allaoua** (L’Oréal), *A computational knowledge graph pipeline for NAM-based risk assessment*
@@ -69,7 +69,9 @@ Exposés invités confirmés
 
 ### [Laurence Calzone](https://curie.fr/personne/laurence-calzone) (Institut Curie)
 
-TBA
+*A Multiscale Agent-Based Model of the Tumor Microenvironment with Intracellular Boolean Dynamics*
+
+I will present a multiscale modeling framework of the tumor microenvironment that integrates intracellular signaling dynamics with cell population behavior. At the single-cell level, regulatory networks are modeled using stochastic Boolean dynamics through MaBoSS, capturing key decision-making processes. These intracellular models are embedded within an agent-based representation of cells using PhysiBoSS, enabling the coupling of molecular states to mechanical interactions and environmental cues. This hybrid approach allows us to investigate how cell-level regulatory logic influences tissue-scale dynamics. I will demonstrate some applications to cancer, including the study of tumor growth, show how we address heterogeneity, and predict response to perturbations. 
 
 ### [Sylvain Soliman](https://lifeware.inria.fr/~soliman/) (INRIA, Paris Saclay)
 
