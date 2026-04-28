@@ -92,12 +92,6 @@ published models.
 
 ## Résumés des exposés sur proposition (journées annuelles) / Contributed talk abstracts (annual days)
 
-### Salvish Goomanee (Université Côte d'Azur)
-
-*Topology guided geometric diffusion from cellular graph sequences: Enhancing energy constrained models*
-
-Graph neural networks (GNNs) have emerged as a powerful framework for learning on structured data, yet their theoretical properties and long-term stability under iterative graph evolution remain incompletely understood. In this work, we introduce a geometric, equivariant graph learning framework designed to emulate complex dynamical processes on evolving 3D geometric graphs. Our representation encodes interacting entities as nodes and their pairwise interactions as weighted edges, allowing continuous geometric information to be coupled with discrete topology. The model integrates geometric message passing with diffusion-based updates, enabling stable propagation of information while respecting symmetry constraints. This construction is motivated by recent theoretical results on information loss in GNNs, including analyses based on functional inequalities (Cheeger, Log-Sobolev & Poincaré) that quantify mixing, contraction, and oversmoothing phenomena in deep message passing networks. By incorporating geometric diffusion mechanisms and topology-aware attention, in the spirit of topology-constrained graph transformers, our framework mitigates representation collapse and maintains discriminative features across successive topological updates. More broadly, this work contributes to the mathematical understanding of information propagation, symmetry preservation, and stability in geometric graph learning, with potential implications for a wide range of applications involving dynamical systems on evolving networks.
-
 ### Rebecca Ghidini (ENS Paris)
 
 *Static analysis of Kappa models at edit time*
@@ -107,6 +101,20 @@ To assist the modelers, it provides a static analyzer, KaSa, to assess the consi
 
 Our approach relies on the use of a relational analysis which approximate relationships between the rules of the model and the properties that they induce. Partial evaluation is used when some rules are removed from a model (since the corresponding rule is no longer present). Adding rules is done is classically by resuming the iterations of the analysis algorithm.
 This incremental analysis is available both in command line or in an electron app, and it evaluated on examples of the literature.
+
+
+
+### Louison Crepin (IBISC/Université Évry Paris Saclay)
+    
+*Qualification Games: A Game-Theoretic Framework for Overcoming Drug Resistance*
+
+Drug resistance is a pervasive challenge across a vast spectrum of diseases, systematically undermining therapy efficacy and complicating clinical outcomes. Current approaches, largely reliant on empirical trial-and-error, fail to capture the inherently dynamic and adversarial interplay between treatment strategies and evolving resistance mechanisms. To address this issue, we introduce Qualification Games, a novel two-player game-theoretic framework where qualification predicates—formally defined as Boolean conditions— uniquely identify winning states for the physician (e.g., inducing apoptosis) or the disease (e.g., evading therapy).  
+This framework provides a rigorous formalism to model resistance by encoding its adversarial dynamics: the physician deploys interventions to enforce therapeutic success, while the disease adapts through mutations or phenotypic shifts. By leveraging reachability-based qualifications, our model systematically explores optimal strategies to overcome resistance in complex diseases.  
+Our framework integrates Boolean Control Networks (BCNs) to represent the biological system. In a qualification game, transitions are driven by therapeutic controls or disease adaptations. We formalize resistance as the discovery of a reachability winning region on this logical arena, allowing for the computation of optimal treatment sequences that maximize efficacy while preempting adaptive responses of the disease.  
+As a proof of concept, we apply Qualification Games to breast cancer, modeling the interplay between targeted therapies (e.g., pik3/akt inhibitors) and resistance emergence. Using biomarker-driven BCNs, we identify critical control nodes—such as ESR1 amplification or MAPK1 rewiring—that underpin resistance. Our results demonstrate the ability to predict minimal intervention sets (e.g., drug combinations) to enforce apoptosis while mitigating resistance risks.  
+Beyond oncology, this framework can be generalized to any system where resistance arises from dynamic interactions (e.g., antimicrobial resistance, chronic diseases). By unifying game theory, BCNs, and dynamical systems, Qualification Games offers a scalable framework for designing adaptive, precision treatment strategies.
+
+
 
 ### Patricia Roxo (ENS Paris)
 
@@ -124,25 +132,15 @@ By allowing degeneracy into our class of functions, we gain the advantage of wor
 
 In this talk, we examine how prevalent these “added” degenerate functions are, how they may be recognized and avoided when selecting a function to model a desired component of the system from among its closest related functions, and where this degeneracy comes from.
 
-### Leopold Carron, Romain Grall, Rayane Ayoub Ait Allaoua (L'Oréal)
-    
-*A computational knowledge graph pipeline for NAM-based risk assessment*
 
-The transition toward New Approach Methodologies (NAMs) for chemical risk assessment, particularly in Developmental and Reproductive Toxicology (DART), demands frameworks capable of integrating heterogeneous biological knowledge. Two major initiatives structure this space: the Adverse Outcome Pathway (AOP) framework — maintained as a community-driven resource via the AOPWiki (OECD) — scaffolding causal chains from Molecular Initiating Events through Key Events (KEs) to Adverse Outcomes; and the ONTOX consortium (EU, Horizon 2020) physiological maps, enriching KEs with molecular interaction context to enable mechanistic hypothesis generation.  
-Knowledge Graphs (KGs) represent a promising paradigm for structuring and querying such heterogeneous knowledge. We present a Toxicology Knowledge Graph (TKG) implemented as a Labeled Property Graph (LPG) in Neo4j [1], integrating the AOPWiki XML dump, ONTOX physiological maps, and biological entities retrieved via the Ontology Lookup Service (OLS4) across 10 ontologies and controlled vocabularies (GO, UBERON, NCIT, MeSH, et al.). The objective of TKG development is to enable outcome-agnostic biomarker identification, testing strategy construction, and chemical biological behavior prediction, with a primary focus on DART.  
-However, the heterogeneous curation depth of these resources — including incomplete FAIR-compatible annotations — results in sparse gene-to-KE associations. While AOPWikiRDF [2] provides PRO-based gene-KE mappings, many KEs remain unannotated, constraining graph traversal and biomarker extraction.  
-Building upon the PRO-based approach of AOPWikiRDF, an improved rule-based lexical entity recognition step was applied to KE titles — involving text normalization, punctuation handling, and lexicon-based gene entity matching — exploiting the concise structure of KE titles to yield high-confidence associations and reduce false positives observed with description-level annotation.  
-Validation across a reproductive toxicity use case demonstrated robust AOP retrieval: a ground truth of 47 relevant AOPs was constructed through combined expert curation and systematic literature mining over the human/unspecified AOP space (n=388). Non-specialist seed-term querying achieved 52% precision, 83% recall and 88.7% accuracy. Title-level lexical enrichment independently annotated 73 previously unannotated KEs while confirming 42% of existing expert KE-gene associations, outperforming description-level annotation in precision.  
-These results establish the TKG as a scalable, semantically interoperable platform for hypothesis-driven DART risk assessment. Future work will focus on integrating developmental stage ontologies to enable stage-spanning predictions and finer-grained testing strategy construction across embryonic and postnatal exposure windows.
 
-[1] InSilicoVida Research Lab. AOPWiki Explorer. github.com/InSilicoVida-Research-Lab/AOPWiki_Explorer  
-[2] Martens M, Evelo CT, Willighagen EL. Appl In Vitro Toxicol. 2022;8(1):2–13. DOI: 10.1089/aivt.2021.0010 
+### Salvish Goomanee (Université Côte d'Azur)
 
-### Victoria Bruning (Institut Curie)
-  
-*Inference of cell-cell communication Boolean networks*
+*Topology guided geometric diffusion from cellular graph sequences: Enhancing energy constrained models*
 
-The presentation will introduce a Boolean network inference framework for reconstructing executable multicellular dynamical models of cell-cell communication from temporal ligand-receptor observations. Cell types are represented through receptor and ligand nodes linked by a bipartite structure, with pseudo-steady-state constraints encoding the timescale separation between fast receptor activation and slow ligand secretion. BoNesis exhaustively infers all Boolean networks consistent with the observed dynamical sequence, producing an ensemble that distinguishes constrained interactions from biologically redundant ones. The framework is validated on a two-cell toy model and scaled to a 50-node CLL tumor microenvironment model, recovering expected dynamics and generating coherent perturbation predictions.
+Graph neural networks (GNNs) have emerged as a powerful framework for learning on structured data, yet their theoretical properties and long-term stability under iterative graph evolution remain incompletely understood. In this work, we introduce a geometric, equivariant graph learning framework designed to emulate complex dynamical processes on evolving 3D geometric graphs. Our representation encodes interacting entities as nodes and their pairwise interactions as weighted edges, allowing continuous geometric information to be coupled with discrete topology. The model integrates geometric message passing with diffusion-based updates, enabling stable propagation of information while respecting symmetry constraints. This construction is motivated by recent theoretical results on information loss in GNNs, including analyses based on functional inequalities (Cheeger, Log-Sobolev & Poincaré) that quantify mixing, contraction, and oversmoothing phenomena in deep message passing networks. By incorporating geometric diffusion mechanisms and topology-aware attention, in the spirit of topology-constrained graph transformers, our framework mitigates representation collapse and maintains discriminative features across successive topological updates. More broadly, this work contributes to the mathematical understanding of information propagation, symmetry preservation, and stability in geometric graph learning, with potential implications for a wide range of applications involving dynamical systems on evolving networks.
+
+
 
 ### Juliette Audemard (Université de Nantes, École Centrale Nantes)
   
@@ -224,6 +222,8 @@ Learning, November 2021.
 In Michael Gelfond, Nicola Leone, and Gerald Pfeifer, editors, Logic Programming and
 Nonmonotonic Reasoning, pages 147–161, Berlin, Heidelberg, 1999. Springer.
 
+
+
 ### Tony Ribeiro (École Centrale de Nantes)
 
 *Static and Dynamic Counterfactual Explanations for Learning From Interpretation Transition*
@@ -234,11 +234,28 @@ Static Systems (e.g., Diagnostics & Classification): We introduce CELOS, an effi
 Dynamic Systems (e.g., Gene Regulatory Networks): We formalize counterfactual reasoning as a dynamic navigation problem. For deterministic dynamics, finding a minimal explanation is equivalent to discovering the shortest path within a state-transition graph. For non-deterministic dynamics, we focus on guaranteeing the reachability of a desired goal state by pruning transitions based on system rules and user controls.  
 By providing a rigorous foundation for answering "what-if" queries, this work offers a path toward identifying optimal intervention strategies in complex, discrete systems.
 
-### José-Américo NLF de Freitas (Institut Mondor)
 
-*Dynamic modeling of the transcriptional regulatory network controlling cellular senescence*
 
-Cellular senescence (CS) is a complex cellular stress response associated with various age-related diseases, such as diabetes, cancer, and Alzheimer's disease. The phenotypic shift of cells undergoing senescence results from profound and dynamic changes in the epigenetic and transcriptomic landscape, coordinated by a hierarchical network of transcription factors. In order to decipher the gene regulatory network that implements changes in the cell's state and identity during CS, we leverage the comprehensive scRNA-seq atlas Tabula Sapiens and RNA velocity inference tools to build a mathematical model with non-linear differential equations that mimic the transcriptome evolution of senescent cells. We simulate in silico temporal gene expression profiles from initial conditions corresponding to senescent and non-senescent lung fibroblasts. The senescence status of a cell is defined according to gene expression levels of CS markers, defined in gene lists such as SenMayo or the SASP Atlas. We employ model interpretability tools, such as Local Interpretable Model-Agnostic Explanations (LIME), to inform us about the regulators with highest weights for a given target, at a specific point in their transcriptomic trajectory. By characterizing non-linear interactions, our model accounts for regulatory interactions dependent on cell identity. Furthermore, we have identified cells expressing CS-associated markers in the Tabula Sapiens dataset, which underscores the physiological relevance of CS and shows that our model can accurately portray the transcriptional dynamics of senescent cells. Ultimately, we will be able to quantify cellular senescence dynamics, identifying actionable targets with therapeutic applications and alleviating the detrimental impact of senescent cells on aging and age-related diseases to prolong healthspan.
+### Vincent Risch, Pierre Siegel (LIS, Aix Marseille Université)
+
+*On the formal representation of the robustness and resilience of a biological system*
+
+Systems biology studies the dynamic interactions among the components of a living system, and among living systems themselves. In particular, systems and their components are constituted in such a way as to live and survive with minimal effort (see Darwin). Here, we are specifically concerned with their robustness (resistance to a destructive attack) and their resilience (capacity for regeneration after a destructive attack). We explore these two properties based on the representation of a Biological System as an Abstract Argumentative Framework, and through the formal equivalence link that connects such a framework to Boolean Dynamic Networks. In particular, and in the context of a study of the two concerned properties, we attempt to associate both a measure of Inconsistency and a measure of Consistency with them. Daring to go further, can we say that the Biological System “argues” with its environment?
+
+Bibliography  
+P. Besnard, V. Risch. Consistency Measures, Inconsistency Measures, and Mix Measures (Preliminary Report). JIAF 2019.  
+Pierre Siegel, Andrei Doncescu, Vincent Risch, Sylvain Sené. Representation of gene regulation networks by hypothesis logic-based Boolean systems. J. Supercomput. 79(4). 2023.  
+Van-Giang Trinh, Belaid Benhamou, Vincent Risch. Graphical Analysis of Abstract Argumentation Frameworks via Boolean Networks
+
+
+
+### Victoria Bruning (Institut Curie)
+  
+*Inference of cell-cell communication Boolean networks*
+
+The presentation will introduce a Boolean network inference framework for reconstructing executable multicellular dynamical models of cell-cell communication from temporal ligand-receptor observations. Cell types are represented through receptor and ligand nodes linked by a bipartite structure, with pseudo-steady-state constraints encoding the timescale separation between fast receptor activation and slow ligand secretion. BoNesis exhaustively infers all Boolean networks consistent with the observed dynamical sequence, producing an ensemble that distinguishes constrained interactions from biologically redundant ones. The framework is validated on a two-cell toy model and scaled to a 50-node CLL tumor microenvironment model, recovering expected dynamics and generating coherent perturbation predictions.
+
+
 
 ### Charles Cazenave (LaBRI)
 
@@ -262,6 +279,8 @@ algorithms on different ensemble of Boolean networks coming from
 biological applications, showing BILNMCS efficiency on realistic case
 studies.
 
+
+
 ### Theo Roncalli (LaBRI)
 
 *scBridge: pipeline for Boolean network Reconstruction and Inference from multiple experimental Data in Gene Expression*
@@ -269,15 +288,31 @@ studies.
 Predictive logical models have redefined the study of biomedical challenges, by facilitating
 the identification of regulatory mechanisms driving biological processes. Yet, their construction remains non-trivial, as it typically relies on extensive prior biological knowledge at the genome scale. The emergence of single-cell transcriptomic assays has enabled new alternatives for model reconstruction by supporting data-driven approaches, thereby reducing reliance on prior knowledge. However, state-of-the-art methods remain limited, as they struggle to address poorly characterized biological contexts, rely on insufficiently automated workflows, and fail to exploit datasets from heterogeneous biological experiments. To overcome these challenges, we introduce scBridge, a novel semi-automated workflow for the data-driven reconstruction of logical models that enables multi-condition data integration.
 
-### Louison Crepin (IBISC/Université Évry Paris Saclay)
-    
-*Qualification Games: A Game-Theoretic Framework for Overcoming Drug Resistance*
 
-Drug resistance is a pervasive challenge across a vast spectrum of diseases, systematically undermining therapy efficacy and complicating clinical outcomes. Current approaches, largely reliant on empirical trial-and-error, fail to capture the inherently dynamic and adversarial interplay between treatment strategies and evolving resistance mechanisms. To address this issue, we introduce Qualification Games, a novel two-player game-theoretic framework where qualification predicates—formally defined as Boolean conditions— uniquely identify winning states for the physician (e.g., inducing apoptosis) or the disease (e.g., evading therapy).  
-This framework provides a rigorous formalism to model resistance by encoding its adversarial dynamics: the physician deploys interventions to enforce therapeutic success, while the disease adapts through mutations or phenotypic shifts. By leveraging reachability-based qualifications, our model systematically explores optimal strategies to overcome resistance in complex diseases.  
-Our framework integrates Boolean Control Networks (BCNs) to represent the biological system. In a qualification game, transitions are driven by therapeutic controls or disease adaptations. We formalize resistance as the discovery of a reachability winning region on this logical arena, allowing for the computation of optimal treatment sequences that maximize efficacy while preempting adaptive responses of the disease.  
-As a proof of concept, we apply Qualification Games to breast cancer, modeling the interplay between targeted therapies (e.g., pik3/akt inhibitors) and resistance emergence. Using biomarker-driven BCNs, we identify critical control nodes—such as ESR1 amplification or MAPK1 rewiring—that underpin resistance. Our results demonstrate the ability to predict minimal intervention sets (e.g., drug combinations) to enforce apoptosis while mitigating resistance risks.  
-Beyond oncology, this framework can be generalized to any system where resistance arises from dynamic interactions (e.g., antimicrobial resistance, chronic diseases). By unifying game theory, BCNs, and dynamical systems, Qualification Games offers a scalable framework for designing adaptive, precision treatment strategies.
+
+### Leopold Carron, Romain Grall, Rayane Ayoub Ait Allaoua (L'Oréal)
+    
+*A computational knowledge graph pipeline for NAM-based risk assessment*
+
+The transition toward New Approach Methodologies (NAMs) for chemical risk assessment, particularly in Developmental and Reproductive Toxicology (DART), demands frameworks capable of integrating heterogeneous biological knowledge. Two major initiatives structure this space: the Adverse Outcome Pathway (AOP) framework — maintained as a community-driven resource via the AOPWiki (OECD) — scaffolding causal chains from Molecular Initiating Events through Key Events (KEs) to Adverse Outcomes; and the ONTOX consortium (EU, Horizon 2020) physiological maps, enriching KEs with molecular interaction context to enable mechanistic hypothesis generation.  
+Knowledge Graphs (KGs) represent a promising paradigm for structuring and querying such heterogeneous knowledge. We present a Toxicology Knowledge Graph (TKG) implemented as a Labeled Property Graph (LPG) in Neo4j [1], integrating the AOPWiki XML dump, ONTOX physiological maps, and biological entities retrieved via the Ontology Lookup Service (OLS4) across 10 ontologies and controlled vocabularies (GO, UBERON, NCIT, MeSH, et al.). The objective of TKG development is to enable outcome-agnostic biomarker identification, testing strategy construction, and chemical biological behavior prediction, with a primary focus on DART.  
+However, the heterogeneous curation depth of these resources — including incomplete FAIR-compatible annotations — results in sparse gene-to-KE associations. While AOPWikiRDF [2] provides PRO-based gene-KE mappings, many KEs remain unannotated, constraining graph traversal and biomarker extraction.  
+Building upon the PRO-based approach of AOPWikiRDF, an improved rule-based lexical entity recognition step was applied to KE titles — involving text normalization, punctuation handling, and lexicon-based gene entity matching — exploiting the concise structure of KE titles to yield high-confidence associations and reduce false positives observed with description-level annotation.  
+Validation across a reproductive toxicity use case demonstrated robust AOP retrieval: a ground truth of 47 relevant AOPs was constructed through combined expert curation and systematic literature mining over the human/unspecified AOP space (n=388). Non-specialist seed-term querying achieved 52% precision, 83% recall and 88.7% accuracy. Title-level lexical enrichment independently annotated 73 previously unannotated KEs while confirming 42% of existing expert KE-gene associations, outperforming description-level annotation in precision.  
+These results establish the TKG as a scalable, semantically interoperable platform for hypothesis-driven DART risk assessment. Future work will focus on integrating developmental stage ontologies to enable stage-spanning predictions and finer-grained testing strategy construction across embryonic and postnatal exposure windows.
+
+[1] InSilicoVida Research Lab. AOPWiki Explorer. github.com/InSilicoVida-Research-Lab/AOPWiki_Explorer  
+[2] Martens M, Evelo CT, Willighagen EL. Appl In Vitro Toxicol. 2022;8(1):2–13. DOI: 10.1089/aivt.2021.0010 
+
+
+
+### José-Américo NLF de Freitas (Institut Mondor)
+
+*Dynamic modeling of the transcriptional regulatory network controlling cellular senescence*
+
+Cellular senescence (CS) is a complex cellular stress response associated with various age-related diseases, such as diabetes, cancer, and Alzheimer's disease. The phenotypic shift of cells undergoing senescence results from profound and dynamic changes in the epigenetic and transcriptomic landscape, coordinated by a hierarchical network of transcription factors. In order to decipher the gene regulatory network that implements changes in the cell's state and identity during CS, we leverage the comprehensive scRNA-seq atlas Tabula Sapiens and RNA velocity inference tools to build a mathematical model with non-linear differential equations that mimic the transcriptome evolution of senescent cells. We simulate in silico temporal gene expression profiles from initial conditions corresponding to senescent and non-senescent lung fibroblasts. The senescence status of a cell is defined according to gene expression levels of CS markers, defined in gene lists such as SenMayo or the SASP Atlas. We employ model interpretability tools, such as Local Interpretable Model-Agnostic Explanations (LIME), to inform us about the regulators with highest weights for a given target, at a specific point in their transcriptomic trajectory. By characterizing non-linear interactions, our model accounts for regulatory interactions dependent on cell identity. Furthermore, we have identified cells expressing CS-associated markers in the Tabula Sapiens dataset, which underscores the physiological relevance of CS and shows that our model can accurately portray the transcriptional dynamics of senescent cells. Ultimately, we will be able to quantify cellular senescence dynamics, identifying actionable targets with therapeutic applications and alleviating the detrimental impact of senescent cells on aging and age-related diseases to prolong healthspan.
+
+
 
 ### Hélène Siboulet (INRIA Saclay)
    
@@ -300,6 +335,8 @@ but are satisfied for a non§trivial subset of variables in presence of polymole
 Interestingly, we also show, using different methods, that the equality with the ODE solution also holds for a stochastic oscillator CRN implementing the sine and cosine functions of time,
 in presence of an absorbing state and of diverging trajectories which somehow compensate at all time points.
 
+
+
 ### Mathieu Hemery (INRIA Saclay)
 
 *Reading a real number with Chemical Reaction Network (CRN)*
@@ -318,14 +355,3 @@ with the desired precision.
 In particular, we investigate how the precision depends on the different rates
 of the model and provide theoretical arguments to explain the fractal behavior
 of the measured error revealed by the numerical integration of the model.
-
-### Vincent Risch, Pierre Siegel (LIS, Aix Marseille Université)
-
-*On the formal representation of the robustness and resilience of a biological system*
-
-Systems biology studies the dynamic interactions among the components of a living system, and among living systems themselves. In particular, systems and their components are constituted in such a way as to live and survive with minimal effort (see Darwin). Here, we are specifically concerned with their robustness (resistance to a destructive attack) and their resilience (capacity for regeneration after a destructive attack). We explore these two properties based on the representation of a Biological System as an Abstract Argumentative Framework, and through the formal equivalence link that connects such a framework to Boolean Dynamic Networks. In particular, and in the context of a study of the two concerned properties, we attempt to associate both a measure of Inconsistency and a measure of Consistency with them. Daring to go further, can we say that the Biological System “argues” with its environment?
-
-Bibliography  
-P. Besnard, V. Risch. Consistency Measures, Inconsistency Measures, and Mix Measures (Preliminary Report). JIAF 2019.  
-Pierre Siegel, Andrei Doncescu, Vincent Risch, Sylvain Sené. Representation of gene regulation networks by hypothesis logic-based Boolean systems. J. Supercomput. 79(4). 2023.  
-Van-Giang Trinh, Belaid Benhamou, Vincent Risch. Graphical Analysis of Abstract Argumentation Frameworks via Boolean Networks
