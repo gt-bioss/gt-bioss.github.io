@@ -5,11 +5,14 @@ summary: "Les **1 et 2 juin 2025** à **Paris**"
 categories: "Manifestations"
 ---
 
-Lieu : Centre Inria de Paris 
-(Amphi Jacques-Louis Lions les 1 et 2 juin)
-
 Les journées annuelles sont un point de rassemblement important pour notre GT. Elles permettent un moment d'échange entre les chercheuses et chercheurs, débutant(e)s et confirmé(e)s, pour discuter sur nos avancées scientifiques récentes et les défis à aborder, à la frontière en informatique, mathématique et biologie.
 Cette année encore, nous avons décidé de regrouper les évènements du GT Bioss (une journée et demi annuelle et une demi-journée thématique) en une seule période. Ainsi, les journées annuelles seront suivies par un atelier thématique, sur la modélisation multiéchelle. 
+
+## Lieu
+
+**Amphithéâtre Jacques-Louis Lions, Centre Inria de Paris**  
+**48 rue Barrault, Paris**  
+[Carte](https://www.openstreetmap.org/node/12127574547)
 
 ## Inscription
 
@@ -20,9 +23,6 @@ Le repas du lundi midi est pris en charge, sous réserve d'inscription. Les autr
 ## Programme
 
 Le programme général se déroulera entre le lundi 1 juin et le mardi 2 juin (horaires à définir). Il offrira des exposés invités et contribués, ainsi qu'une demi-journée ateliers d'une demi-journée.
-
-L'intégralité des Journées ainsi que l'atelier auront lieu :
-**Amphithéâtre Jacques-Louis Lions, Centre Inria de Paris, 48 rue Barrault, Paris** - [Carte](https://www.openstreetmap.org/node/12127574547)
 
 Exposés invités confirmés
 - **[Sylvain Soliman](https://lifeware.inria.fr/~soliman/)** (INRIA, Paris-Saclay) 
