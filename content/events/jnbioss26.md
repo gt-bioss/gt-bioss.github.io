@@ -31,7 +31,7 @@ Exposés invités confirmés
 ### Journées annuelles 
 
 - Lundi 1er juin :
-    - Matin : 10:15 -- 12:30
+    - Matin : 10:00 -- 12:30
         - 10:00 -- 10:15 : (Accueil)
         - 10:15 -- 11:15 : Exposé invité : **Sylvain Soliman** (INRIA, Paris Saclay), *Sensitivity analysis for Boolean networks*
         - 11:15 -- 11:45 : (Pause)
