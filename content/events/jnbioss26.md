@@ -37,7 +37,7 @@ Exposés invités confirmés
         - 11:15 -- 11:45 : (Pause)
         - 11:30 -- 12:30 : Présentations
             - **Rebecca Ghidini** (ENS Paris), *Static analysis of Kappa models at edit time*
-            - **Louison Crepin** (IBISC/Université Évry Paris Saclay), *Qualification Games: A Game-Theoretic Framework for Overcoming Drug Resistance*
+            - **Leopold Carron, Romain Grall, Rayane Ayoub Ait Allaoua** (L’Oréal), *A computational knowledge graph pipeline for NAM-based risk assessment*
             - **Patricia Roxo** (ENS Paris), *On the properties of distance-2 immediate neighbors of monotone non-degenerate Boolean functions*
     - Après-midi : 14:00 -- 17:00
         - 14:00 -- 14:10 : Informations GT Bioss
@@ -56,8 +56,8 @@ Exposés invités confirmés
         - 9:00 -- 9:15 : (Accueil)
         - 9:15 -- 10:15 : Invitée : **Laurence Calzone** (Institut Curie), *A Multiscale Agent-Based Model of the Tumor Microenvironment with Intracellular Boolean Dynamics*
         - 10:15 -- 10:45 : (Pause)
-        - 10:45 -- 12:15 : Présentations
-            - **Leopold Carron, Romain Grall, Rayane Ayoub Ait Allaoua** (L’Oréal), *A computational knowledge graph pipeline for NAM-based risk assessment*
+        - 10:45 -- 12:05 : Présentations
+            - **Louison Crepin** (IBISC/Université Évry Paris Saclay), *Qualification Games: A Game-Theoretic Framework for Overcoming Drug Resistance*
             - **José-Américo NLF de Freitas** (Institut Mondor), *Dynamic modeling of the transcriptional regulatory network controlling cellular senescence*
             - **Hélène Siboulet** (INRIA Saclay), *On the equality between differential and mean stochastic dynamics of chemical reaction networks with low numbers of molecules*,
             - **Mathieu Hemery** (INRIA Saclay), *Reading a real number with Chemical Reaction Network (CRN)*
