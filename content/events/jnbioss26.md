@@ -293,6 +293,8 @@ the identification of regulatory mechanisms driving biological processes. Yet, t
 
 
 ### Leopold Carron, Romain Grall, Rayane Ayoub Ait Allaoua (L'Oréal)
+
+(Joint work with Olivier Dameron, Anne Siegel, and Emmanuelle Becker)
     
 *A computational knowledge graph pipeline for NAM-based risk assessment*
 
