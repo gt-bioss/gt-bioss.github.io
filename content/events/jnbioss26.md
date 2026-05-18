@@ -37,7 +37,7 @@ Exposés invités confirmés
         - 11:15 -- 11:45 : (Pause)
         - 11:30 -- 12:30 : Présentations
             - **Rebecca Ghidini** (ENS Paris), *Static analysis of Kappa models at edit time*
-            - **Rayane Ayoub Ait Allaoua** (L'Oréal), **Olivier Dameron** (IRISA), *A computational knowledge graph pipeline for NAM-based risk assessment*
+            - **Rayane Ayoub Ait Allaoua** (L'Oréal, joint work with IRISA), *A computational knowledge graph pipeline for NAM-based risk assessment*
             - **Patricia Roxo** (ENS Paris), *On the properties of distance-2 immediate neighbors of monotone non-degenerate Boolean functions*
     - Après-midi : 14:00 -- 17:00
         - 14:00 -- 14:10 : Informations GT Bioss
@@ -292,9 +292,9 @@ the identification of regulatory mechanisms driving biological processes. Yet, t
 
 
 
-### Rayane Ayoub Ait Allaoua (L'Oréal), Olivier Dameron (IRISA)
+### Rayane Ayoub Ait Allaoua (L'Oréal)
 
-(Joint work with Kahina Abed, Emmanuelle Becker, Leopold Carron, Romain Grall, and Anne Siegel)
+(Joint work with Kahina Abed, Emmanuelle Becker, Leopold Carron, Olivier Dameron, Romain Grall, and Anne Siegel)
     
 *A computational knowledge graph pipeline for NAM-based risk assessment*
 
