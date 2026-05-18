@@ -294,7 +294,7 @@ the identification of regulatory mechanisms driving biological processes. Yet, t
 
 ### Rayane Ayoub Ait Allaoua (L'Oréal), Olivier Dameron (IRISA)
 
-(Joint work with Leopold Carron, Romain Grall, Anne Siegel, and Emmanuelle Becker)
+(Joint work with Kahina Abed, Emmanuelle Becker, Leopold Carron, Romain Grall, and Anne Siegel)
     
 *A computational knowledge graph pipeline for NAM-based risk assessment*
 
