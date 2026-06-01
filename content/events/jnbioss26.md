@@ -35,7 +35,7 @@ Exposés invités confirmés
         - 10:00 -- 10:15 : (Accueil)
         - 10:15 -- 11:15 : Exposé invité : **Sylvain Soliman** (INRIA, Paris Saclay), *Sensitivity analysis for Boolean networks*
         - 11:15 -- 11:45 : (Pause)
-        - 11:30 -- 12:30 : Présentations
+        - 11:45 -- 12:45 : Présentations
             - **Rebecca Ghidini** (ENS Paris), *Static analysis of Kappa models at edit time*
             - **Rayane Ayoub Ait Allaoua** (L'Oréal, joint work with IRISA), *A computational knowledge graph pipeline for NAM-based risk assessment*
             - **Patricia Roxo** (ENS Paris), *On the properties of distance-2 immediate neighbors of monotone non-degenerate Boolean functions*
