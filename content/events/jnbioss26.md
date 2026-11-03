@@ -1,7 +1,7 @@
 ---
 date: 2026-04-09
 title: "Journées annuelles 2026 du GT Bioss"
-summary: "Les **1 et 2 juin 2025** à **Paris**"
+summary: "Les **1 et 2 juin 2026** à **Paris**"
 categories: "Manifestations"
 ---
 
