@@ -22,7 +22,7 @@ Le repas du lundi midi est pris en charge, sous réserve d'inscription. Les autr
 
 ## Programme
 
-Le programme général se déroulera entre le lundi 1 juin et le mardi 2 juin (horaires à définir). Il offrira des exposés invités et contribués, ainsi qu'une demi-journée ateliers d'une demi-journée.
+Le programme général se déroulera entre le lundi 1 juin et le mardi 2 juin. Il offrira des exposés invités et contribués, ainsi qu'une demi-journée ateliers d'une demi-journée.
 
 Exposés invités confirmés
 - **[Sylvain Soliman](https://lifeware.inria.fr/~soliman/)** (INRIA, Paris-Saclay) 
