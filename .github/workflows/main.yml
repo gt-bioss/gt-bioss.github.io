@@ -1,7 +1,5 @@
 name: github pages
 
-env: ACTIONS_ALLOW_USE_UNSECURE_NODE_VERSION=true
-
 on:
   push:
     branches:
@@ -10,6 +8,8 @@ on:
 
 jobs:
   deploy:
+    env:
+      ACTIONS_ALLOW_USE_UNSECURE_NODE_VERSION: true
     runs-on: ubuntu-latest
     concurrency:
       group: ${{ github.workflow }}-${{ github.ref }}
